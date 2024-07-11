@@ -2,7 +2,7 @@ Time = 35 min\
 Servings = 2\
 Calories = 880 kcal per serving
 
-[Ingredients]{.underline}:
+[Ingredients]
 
 -   2 scallions, thin slice, separate whites from greens
 -   1 pepper (jalepeno or cubanella), deseeded and diced
@@ -17,7 +17,7 @@ Calories = 880 kcal per serving
 -   1 Tbsp butter
 -   salt/pepper to your taste
 
-[Directions]{.underline}:\
+[Directions]
 1. Preheat oven to 450F.
 
 2.  Heat drizzle of oil in pan over med-high heat. Saute pepper until softened, approx 4-5 min.

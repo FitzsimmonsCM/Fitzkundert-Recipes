@@ -8,7 +8,7 @@ Calories = 800 kcal per serving
 -   5 Tbsp white wine vinegar
 -   1 cucumber, shaved into ribbons
 -   4 oz carrots, shredded
--   10 oz 90/10 ground beef
+-   10 oz 90/10 ground beef (ground pork can substitute)
 -   1 Tbsp sesame seeds
 -   4 oz bulgogi sauce
 -   4 Tbsp sour cream
