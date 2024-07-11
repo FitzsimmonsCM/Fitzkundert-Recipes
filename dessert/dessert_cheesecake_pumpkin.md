@@ -1,8 +1,8 @@
-Time = 5 hr
-Servings = 1 cake
-Calories = unknown
-From: Amy Jacobson
-Notes: Wedding reception recipe
+Time = 5 hr \
+Servings = 1 cake \
+Calories = unknown \
+From: Amy Jacobson \
+Notes: Wedding reception recipe \
 
 [Ingredients]
 
@@ -14,7 +14,7 @@ Notes: Wedding reception recipe
 -  1 (12 oz) can pumpkin puree
 -  24 oz (3 boxes) cream cheese, softened and at room temperature
 
-[Directions]
+[Directions] \
 1.  Preheat oven to 350F
 
 2.  Butter an 8-inch round springform pan. Sprinkle bottom and sides with graham cracker crumbs. 
