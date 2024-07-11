@@ -2,7 +2,7 @@ Time = 5 hr \
 Servings = 1 cake \
 Calories = unknown \
 From: Amy Jacobson \
-Notes: Wedding reception recipe \
+Notes: Wedding reception recipe 
 
 [Ingredients]
 
