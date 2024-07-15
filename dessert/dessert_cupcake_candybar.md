@@ -1,7 +1,7 @@
 Time = 10 min prep + 18 min bake\
-Servings = approx 20 cupcakes
-Calories = unknown
-From: Aunt Gerry + Uncle Dan
+Servings = approx 20 cupcakes\
+Calories = unknown\
+From: Aunt Gerry + Uncle Dan\
 Notes: Wedding reception recipe
 
 [Ingredients]
@@ -14,6 +14,7 @@ Notes: Wedding reception recipe
 -  1 tub creamy Deluxe milk chocolate ready-spread frosting
 
 [Directions]
+
 1.  Preheat oven to 350F. Line muffin tin with paper baking cups. 
 
 2.  Finely chop candy bars to equal 1/4 cup. (Candy bars easier to cut if refrigerated first.)

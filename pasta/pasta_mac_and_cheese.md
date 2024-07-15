@@ -1,7 +1,7 @@
-Time = 15 min prep + 1 hour bake
-Servings = 4-6 people
-Calories = unknown
-From: Alex 
+Time = 15 min prep + 1 hour bake\
+Servings = 4-6 people\
+Calories = unknown\
+From: Alex \
 Notes: Wedding reception recipe
 
 [Ingredients]
@@ -13,8 +13,8 @@ Notes: Wedding reception recipe
 -  1 cup break crumbs, toasted
 -  1/4 cup (half stick) butter
 
-
 [Directions]
+
 1.  Preheat oven to 350F
 
 2.  Cook pasta according to package until al dente. Drain. 

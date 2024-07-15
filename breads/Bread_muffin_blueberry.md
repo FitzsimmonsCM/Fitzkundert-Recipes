@@ -1,7 +1,7 @@
 Time = 10 min prep + 18 min bake\
-Servings = 12 muffins
-Calories = unknown
-From: Aunt Gerry + Uncle Dan
+Servings = 12 muffins\
+Calories = unknown\
+From: Aunt Gerry + Uncle Dan\
 Notes: Wedding reception recipe
 
 [Ingredients]
@@ -17,6 +17,7 @@ Notes: Wedding reception recipe
 
 
 [Directions]
+
 1.  Preheat oven to 375F. Line muffin tin with baking liners. 
 
 2.  In large bowl, combine baking mix, oats, and 1/2 cup sugar. 

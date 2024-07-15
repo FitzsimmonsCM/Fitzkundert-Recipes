@@ -5,19 +5,20 @@ Calories = 880 kcal per serving
 [Ingredients]
 
 -   2 scallions, thin slice, separate whites from greens
--   1 pepper (jalepeno or cubanella), deseeded and diced
+-   1 pepper (jalapeno or cubanella), de-seeded and diced
 -   1 lime, quartered
 -   1 can (15 oz) low sodium black beans, drain + reserve liquid
 -   1 Tbsp southwest spice (taco spice or fajita spice can sub)
 -   7 oz red or green enchilada sauce
 -   6 flour tortillas
 -   2 Tbsp sour cream
--   1/2 cup mexican cheese blend
+-   1/2 cup Mexican cheese blend
 -   vegetable oil
 -   1 Tbsp butter
 -   salt/pepper to your taste
 
 [Directions]
+
 1. Preheat oven to 450F.
 
 2.  Heat drizzle of oil in pan over med-high heat. Saute pepper until softened, approx 4-5 min.

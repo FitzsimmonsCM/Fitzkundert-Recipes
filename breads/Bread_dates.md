@@ -1,7 +1,7 @@
 Time = 60 min\
-Servings = 2 loaves
-Calories = unknown
-From: Alex Schmiechen 
+Servings = 2 loaves\
+Calories = unknown\
+From: Alex Schmiechen\
 Notes: Wedding reception recipe
 
 [Ingredients]
@@ -16,8 +16,8 @@ Notes: Wedding reception recipe
 -   1 egg
 -   1 tsp vanilla extract
 
-
 [Directions]
+
 1. Preheat oven to 325F
 
 2. Finely chop dates and add to boiling water. Let stand for 20 min (water will no longer be boiling).

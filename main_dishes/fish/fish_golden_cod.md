@@ -1,7 +1,7 @@
 Time = 2 days + 60 min\
-Servings = 2 loaves
-Calories = unknown
-From: Pedro Batista
+Servings = 2 loaves\
+Calories = unknown\
+From: Pedro Batista\
 Notes: Wedding reception recipe
 
 [Ingredients]
@@ -16,6 +16,7 @@ Notes: Wedding reception recipe
 
 
 [Directions]
+
 1.  Let the cod soak in fresh water for 2 days (change the water frequently.) After 2 days, it is ok to freeze the cod for future use. 
 
 2.  Boil the cod until it is soft. Under cold water, remove skin and fish bones. Break the fish into small pieces
