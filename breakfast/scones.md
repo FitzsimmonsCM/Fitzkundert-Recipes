@@ -1,8 +1,8 @@
 Scones \
-Time = 10 min prep + 25 min cook \ 
-Servings = 6-8 scones \
-Calories = unknown  \
-From: Louise Goupil \
+Time = 10 min prep + 25 min cook\ 
+Servings = 6-8 scones\
+Calories = unknown\
+From: Louise Goupil\
 
 [Ingredients]
 - 2 cups all purpose flour
