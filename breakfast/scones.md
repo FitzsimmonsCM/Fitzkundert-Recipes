@@ -5,6 +5,7 @@ Calories = unknown\
 From: Louise Goupil
 
 [Ingredients]
+
 - 2 cups all purpose flour
 - 1 Tbsp baking powder
 - 3 Tbsp (45g) granulated sugar
@@ -29,6 +30,7 @@ From: Louise Goupil
 6. Bake for 25 min or until golden. Enjoy immediately! 
 
 [Notes]
+
 - On step 4, don't stress too much about correct fruit folding instructions. I've ignored this and it's turned out fine. 
 - Apricots were suggested by Louise in the original recipe
 - Blueberries work great in this recipe
