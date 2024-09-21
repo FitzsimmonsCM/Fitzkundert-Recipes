@@ -14,10 +14,10 @@ Notes: We love this!
 - 3/4 cup milk
 - 1/4 cup Monterey Jack cheese, shredded
 - 2 Tbsp sour cream
-- veggie stock concentrate
+- 2 tsp veggie stock concentrate
 - 2 Tbsp unsalted butter
 - 2 Tbsp cream cheese
-- old bay seasoning (to taste)
+- 1 tsp old bay seasoning (+ more to your taste)
 - salt and pepper (to taste)
 - rolls (garnish)
 
