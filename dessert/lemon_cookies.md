@@ -18,7 +18,7 @@
 - Small sauce pot
 - parchment paper
 - Cookie sheet
-- Wooden spoon / whisk 
+- Wooden spoon or whisk 
 - Stand mixer (optional)
 
 ***Directions***
@@ -48,8 +48,8 @@
 12. Allow cookies to finish "setting" on the cookie sheet for approx 3-4 min before transferring to a wire rack to cool completely. 
 
 13. Makes approx 25 cookies and the recipe doubles well! Store cookies in an air-tight container. 
-\
-\
+
+
 
 
 **I'm in a Hurry Lemon Crinkle Cookies**
@@ -62,7 +62,7 @@
 - large mixing bowl
 - baking sheet
 - parchment paper
-- Wooden spoon or whisk \
+- Wooden spoon or whisk 
 
 ***Directions***
 
@@ -82,4 +82,4 @@
 
 8. Makes approx 35-40 cookies. Store cookies in an airtight container. Best if eaten within 2-3 days. 
 
-9. You may substitute any flavor of cake mix (strawberry cake mix and orange cake mix make fun summer cookies, and vanilla cake mix is also very good with the cool whip!). 
+9. You may substitute any flavor of cake mix (strawberry or orange cake mix make fun summer cookie flavors, and vanilla cake mix is also very good with the cool whip!) 
