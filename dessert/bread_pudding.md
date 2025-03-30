@@ -1,7 +1,6 @@
 Bread Pudding with Whiskey Cream Sauce \
-Time = 30 min prep + 8 hour cook \
+Time = 15 min prep + 40 min cook \
 Servings = 4-6 people \
-From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-lentil-soup-with-sausage-and-apples) \
 Calories = unknown 
 
 **Bread Pudding Ingredients**
