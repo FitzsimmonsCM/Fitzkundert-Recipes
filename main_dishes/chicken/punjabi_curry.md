@@ -9,9 +9,9 @@ From = Needhi Bhalla (UCSC)
 -  1 medium yellow onion
 -  6-8 cloves chopped garlic
 -  vegetable oil
--  1.5 tsp ground tumeric
+-  1.5 tsp ground turmeric
 -  1.5 tsp ground coriander
--  1.5 tsp gorund cumin
+-  1.5 tsp ground cumin
 -  optional (1/4 to 1 tsp chili pepper depending on how spicy you like it)
 -  2-3 tsp chopped ginger 
 -  1.5 tsp tomato paste
