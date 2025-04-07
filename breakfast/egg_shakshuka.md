@@ -1,10 +1,9 @@
 Shakshuka \
-Time = 10 min prep + 20-30 min cook \ 
+Time = 10 min prep + 20-30 min cook \
 Servings = 4-6 \
-From: The Kitchn (https://www.thekitchn.com/shakshuka-22925583)\
-Notes: hearty and delicious!
+From: The Kitchn (https://www.thekitchn.com/shakshuka-22925583) \
 
-[Ingredients]
+**Ingredients**
 - 1 (28-ounce) can whole peeled tomatoes
 - 2 tablespoons olive oil
 - 1 small yellow onion, finely chopped
@@ -18,7 +17,7 @@ Notes: hearty and delicious!
 - 2 ounces feta cheese, crumbled
 - Crusty bread or pita, for serving (optional)
 
-[Directions]
+**Directions**
 
 1. Crush the tomatoes. Pour the tomatoes and their juices into a large bowl. Carefully crush with your hands into bite-sized pieces; set aside.
 
@@ -34,12 +33,14 @@ Notes: hearty and delicious!
 
 7. Finish with cilantro and cheese. Remove from the heat. Sprinkle with the cilantro and feta, if using, and serve with bread or pita if desired.
 
-[Notes]
+**Notes**
 
-- perfect egg consistency is set whites and runny yolks. As soon as whites are set and eggs jiggle a bit in the center, they are done. 
+- The perfect egg consistency is set whites and runny yolks. As soon as whites are set and eggs jiggle a bit in the center, they are done. 
 
-- to help control egg cooking, remove skillet from heat when adding the eggs and return to simmer at med-low heat. 
+- To help control egg cooking, remove skillet from heat when adding the eggs and return to simmer at med-low heat. 
 
 - Spoon sauce over the whites--this helps whites cook before yolks
 
-- Rotate the skillet a few times, as different places are hotter than others. 
+- Rotate the skillet a few times, as different places are hotter than others.
+
+- This hearty recipe also makes a great dinner dish!  
