@@ -1,15 +1,15 @@
 Vanilla Peach French Toast (aka Slumber Party French Toast)\
-Time = 20 min prep + overnight + 75 min bake\
-Servings = 6-8 people\
-Calories = unknown\
-Notes = Everyone loves this. Perfect for the summer with fresh peaches.
+Time = 20 min prep + overnight + 75 min bake \
+Servings = 6-8 people \
+From: Cheryl Fitzsimmons \
+CMF Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 
-**[Ingredients]**
+**Ingredients**
 
 -   1 cup (packed) brown sugar (dark or light is fine, I prefer light)
 -   1/2 cup butter
 -   2 Tbsp water
--   29oz peaches sliced and drained (2-3 ripe if you are using fresh fruit)
+-   29oz peaches sliced and drained (2-3 ripe if you are using fresh fruit. Fresh fruit is much better, in my opinion!)
 -   5 eggs
 -   1 Tbsp vanilla extract
 -   1/4 cup milk
@@ -20,7 +20,7 @@ Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 -   Optional--powdered sugar (garnish)
 -   Optional--splash of heavy whipping cream
 
-**[Directions--the night before]**
+**Directions--the night before**
 
 1.  In a saucepan, melt together butter, sugar and water. Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes, stirring frequently.
 
@@ -40,7 +40,7 @@ Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 
 9.  Cover with foil and refrigerate 8 hours or overnight.
 
-**[Directions--the following morning]**
+**Directions--the following morning**
 
 1.  Preheat Oven to 350ºF
 
