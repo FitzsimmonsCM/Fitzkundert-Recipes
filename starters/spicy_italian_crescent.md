@@ -1,10 +1,11 @@
 Spicy Italian Crecent Ring \
-Time = 20 min prep + 40 min bake\
-Servings = 6-8 servings\
-Calories = unknown\
+Time = 20 min prep + 40 min bake \
+Servings = 6-8 servings \
+Calories = unknown \
 From: Cheryl Fitzsimmons
 
-----Ingredients----\
+----**Ingredients**----
+
 - 2 can (8 oz) refrigerated pillsbury original crescent rolls\
 - 8 slices provolone cheese, halved\
 - 1/4 lb deli sliced ham\
@@ -15,13 +16,14 @@ From: Cheryl Fitzsimmons
 - 1/8 tsp black pepper\
 
 
-----Directions----
+----**Directions**----
 
 1. Preheat oven to 375F (350F if using non-stick cooking sheet)
 
 2. Unroll both cans of dough and separate into 16 triangles. On a large, ungreased cookie sheet, arrange the dough triangles so the short edge of the tringle form a 5-inch circle in the center. The triangles should overlap and the dough ring should look like the sun. 
 
 3. Place 8 cheese halves on top of each triangle, close to the center ring. Cheese will overlap. Layer the remaining ingredients in the following order: \
+
 - TOP
   - 8 cheese halves
   - pepper rings
