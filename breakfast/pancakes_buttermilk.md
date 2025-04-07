@@ -1,6 +1,6 @@
 Buttermilk Pancakes \
-Time = 15 min prep + 20 min cook\
-Servings = approx 16 pancakes\
+Time = 15 min prep + 20 min cook \
+Servings = approx 16 pancakes \
 Calories = approx 400 calories per serving \
 From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
 
@@ -42,5 +42,3 @@ From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluf
 1.  Pancake dry mix can be scaled up as many times as you'd like. Each batch of pancakes takes 11 ounces of dry mix to make (about 2 cups plus 2 tablespoons). 
 
 2.  The sour cream can be replaced with more buttermilk.
-
-3. Recipe from 
