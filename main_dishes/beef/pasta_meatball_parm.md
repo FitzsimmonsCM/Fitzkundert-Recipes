@@ -1,10 +1,9 @@
-Time = 20 min prep + 1 hr cooking\
-Servings = 6-8\
-Calories = unknown\
-From: Aunt Gerry and Uncle Dan
-Notes: Wedding reception recipe
+Time = 20 min prep + 1 hr cooking \
+Servings = 6-8 \
+From: Aunt Gerry and Uncle Dan \
+Notes: Wedding reception recipe book
 
-[Ingredients]
+**Ingredients**
 
 -  1/2 lb ground pork
 -  1/2 lb ground beef
@@ -23,7 +22,7 @@ Notes: Wedding reception recipe
 -  1/2 tsp italian seasoning
 -  handful of fresh basil, minced (garnish)
 
-[Directions]
+**Directions**
 
 1.  Preheat oven to 400F. 
 
