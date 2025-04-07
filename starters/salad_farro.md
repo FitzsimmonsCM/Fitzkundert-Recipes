@@ -4,7 +4,7 @@ Calories = unknown\
 From: BlueApron \
 Notes: We love this!
 
-[Ingredients]
+**Ingredients**
 
 -  2 corn tortillas, cut into thin strips
 -  3/4 cup semi-pearled farro
@@ -21,7 +21,7 @@ Notes: We love this!
 -  1 Tbsp Agave Nectar (Honey OK to substitute)
 -  salt and pepper (to your taste)
 
-[Directions]
+**Directions**
 
 1. Preheat oven (middle rack) to 450ºF. Heat large pot of salted water until boiling.
 
