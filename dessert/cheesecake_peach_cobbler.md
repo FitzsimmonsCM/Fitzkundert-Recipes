@@ -1,6 +1,6 @@
 Peach Cobble Cheesecake \
 Time = 45 min active + 12 hr total \
-Servings = 12 
+Servings = about 12 slices \ 
 From = [Southern Living](https://www.southernliving.com/recipes/peach-cobbler-cheesecake)
 
 
