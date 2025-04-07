@@ -1,6 +1,6 @@
-Crockpot Shredded Beef and Cheddar Sandwiches \ 
+Crockpot Shredded Beef and Cheddar Sandwiches \
 Time = Prep = 15 min + 8 hr cook + 10 min assembly \
-Servings = 7-8 people \ 
+Servings = 7-8 people \
 From = Cheryl Fitzsimmons
 
 
@@ -33,6 +33,3 @@ From = Cheryl Fitzsimmons
 6. To assemble sandwiches, lay buns on sheet pan. Add scoop of meat to the bottom of the bun, top with some onions, arby's or horsey sauce, and cheddar cheese. 
 
 7. Place under the broiler to melt the cheese and toast the buns, watching to prevent burning.
-
-
-**Notes**
