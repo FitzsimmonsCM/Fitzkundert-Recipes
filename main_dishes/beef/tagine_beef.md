@@ -1,6 +1,6 @@
 Time = 30 min \
 Servings = approx 2 servings \
-From: BlueApron \
+From: BlueApron 
 
 **Ingredients**
 - 10 oz ground beef (90/10 or 85/15)
