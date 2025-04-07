@@ -1,7 +1,7 @@
 Banana Bread \
-Time = 10 min prep + 60 min cook\
-Servings = 1 loaf\
-Calories = unknown\
+Time = 10 min prep + 60 min cook \
+Servings = 1 loaf \
+Calories = unknown \
 From: Cheryl Fitzsimmons
 
 [Ingredients]
@@ -15,7 +15,7 @@ From: Cheryl Fitzsimmons
 - 1 cup granulated sugar
 - 1 cup mashed ripe banana (approx 2.5 or 3 overripe, black bananas)
 - 1/4 cup cooking oil
-- optional 1/2 cup currents, raisins, or semi-sweet chocolate chips)
+- optional 1/2 cup currents, raisins, or semi-sweet chocolate chips
 
 [Directions]
 
