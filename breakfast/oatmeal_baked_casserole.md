@@ -1,4 +1,5 @@
-Baked Oatmeal Casserole \
+Baked Oatmeal Casserole
+=====
 Time = 10 min prep + 40 min cook \
 Servings = about 7-8 \
 From: Cheryl Fitzsimmons
