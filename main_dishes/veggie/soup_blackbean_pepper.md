@@ -1,25 +1,27 @@
-Time = 40 min\
-Servings = 2\
+**Blackbean Pepper Soup**
+Time = 40 min \
+Servings = 2 \
 Calories = 600 kcal per serving
 
-[Ingredients:]
+**Ingredients**
 
--   1 yellow onion, diced
+-   1 medium yellow onion, diced
 -   1 poblano pepper, deseeded and diced
--   1 can (14 oz) diced tomatoes
--   3 Tbsp sour cream
--   1 Tbsp southwest spice blend (taco spice can sub)
+-   1 can (14 oz) diced tomatoes, including liquid
+-   1 Tbsp southwest spice blend (taco spice can substitute)
 -   1.5 oz Tomato paste
 -   1 can (15 oz) low sodium black beans, retain liquid
 -   Tex-Mex Paste
 -   1 cube veggie stock concentrate
 -   1/4 cup Monterey Jack Cheese
--   blue corn tortilla chips (garnish)
--   cilantro (garnish)
+-   blue corn tortilla chips (to garnish)
+-   3 Tbsp sour cream (to garnish)
+-   cilantro (to garnish)
 -   vegetable oil
 -   salt and pepper (to your taste)
 
-[Directions:]\
+**Directions**
+
 1. In a medium pot, head a drizzle of oil on med-high heat. Add onion and pepper and cook, stirring, until browned and softened, approx 5-7 min. 
 
 2. Add diced tomatoes, tomato paste, spice mix, and cook 1 min until fragrant. 
