@@ -1,4 +1,5 @@
-Beef and Pork Lasagna \
+Beef and Pork Lasagna 
+=====
 Time =  min prep + 80 min cook \
 Servings = approx 8-10 people
 
@@ -49,4 +50,4 @@ TOP
      
 BOTTOM
 
-4. Cover; bake 50 minutes. Uncover; bake until heated through, 20 minutes. Let stand 15 minutes before cutting.
+4. Cover; bake 50 minutes. Uncover; bake until heated through, approx 20 minutes longer. Remove from oven and let stand 10-15 minutes before cutting.
