@@ -1,5 +1,7 @@
-Crockpot Shredded Beef and Cheddar Sandwiches \
-Time = Prep = 15 min + 8 hr cook + 10 min assembly \
+Crockpot Shredded Beef and Cheddar Sandwiches
+=====
+
+Time = Prep = 15 min prep + 8 hr cook + 10 min assembly \
 Servings = 7-8 people \
 From = Cheryl Fitzsimmons
 
@@ -12,8 +14,8 @@ From = Cheryl Fitzsimmons
 - 1 Tbsp minced garlic
 - 1 Tbsp each of ranch seasoning and steak seasoning
 - 1 medium yellow or white onion, sliced
-- Arby’s sauce
-- Arby's Horsey sauce
+- Arby’s sauce (approx 1-2 cups + more to garnish)
+- Arby's Horsey sauce (to garnish)
 - sandwich rolls
 - approx 1 lb sliced or shredded cheddar cheese
 
@@ -24,7 +26,7 @@ From = Cheryl Fitzsimmons
 
 2. Add roast to large crockpot with 2 cups beef broth. Season with ranch seasoning, steak seasoning, and minced garlic. 
 
-3. Add enough ARby's sauce to cover the roast. Top with sliced onions. Cover and cook on low for 8 hours. 
+3. Add enough Arby's sauce to cover the roast. Top with sliced onions. Cover and cook on low for 8 hours. 
 
 4. Once roast is cooked, remove from crockpot and shred with forks, discarding any extra fat. 
 
