@@ -1,8 +1,9 @@
-Biang Biang Noodles \
+Biang Biang Noodles
+=====
+
 Time = 30 min prep + 3 hr rest + 15 min cook \
 Servings = 2 people \
-From = Amy Jacobson \
-Calories = unknown 
+From = Amy Jacobson 
 
 **Noodle Ingredients**
 
