@@ -1,10 +1,10 @@
-Time = 15 min prep + 1 hour bake\
-Servings = 4-6 people\
-Calories = unknown\
-From: Alex \
-Notes: Wedding reception recipe
+**Alex's Mac and Cheese Bake** \
+Time = 15 min prep + 1 hour bake \
+Servings = 4-6 people \
+From: Alex Mitchell \
+Notes: Wedding reception recipe book
 
-[Ingredients]
+**Ingredients**
 
 -  4 cups dried elbow pasta
 -  1 lb cheddar cheese, shredded
@@ -13,7 +13,7 @@ Notes: Wedding reception recipe
 -  1 cup break crumbs, toasted
 -  1/4 cup (half stick) butter
 
-[Directions]
+**Directions**
 
 1.  Preheat oven to 350F
 
