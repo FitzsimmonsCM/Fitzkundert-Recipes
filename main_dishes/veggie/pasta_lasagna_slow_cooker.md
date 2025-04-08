@@ -1,18 +1,17 @@
-Slow Cooker Vegetarian lasagna \
-Time = 20 min prep + 2-4 hours cooking\
-Servings = 6-8 servings\
-Calories = unknown\
+**Slow Cooker Vegetarian Lasagna** \
+Time = 20 min prep + 2-4 hours cooking \
+Servings = 6-8 servings \
 From = EatingWell
 
-[Ingredients]\
+**Ingredients**
 
 - 1 large egg
 - 1 (15 oz) container part-skim ricotta
 - 1 (15 oz) package baby spinach, rough chop
 - 3 large portobello mushroom caps, remove gills and thin sliced
 - 1 small zucchini, quartered lengthwise and thin sliced
-- 1 (28 oz) can crushed tomatoes
-- 1 (28 oz) can diced tomatoes
+- 1 (28 oz) can crushed tomatoes, including liquid
+- 1 (28 oz) can diced tomatoes, including liquid
 - 3 cloves garlic, minced
 - 15 whole-wheat lasagna noodles, uncooked
 - 3 cups part-skim mozzarella, shredded and divided
@@ -21,8 +20,7 @@ From = EatingWell
 - 6 qt slow cooker 
 
 
-
-[Directions]
+**Directions**
 
 1. Combine egg, ricotta, spinach, mushroom, and zucchini in a large bowl
 
