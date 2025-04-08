@@ -1,11 +1,13 @@
-Name = "The Soup"
+"The Soup"
+======
+
 Time = 20 min prep + 2-3 hr cooking\
 Servings = 6-8\
 Calories = unknown\
-From: Grandma Fitzsimmons
-Notes: Wedding reception recipe
+From: Grandma Fitzsimmons \
+Notes: Wedding reception recipe book
 
-[Ingredients]
+**Ingredients**
 
 -  5-6 bone-in beef shanks
 -  1 pkg onion soup mix
@@ -13,12 +15,12 @@ Notes: Wedding reception recipe
 -  12-16 medium white potatoes, scrubbed, peeled, and quartered
 -  1 28 oz can whole peeled tomatoes
 -  1 12 oz package medium egg noodles
--  Parmesan Cheese, grated (garnish)
--  parsley, chopped (garnish)
+-  Parmesan Cheese, grated (to garnish)
+-  parsley, chopped (to garnish)
 -  salt and pepper (to your taste)
--  mustard (garnish)
+-  mustard (to garnish)
 
-[Directions]
+**Directions**
 
 1.  Place beef shanks in more than sufficient water for the amount of soup you wish to yield. 
 
