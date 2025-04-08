@@ -1,19 +1,21 @@
-Time = 30 min prep + 6.5 hr cooking\
-Servings = 4-6\
-Calories = unknown\
-From: Aunt Gerry\
-Notes: Wedding reception recipe, slow cooker 
+Slow Cooker Tater Tot Casserole
+======
 
-[Ingredients]
+Time = 30 min prep + 6.5 hr cooking \
+Servings = 4-6 \
+From: Aunt Gerry and Uncle Dan\
+Notes: Wedding reception recipe book, slow cooker 
+
+**Ingredients**
 - 1 lb ground beef or ground turkey, browned
 - 1 can rotel tomatoes, mild or hot
 - 1 16 oz pkg frozen tater tots (some places only sell 32 oz)
 - 1 can cream of chicken soup
-- 1 small onion, diced
+- 1 small white or yellow onion, diced
 - 2 cups cheddar cheese, shredded
 - side salad (to accompany)
 
-[Directions]
+**Directions**
 
 1. Brown beef. Once browned, add chopped onion and tomatoes.
 
