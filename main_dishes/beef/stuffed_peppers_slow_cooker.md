@@ -1,4 +1,6 @@
-Slow Cooker Stuffed Peppers \
+Slow Cooker Stuffed Peppers
+=====
+
 Total Time = 15 min prep + 6.5 hr cook \
 Servings = 6 people  
 
