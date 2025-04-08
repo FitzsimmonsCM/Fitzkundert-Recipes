@@ -1,6 +1,6 @@
 Vegetarian Stuffed Peppers \
 Total Time = 15 min prep + 40 min cook \
-Servings = 4 people \ 
+Servings = 4 people 
 
 **Ingredients**
 -  4 bell peppers (red or green), sliced in half from stem and deseeded
