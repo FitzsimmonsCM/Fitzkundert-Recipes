@@ -1,11 +1,11 @@
 Italian Garden Vegetable Soup \
-Time = 10 min prep + 40 min cook \ 
-Servings = 2
+Time = 10 min prep + 40 min cook \
+Servings = 2 \
 Calories = 710 per serving  \
 From: HelloFresh \
 Notes: longer simmering time is ok if you are able. 
 
-[Ingredients]
+**Ingredients**
 - 1 yellow onion, diced
 - 6 oz carrots, peeled and cut into thin rounds
 - 1 clove garlic, minced
@@ -21,7 +21,7 @@ Notes: longer simmering time is ok if you are able.
 - red pepper flakes, to your taste (garnish)
 
 
-[Directions]
+**Directions**
 
 1. In a large pot over medium heat, saute onions and carrots with a drizzle of olive oil over medium heat for 5-6 min or until softened. Season with salt and pepper.
 
