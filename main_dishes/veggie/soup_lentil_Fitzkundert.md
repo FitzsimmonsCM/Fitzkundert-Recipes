@@ -1,6 +1,6 @@
 Lentil Stew \
 Time = 15 min prep + 45 min cook \
-Servings = 4 servings \
+Servings = 4 servings 
 
 **Basic Ingredients**
 
@@ -15,7 +15,7 @@ Servings = 4 servings \
 -  1/2 tsp cayenne pepper
 -  1 cup lentils, picked over and carefully rinsed (green or red)
 -  1 14 oz can diced tomatoes, including liquid
--  4 cups water or 2 can vegetable stock
+-  4 cups water or 2 cans vegetable stock
 -  salt and pepper (to your taste)
 -  optional: croutons or thick sliced bread for garnish
 -  optional: parmesan cheese for garnish
