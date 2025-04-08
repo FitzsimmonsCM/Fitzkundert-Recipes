@@ -1,10 +1,11 @@
-Beef chili \
+Beef chili 
+======
 Time = 15 min prep and 2.5 hr (or longer) cook\
 Servings = feeds an army (approx 8-12 people)\
 Calories = unknown\
 From = Kevin McCusker
 
-[Ingredients]
+**Ingredients**
 
 - 2 medium yellow onions, diced
 - 2-3 cloves garlic, minced
@@ -19,12 +20,12 @@ From = Kevin McCusker
 - 2 green peppers, diced (can sub other types of peppers if you want spicier chili)
 - 2 lbs carrots, peeled and diced
 - 1 can chipotles in adobado sauce (you will need 1-2 peppers, diced)
-- 1 tub (15 oz) sour cream (garnish)
-- 4 cups cheddar cheese or jack cheese, shredded (garnish)
-- your favorite corn bread (garnish)
+- 1 tub (15 oz) sour cream (to garnish)
+- 4 cups cheddar cheese or jack cheese, shredded (to garnish)
+- your favorite corn bread (to garnish)
 - olive oil
 
-[Spices]
+**Spices**
 
 - salt and pepper, to your taste
 - 1/2 tsp cayenne pepper
@@ -34,7 +35,7 @@ From = Kevin McCusker
 - dash onion powder
 - dash oregano
 
-[Directions]
+**Directions**
 
 1. If using dried beans, rehydrate overnight. If using canned beans, drain and rinse. Set aside. 
 
@@ -55,9 +56,3 @@ From = Kevin McCusker
 9. Approx 30-40 minutes before you wish to serve, add the can of tomato paste and bake the corn bread (if using). (If chili is still a bit runny after 40 min, mix a 1:1 ratio of warm water and cornstarch. Slowly add this a few tsp at a time to help thicken the chili.)
 
 10. Divide into bowls and serve. Garnish with cheese, sour cream, and side of corn bread. 
-
-
-
-
-
-
