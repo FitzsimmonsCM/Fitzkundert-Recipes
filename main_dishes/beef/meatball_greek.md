@@ -1,4 +1,4 @@
-Mediterranean Meatballs with Tzatziki Recipe \
+Mediterranean Meatballs with Tzatziki \
 Time = Prep = 15 min + 30 min cook  \
 Servings = 7-8 people \
 From = Cheryl Fitzsimmons
