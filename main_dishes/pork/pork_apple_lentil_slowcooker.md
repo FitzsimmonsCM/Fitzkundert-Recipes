@@ -1,8 +1,10 @@
-Slow Cooker Lentil Soup with Sausage and Apples \
+Slow Cooker Lentil Soup with Sausage and Apples 
+=====
+
 Time = 30 min prep + 8 hour cook \
 Servings = 4-6 people \
-From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-lentil-soup-with-sausage-and-apples) \
-Calories = unknown 
+From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-lentil-soup-with-sausage-and-apples) 
+
 
 **Ingredients**
 
