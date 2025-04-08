@@ -4,7 +4,7 @@ Servings = 4 to 6 servings\
 From = Smitten Kitchen 
 
 
-**[Ingredients]**
+**Ingredients**
 
 - 4 Tbsps olive oil
 - 1 medium yellow onion, thin sliced
@@ -24,7 +24,7 @@ From = Smitten Kitchen
 - Dutch oven
 - If you don't have dutch oven, use a saute pan and then transfer to 9 x 13 baking dish
 
-**[Directions]**
+**Directions**
 
 1. Preheat oven to 350F
 
