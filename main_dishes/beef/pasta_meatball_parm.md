@@ -1,3 +1,6 @@
+Meatball Parmesan Bake
+======
+
 Time = 20 min prep + 1 hr cooking \
 Servings = 6-8 \
 From: Aunt Gerry and Uncle Dan \
@@ -20,7 +23,7 @@ Notes: Wedding reception recipe book
 -  1.5 cups mozzarella, shredded
 -  olive oil
 -  1/2 tsp italian seasoning
--  handful of fresh basil, minced (garnish)
+-  handful of fresh basil, minced (to garnish)
 
 **Directions**
 
