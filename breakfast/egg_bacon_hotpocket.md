@@ -1,4 +1,5 @@
-Breakfast Hot Pockets \
+Egg and Bacon Breakfast Hot Pockets
+=====
 Time = 20 min prep and 15 min cook\
 Servings = approx 8 hot pockets\
 Calories = 328 per hot pocket \
@@ -35,9 +36,11 @@ Macros = 29.5g carbs, 8g Fat, 32g protein
 
 
 **Reheat instructions**
+
 Microwave = 3 - 5 Minutes (flip half way) \
-Air Fryer = 5 - 10 Minutes 180C (350F) \
-Oven = 5 - 10 Minutes 200C (400F) 
+Air Fryer = 5 - 10 min 180C (350F) \
+Conventional Oven = 5 - 10 min 200C (400F) 
 
 **NOTES**
-- If you find yourself have trouble forming the dough from it being too sticky, start by adding the flour first then slowly add the yogurt & mix it together.Depending on the yogurt brand some contain less or moisture than others causing it to be stickier. If this happens slowly add more flour until you reach a consistency you can work with & make sure to add some flour to your hands as well”
+- If you find yourself have trouble forming the dough from it being too sticky, start by adding the flour first then slowly add the yogurt & mix it together.
+- Depending on the yogurt brand some contain less or moisture than others causing it to be stickier. If this happens slowly add more flour until you reach a consistency you can work with & make sure to add some flour to your hands as well. 
