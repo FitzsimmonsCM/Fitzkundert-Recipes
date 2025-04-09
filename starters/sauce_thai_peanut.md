@@ -1,4 +1,5 @@
-Thai Peanut Sauce \
+Thai Peanut Sauce
+=====
 Time = 5 min prep + 10 min cook \
 Servings =  1 large jar (approx 3-4 cups) \
 From = Alexis-Clair Roehrich
@@ -6,7 +7,7 @@ From = Alexis-Clair Roehrich
 **Ingredients**
 
 - 1 13.5-ounce can of full-fat, unsweetened coconut milk
-- 2 ounces (approx 1/4 cup) of Thai red (mom’s preference) or Massaman curry paste (milder but still flavorful)
+- 2 ounces (approx 1/4 cup) of Thai red (Mom’s preference) or Massaman curry paste (milder but still flavorful)
 - 3/4 cup unsweetened (natural) creamy peanut butter (Do not use regular peanut butter or anything with added emulsifiers. It must be the type of natural peanut butter that comes with natural peanut oil on top and no sugar added.)
 - 1/2 Tbsp salt
 - 3/4 cup sugar
