@@ -1,7 +1,8 @@
-Shakshuka \
+Shakshuka
+=====
 Time = 10 min prep + 20-30 min cook \
 Servings = 4-6 \
-From: The Kitchn (https://www.thekitchn.com/shakshuka-22925583) \
+From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583) 
 
 **Ingredients**
 - 1 (28-ounce) can whole peeled tomatoes
@@ -15,7 +16,7 @@ From: The Kitchn (https://www.thekitchn.com/shakshuka-22925583) \
 - 6 large eggs
 - 1/4 cup loosely packed chopped fresh cilantro leaves and tender stems
 - 2 ounces feta cheese, crumbled
-- Crusty bread or pita, for serving (optional)
+- Optional: crusty bread or pita (for serving)
 
 **Directions**
 
