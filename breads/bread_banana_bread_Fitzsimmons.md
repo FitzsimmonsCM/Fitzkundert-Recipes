@@ -1,10 +1,10 @@
-Banana Bread \
+Fitzsimmons Banana Bread
+=====
 Time = 10 min prep + 60 min cook \
 Servings = 1 loaf \
-Calories = unknown \
 From: Cheryl Fitzsimmons
 
-[Ingredients]
+**Ingredients**
 - 1.5 cups AP flour
 - 1/2 tsp baking soda
 - 1/2 tsp ground cinnamon
@@ -17,7 +17,7 @@ From: Cheryl Fitzsimmons
 - 1/4 cup cooking oil
 - optional 1/2 cup currents, raisins, or semi-sweet chocolate chips
 
-[Directions]
+**Directions**
 
 1. Preheat oven to 350F
 
