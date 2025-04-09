@@ -1,10 +1,11 @@
+Date Nut Bread
+=====
 Time = 60 min\
 Servings = 2 loaves\
-Calories = unknown\
 From: Alex Schmiechen\
-Notes: Wedding reception recipe
+Notes: Wedding reception recipe book
 
-[Ingredients]
+**Ingredients**
 
 -   2.25 cups AP flour
 -   2 tsp baking soda
@@ -16,7 +17,7 @@ Notes: Wedding reception recipe
 -   1 egg
 -   1 tsp vanilla extract
 
-[Directions]
+**Directions**
 
 1. Preheat oven to 325F
 
@@ -28,4 +29,4 @@ Notes: Wedding reception recipe
 
 5. Add flour mixture and date mixture to beaten sugar, alternating between flour and date mixtures. Avoid overmixing. Add vanilla at the end. 
 
-6. Bake 50-55 min at 325. Cool before serving. 
+6. Bake 50-55 min and cool before serving. 
