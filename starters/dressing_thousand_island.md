@@ -1,10 +1,11 @@
+Thousand Island Dressing
+=====
 Time = 5 min prep + 30 min chill\
 Servings = approx 1 cup dressing\
-Calories = unknown\
 From: Aunt Gerry + Uncle Dan\
-Notes: Wedding reception recipe
+Notes: Wedding reception recipe book
 
-[Ingredients]
+**Ingredients**
 
 -  1/2 cup mayo
 -  1/2 cup ketchup
@@ -13,7 +14,7 @@ Notes: Wedding reception recipe
 -  1/2 tsp sugar
 -  milk (optional, to thin) (add 1 Tbsp at a time)
 
-[Directions]
+**Directions**
 
 1.  Combine all ingredients in a bowl Mix to blend until creamy. Add milk to thin to desired consistency. 
 
