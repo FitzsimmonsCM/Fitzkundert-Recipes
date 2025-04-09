@@ -1,4 +1,5 @@
-Buttermilk Pancakes \
+Buttermilk Pancakes
+=====
 Time = 15 min prep + 20 min cook \
 Servings = approx 16 pancakes \
 Calories = approx 400 calories per serving \
