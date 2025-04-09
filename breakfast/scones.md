@@ -1,10 +1,10 @@
-Scones\
-Time = 10 min prep and 25 min cook\
-Servings = 6-8 scones\
-Calories = unknown\
+Scones
+=====
+Time = 10 min prep and 25 min cook \
+Servings = 6-8 scones \
 From: Louise Goupil
 
-**[Ingredients]**
+**Ingredients**
 
 -   2 cups all purpose flour
 -   1 Tbsp baking powder
@@ -15,7 +15,7 @@ From: Louise Goupil
 -   1/3 cup whipping cream
 -   Handful of dried fruit, chopped if needed.
 
-**[Directions]**
+**Directions**
 
 1.  Preheat convection oven to 350F
 
@@ -29,7 +29,7 @@ From: Louise Goupil
 
 6.  Bake for 25 min or until golden. Enjoy immediately!
 
-**[Notes]**
+**Notes**
 
 -   On step 4, don't stress too much about correct fruit folding instructions. I've ignored this and it's turned out fine.
 -   Apricots were suggested by Louise in the original recipe
