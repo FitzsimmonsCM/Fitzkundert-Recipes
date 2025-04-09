@@ -1,4 +1,5 @@
-Boston Brown Bread \
+Boston Brown Bread
+=====
 Time = 20 min prep + 45 min cook \
 Servings = 3 small loaves \
 From: Cheryl Fitzsimmons
