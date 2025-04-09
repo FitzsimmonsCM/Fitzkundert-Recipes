@@ -1,3 +1,5 @@
+Bagel Dip
+=====
 Time = 10 min prep \
 Servings = 2 cups dip \
 From: Aunt Gerry + Uncle Dan \
