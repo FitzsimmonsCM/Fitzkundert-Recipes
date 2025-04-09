@@ -1,6 +1,7 @@
+Watermelon Feta Salad
+=====
 Time = 15 min prep  \
-Servings = 4-6 people \
-Calories = unknown 
+Servings = 4-6 people
 
 **Ingredients**
 
