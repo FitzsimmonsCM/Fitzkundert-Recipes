@@ -1,6 +1,8 @@
-Bacon Wrapped Stuffing Bites \
+Bacon Wrapped Stuffing Bites
+=====
 Time = 10 min prep + 50 min bake \
-Servings = 16 bites 
+Servings = 16 bites \
+Notes = A great snack for watching football the day after Thanksgiving
 
 **Ingredients**
 
