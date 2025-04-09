@@ -1,4 +1,5 @@
-Pane Bianco \
+Pane Bianco
+=====
 Time = 30 min prep + 2 x 60 min rises + 35-40 min bake \
 Servings = 1 loaf of bread 
 
