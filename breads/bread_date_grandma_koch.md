@@ -1,7 +1,8 @@
-Date Nut Loaf \
+Grandma Koch's Date Nut Loaf
+=====
 Time = 15 min prep + 60 min cook \
 Servings = 8 servings \
-From = Fitzy's Grandma Koch \ 
+From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
@@ -22,19 +23,19 @@ Original recipe = Wesson oil cookbook
 
 **Directions**
 
-1.  Preheat oven to 350F
+1.  Preheat oven to 350F.
 
 2.  Put dates, walnuts, and fluffo into a mixing bowl and pour boiling water over them. Beat until fluffo breaks into small lumps. 
 
 3. Mix together flour, salt, and baking powder. Set aside
 
-4.  Add cold water, and stir in soda, brown sugar, vanilla, egg, and dry ingredients. Beat until well blended. 
+4. Add cold water, and stir in soda, brown sugar, vanilla, egg, and dry ingredients. Beat until well blended. 
 
 5. Pour batter into loaf pan rubbed with fluffo. Bake at 350F for about 1 hour. 
 
 
 **Notes**
-1. Mom used to make this every week! 
+1. My mom (your grandma) used to make this every week! 
 
 2. Wrap in foil and store in the refrigerator for several days. 
 
