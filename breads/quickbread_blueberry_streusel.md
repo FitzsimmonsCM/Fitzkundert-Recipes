@@ -1,7 +1,8 @@
-Blueberry Streusel Coffee Cake \
+Blueberry Streusel Coffee Cake
+=====
 Time = 15 min prep + 40 min cook \
 Servings = 8 servings \
-From = Fitzy's Grandma Koch \ 
+From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
