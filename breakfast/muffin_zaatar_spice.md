@@ -1,4 +1,5 @@
-Zaatar Muffins \
+Zaatar Spiced Muffins
+=====
 Time = 10 min prep + 18 min cook \
 Servings = 12 large muffins \
 From: Chef JJ
