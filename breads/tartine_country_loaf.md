@@ -1,9 +1,10 @@
-Tartine Country Sourdough Loaf\
+Tartine Bakery's Country Sourdough Loaf
+=====
 Time = 2 days\
 Servings = 2 country loaves\
 Calories = unknown\
-From = Tartine Bakery\
-Link = https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/ 
+From = Yi-Chang Liu and [Tartine Bakery](https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/ )
+
 
 **[Day 1: After dinner--prepare the leaven]**
 
