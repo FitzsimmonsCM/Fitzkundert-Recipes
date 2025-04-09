@@ -1,7 +1,8 @@
-Southern Spoon Bread \
+Southern Spoon Bread
+=====
 Time = 15 min prep + 30 min cook \
 Servings = 8 servings \
-From = Fitzy's Grandma Koch \ 
+From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
