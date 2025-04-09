@@ -1,4 +1,5 @@
-Vanilla Peach French Toast (aka Slumber Party French Toast)\
+Vanilla Peach French Toast (aka Slumber Party French Toast)
+=====
 Time = 20 min prep + overnight + 75 min bake \
 Servings = 6-8 people \
 From: Cheryl Fitzsimmons \
