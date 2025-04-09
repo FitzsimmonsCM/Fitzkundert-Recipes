@@ -1,8 +1,9 @@
+Farro Salad
+=====
 Time = 30-40 min \
 Servings = approx 2-3 servings \
-Calories = unknown\
 From: BlueApron \
-Notes: We love this!
+Notes: We love this! Can be eaten warm or cold. 
 
 **Ingredients**
 
@@ -27,7 +28,8 @@ Notes: We love this!
 
 2. When water is boiling, add farro and cook, uncovered, 18-22 min or until tender. Drain excess water, add dash of olive oil and salt and pepper to taste. 
 
-3. Toss potato and broccoli in adobo chili paste and diced adobo chili. Roast 20-22 min. 
+3. Toss potato and broccoli in adobo chili paste and diced adobo chili. Roast 20-22 min.
+    
 4. In small bowl, combine shallots, radish, and salt and pepper to taste. Set aside to marinate, stirring occasionally. 
 
 5. Toss tortilla strips with olive oil, salt and pepper. Roast 5-7 min or until golden brown and crispy. 
