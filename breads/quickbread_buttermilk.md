@@ -1,11 +1,10 @@
-Buttermilk Quick Bread\
+Buttermilk Quick Bread
+=====
 Time = 10 min prep + 50 min cook\
 Servings = 1 loaf\
-Calories = unknown\
-From = The Kitchn\
-Link = https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-different-variations-164621
+From = [The Kitchn](https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-different-variations-164621)
 
-**[Ingredients--Base Loaf]**
+**Ingredients--Base Loaf**
 
 - 2 cups all purpose flour
 - 1/2 cup granulated sugar
@@ -17,7 +16,7 @@ Link = https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-diff
 - 1/4 cup unsalted butter (melted) or olive oil
 - toppings (see variations section below)
 
-**[Directions]**
+**Directions**
 
 1. Preheat convection oven to 350F. Grease or spray standard loaf pan with non-stick spray. 
 
@@ -31,7 +30,7 @@ Link = https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-diff
 
 6. Wrap loaves in plastic wrap and store at room temperature. Loaves can also be wrapped in plastic and aluminum and frozen for up to 3 months. Thaw as you would normal bread
 
-**[Notes]**
+**Notes**
 
 - Sugar can be reduced to 1 Tbsp for more savory breads
 - Up to 1/2 of the flour can be substituted with an alternative flour
@@ -39,7 +38,7 @@ Link = https://www.thekitchn.com/how-to-make-buttermilk-quick-bread-with-10-diff
 - If adding fruits, nuts, or other ingredients, add them to the try ingredients, adding no more than 1.5 cups in total. 
 - If adding herbs or spices, add 1- 3 Tbsp added to the dry ingredients
 
-**[Bread Variations]**\
+**Bread Variations**
 
 - Cranberry-Walnut Loaf
     - 1 cup dried cranberries
