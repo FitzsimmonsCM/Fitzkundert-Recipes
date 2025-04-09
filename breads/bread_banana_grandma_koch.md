@@ -1,4 +1,5 @@
-Banana Bread \
+Grandma Koch's Banana Bread
+=====
 Time = 15 min prep + 60 min cook \
 Servings = 8 servings \
 From = Fitzy's Grandma Koch \ 
