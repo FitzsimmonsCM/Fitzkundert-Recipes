@@ -1,15 +1,18 @@
+Mexican Rice
+=====
+
 Ingredients
-===========
-3 tbsp oil
-1 cup rice
-1 tsp garlic salt
-½ tsp cumin
-¼ cup chopped onion
-½ cup tomato sauce
-2 cups chicken broth (2 tsp bouillon)
+----
+- 3 tbsp oil
+- 1 cup rice
+- 1 tsp garlic salt
+- ½ tsp cumin
+- ¼ cup chopped onion
+- ½ cup tomato sauce
+- 2 cups chicken broth (2 tsp bouillon)
 
 Recipe
-======
+----
 1. Heat oil in a medium saucepan.
 
 2. Add rice, and cook until most of the grains are "puffy".  Stir constantly.
