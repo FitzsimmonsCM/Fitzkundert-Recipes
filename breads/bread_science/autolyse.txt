@@ -1,0 +1,52 @@
+Autolyse is a fairly simple technique that is supposed to improve the flavor of 
+bread.  All it entails is mixing the flour and water, then waiting for some 
+amount of time (as little as 20 min or as much as 24h) before adding the salt 
+and yeast.  
+
+I want to understand why this technique works.  There are a number of 
+explanations out there, but many of them seems dubious.  Here I'll lay out all 
+the explanations I could find, and comment on how much sense they make to me:
+
+1. Autolyse allows time for amylases in the dough to break the complex starches 
+   in flour down into simple sugars, which are easier for the yeast to digest.
+
+   This seems plausible to me, although I don't really get the connection 
+   between faster yeast growth and better flavor.  It seems that you'd still 
+   get more yeast growth by adding the yeast in the beginning, and you could 
+   always just add sugar (or maybe less salt) to make the yeast grow faster.
+
+2. Autolyse allows time for proteases to act on gluten.
+
+   There are proteases in flour, so this is undoubtedly true.  However, it is 
+   commonly claimed that these proteases help form the gluten network, and that 
+   is exactly the opposite of what proteases do.  A more plausible explanation 
+   for the role of proteases is that they release free amino acids (at the 
+   expense of the gluten network) which can contribute to flavor via the 
+   Maillard reactions.
+   
+   However, I don't see why adding salt or yeast would inhibit proteases.  It's 
+   possible that the proteases in flour are very salt-sensitive, but that would 
+   surprise me.  It's also possible that the gluten proteins are less stable in 
+   the absence of salt, which would make them more vulnerable to protease 
+   activity.
+
+3. Autolyse allows the flour to more fully absorb the water, which makes the 
+   dough easier to knead.
+
+   This seems reasonable to me, although I don't think this will affect the 
+   flavor.  To be a little more specific, maybe I'd say that the autolyse is 
+   allowing the gluten some time to denature on its own.
+
+Here are some explanations for leaving out they salt and yeast.
+
+1. Salt reduces the amount of water available for hydrating the gluten and the 
+   starch.
+
+2. Yeast will consume sugar, but any gas they produce will be pounded out 
+   during kneading.
+
+Another thing worth noting is that some people claim you can add the yeast with 
+the flour and the water.  At least according to this blog [1], it doesn't make 
+much of a difference.
+
+[1] http://www.northwestsourdough.com/experiments-with-autolyse-2/

@@ -1,0 +1,14 @@
+I want to know more about the role of salt in bread baking.  
+
+It's commonly claimed that yeast is inhibited by salt, but I have a hard time 
+believing this.  It's certainly true that high concentrations of salt (or 
+sugar) can cause osmotic stress for microorganisms, but the concentration of 
+salt in bread is not that high.  If it were, bread would taste salty!  And in 
+any case, yeast have cell walls, so they should be more than capable of 
+surviving a bit of osmotic pressure.
+
+I saw it suggested once that salt helps stabilize the fold of the gluten 
+proteins.  This is much more plausible to me.  I have to admit that I don't 
+even understand why salt is important for protein folding, but I am at least 
+willing to accept that it is.
+
