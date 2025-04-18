@@ -1,19 +1,22 @@
+Homemade Hamburger Buns
+=====
+
 Dough
-─────
-200 mL water (lukewarm)
-2 tbsp butter
-1 egg
-418 g flour
-50 g sugar
-1¼ tsp salt
-1 tbsp instant yeast
+=====
+- 200 mL water (lukewarm)
+- 2 tbsp butter
+- 1 egg
+- 418 g flour
+- 50 g sugar
+- 1¼ tsp salt
+- 1 tbsp instant yeast
 
 Topping
-───────
-3 tbsp melted butter
+=====
+- 3 tbsp melted butter
 
 Recipe
-──────
+=====
 1. Mix and knead all the dough ingredients.  The dough should be soft and 
    smooth.  Use the smaller amount of water in summer (or in a humid 
    environment), the greater amount in winter (or in a dry climate); and 
