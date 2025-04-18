@@ -6,6 +6,7 @@ From: BlueApron \
 Notes: We love this! Can be eaten warm or cold. 
 
 **Ingredients**
+----
 
 -  2 corn tortillas, cut into thin strips
 -  3/4 cup semi-pearled farro
@@ -23,6 +24,7 @@ Notes: We love this! Can be eaten warm or cold.
 -  salt and pepper (to your taste)
 
 **Directions**
+----
 
 1. Preheat oven (middle rack) to 450ºF. Heat large pot of salted water until boiling.
 
