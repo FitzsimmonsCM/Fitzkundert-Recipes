@@ -1,17 +1,20 @@
-Avocado Broccoli Salad \
+Avocado Broccoli Salad
+====
 Time = 10 min \
 Servings =  1 salad \
 From = Emily Gann
 
+Ingredients
+----
 
-**Dressing Ingredients**
+**Dressing Ingredients:**
 
 - 1 medium, ripe avocado, pitted and peeled
 - juice of 2 lemons
 - 1/8-1/4 cup chopped cilantro
 - salt and pepper (to your taste)
 
-**Salad Ingredients**
+**Salad Ingredients:**
 - 1 bunch of broccoli, large stems removed
 - 1/2 cup craisins
 - 1/2 cup sunflower seeds
@@ -19,6 +22,7 @@ From = Emily Gann
 - salt and pepper (to your taste)
 
 **Directions**
+----
 
 1. Make the dressing: Combine all ingredients except cilantro in a food processor. Blend until smooth. Add in chopped cilantro.
 
