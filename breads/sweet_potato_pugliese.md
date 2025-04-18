@@ -1,31 +1,35 @@
 Sweet Potato Pugliese Bread
+=====
 
-This is an 85% hydration dough.  Crumb is very light, airy, and moist...
+Servings = Makes two approx. 500g loaves \
+Time Required = 5-6 hours with 30 minutes active work \
+Notes = This is an 85% hydration dough.  Crumb is very light, airy, and moist...
 
-Makes two approx. 500g loaves.
-
-Time Required: 5-6 hours with 30 minutes active work.
 
 Ingredients:
-400g all purpose unbleached flour (70%)
-100g bread flour (17%)
-60g whole wheat flour (10%)
-20g rye flour (3%)
-493 grams of water (85%)
-14g kosher salt (2.5%)
-1 tsp active dry yeast (1%)
-125g mashed sweet potato (see instructions) (22%)
+=====
+- 400g all purpose unbleached flour (70%)
+- 100g bread flour (17%)
+- 60g whole wheat flour (10%)
+- 20g rye flour (3%)
+- 493 grams of water (85%)
+- 14g kosher salt (2.5%)
+- 1 tsp active dry yeast (1%)
+- 125g mashed sweet potato (see instructions) (22%)
 
 Tools required:
-Large mixing bowl with cover, or plastic wrap
-Wooden spoon
-Kitchen Scale
-Baking Stone
-Peel
-Tea towels, or linen baker’s couches
-Small pot
-Immersion blender
+=====
+- Large mixing bowl with cover, or plastic wrap
+- Wooden spoon
+- Kitchen Scale
+- Baking Stone
+- Peel
+- Tea towels, or linen baker’s couches
+- Small pot
+- Immersion blender
 
+Directions
+=====
 1. Peel sweet potato and cut into small chunks and measure out 125g.  Place sweet potato in small pot with just enough water to cover.  Bring water to boil and cook sweet potato until it can be mashed easily with a fork.
 
 2. When sweet potato is cooked, remove from heat and separate sweet potato from cooking liquid.
@@ -48,4 +52,5 @@ Immersion blender
 
 11. Let loaves cool completely before cutting and eating.
 
+**Links** \
 http://www.thefreshloaf.com/node/10061/sweet-potato-pugliese-bread
