@@ -1,24 +1,27 @@
+Challah
+=====
+
 Starter
 =======
-54 g all-purpose flour
-26 mL water
-⅛ tsp yeast
+- 54 g all-purpose flour
+- 26 mL water
+- ⅛ tsp yeast
 
 Dough
 =====
-All of the starter
-424 g all-purpose flour
-118 mL water (30% just water, 55% with eggs, 67% with eggs and honey)
-2½ tsp instant yeast
-1½ tsp salt
-120 g egg (about 3 eggs, use any leftover for the glaze)
-60 g honey (about 3 tbsp)
-60 g butter (≈4.23 tbsp, melted)
+- All of the starter
+- 424 g all-purpose flour
+- 118 mL water (30% just water, 55% with eggs, 67% with eggs and honey)
+- 2½ tsp instant yeast
+- 1½ tsp salt
+- 120 g egg (about 3 eggs, use any leftover for the glaze)
+- 60 g honey (about 3 tbsp)
+- 60 g butter (≈4.23 tbsp, melted)
 
 Glaze
 =====
-Remaining egg (33 g)
-¾ tsp water
+- Remaining egg (33 g)
+- ¾ tsp water
 
 Recipe
 ======
