@@ -6,7 +6,8 @@ Calories = unknown\
 From = Yi-Chang Liu and [Tartine Bakery](https://www.theperfectloaf.com/tartine-sourdough-country-loaf-bread-recipe/ )
 
 
-**[Day 1: After dinner--prepare the leaven]**
+**Day 1: After dinner: Prepare the leaven**
+----
 
 |Weight | Ingredient | Baker's Percentage|
 |:------|:---------|:-----|
@@ -19,8 +20,8 @@ From = Yi-Chang Liu and [Tartine Bakery](https://www.theperfectloaf.com/tartine-
 2. This recipe assumes you have a mature starter. To make a new sourdough starter, follow these instructions for 1 week:\
 https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-scratch/ 
 
-**[Day 2: 9:00 am--Autolyse]**
-
+**Day 2: 9:00 am: Autolyse**
+----
 - 250g leaven
 - 300g whole wheat flour (Great River Organic whole wheat flour or similar)
 - 700g unbleached all-purpose white flour (King Arthur or similar)
@@ -41,7 +42,8 @@ https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-
 
 7. Transfer your dough to a plastic or glass container and set a timer for 30 minutes. 
 
-**[Day 2: 10:00 am--Bulk Fermentation]**
+**Day 2: 10:00 am: Bulk Fermentation**
+----
 
 1. Here, we will perform 4 sets of turns, plus 1-2 hours rest on the counter. 
 
@@ -55,7 +57,8 @@ https://www.theperfectloaf.com/7-easy-steps-making-incredible-sourdough-starter-
 NOTE = Do this rather vigorously, the stretch up and down gives the dough strength. 
 
 
-**[Day 2: 1:40 pm--Pre-shape dough]**
+**Day 2: 1:40 pm: Pre-shape dough**
+----
 
 1. When the dough has risen 20-30% and your see a bunch of air pockets, it's reach for pre-shaping. 
 
@@ -67,7 +70,8 @@ NOTE = Do this rather vigorously, the stretch up and down gives the dough streng
 
 5. Repeat with the other half and then cover with an inverted mixing bowl for 30 min. 
 
-**[Day 2: 2:10 pm--Shape dough]**
+**Day 2: 2:10 pm: Shape dough**
+----
 
 1. After 30 minutes, the resting dough should have spread out, but not quite into a pancake shape. If it has formed a pancake, pre-shape 1 more time and wait an additional 40 min. 
 
@@ -81,14 +85,16 @@ How to shape a boule: https://www.theperfectloaf.com/guides/shaping-a-boule/
 
 How to shape a batard: https://www.theperfectloaf.com/guides/shaping-a-batard/ 
 
-**[Day 2: 2:20 pm--Proof]**
+**Day 2: 2:20 pm: Proof**
+----
 
 1. Place towels into small mixing bowls or proofing baskets and dust with white rice flour. 
 
 2. Take taut boules and place them in the bowls with the seam side facing up. Then place each bowl into plastic bags and place in the fridge. 
 
 
-**[Day 3: 9:00 am--Score and Bake]**
+**Day 3: 9:00 am: Score and Bake**
+----
 
 1. Preheat oven to 450F with rack in bottom 1/3. 
 
