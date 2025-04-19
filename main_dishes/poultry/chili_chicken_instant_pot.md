@@ -1,5 +1,8 @@
+Instant Pot Chicken Chili
+=====
+
 Ingredients
-===========
+----
 - 2 15 ounce cans diced tomatoes
 - 2 cups water or stock or beer
 - 1 pound frozen chicken breasts
@@ -10,8 +13,8 @@ Ingredients
 - 1 teaspoon onion powder
 - 1 teaspoon salt
 
-Instructions
-============
+Directions
+----
 1. Place all ingredients but the tomatoes into the pressure cooker and stir.
 
 2. And in the diced tomatoes and do not stir in.
@@ -24,5 +27,5 @@ Instructions
    25 minutes before manually releasing pressure. 
 
 Reference
-=========
-https://amindfullmom.com/instant-pot-chicken-chili/
+----
+- https://amindfullmom.com/instant-pot-chicken-chili/
