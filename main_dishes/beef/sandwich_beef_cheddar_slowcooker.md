@@ -7,6 +7,7 @@ From = Cheryl Fitzsimmons
 
 
 **Ingredients**
+----
 - 2-3 lb chuck roast
 - Salt, pepper, garlic powder
 - olive oil
@@ -21,7 +22,7 @@ From = Cheryl Fitzsimmons
 
 
 **Directions**
-
+----
 1. Season chuck roast on all sides with salt, pepper, and garlic powder. Add olive oil to large skillet and heat to medium-high heat. Sear roast on all sides until browned. 
 
 2. Add roast to large crockpot with 2 cups beef broth. Season with ranch seasoning, steak seasoning, and minced garlic. 
