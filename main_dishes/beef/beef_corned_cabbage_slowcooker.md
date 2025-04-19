@@ -6,6 +6,7 @@ Servings = 8-10 sandwiches \
 From: Cheryl Fitzsimmons
 
 **Ingredients**
+----
 - 5-6 cloves garlic, crushed
 - 1 small yellow or white onion, cut into wedges
 - 3 cups water
@@ -25,6 +26,7 @@ From: Cheryl Fitzsimmons
 
 
 **Directions**
+----
 1. First place onion wedges and garlic at the bottom of your 6-8qt crockpot.Place beef on top of onions and garlic.
 
 2. Next, mix together water, beer, sugar and vinegar. Pour over beef and then sprinkle seasoning packet over meat.  If using homemade corned beef seasoning recipe, simply mix together spices and sprinkle on top of beef.
