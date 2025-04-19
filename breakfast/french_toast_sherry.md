@@ -1,15 +1,16 @@
-I'm curious what french toast with sherry would taste like.
+Sherry French Toast
+====
 
 Ingredients
 ===========
-4 eggs
-½ cup of milk
-¼ cup of cream sherry
-3 tbsp brown sugar
-1 tsp ground nutmeg
-1 tsp vanilla extract
-12 slices day old French or Italian bread
-1 tbsp ground cinnamon
+- 4 eggs
+- ½ cup of milk
+- ¼ cup of cream sherry
+- 3 tbsp brown sugar
+- 1 tsp ground nutmeg
+- 1 tsp vanilla extract
+- 12 slices day old French or Italian bread
+- 1 tbsp ground cinnamon
 
 Recipe
 ======
