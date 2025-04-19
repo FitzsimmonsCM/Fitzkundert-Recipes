@@ -7,6 +7,7 @@ From: Aunt Gerry and Uncle Dan\
 Notes: Wedding reception recipe book, slow cooker 
 
 **Ingredients**
+----
 - 1 lb ground beef or ground turkey, browned
 - 1 can rotel tomatoes, mild or hot
 - 1 16 oz pkg frozen tater tots (some places only sell 32 oz)
@@ -16,7 +17,7 @@ Notes: Wedding reception recipe book, slow cooker
 - side salad (to accompany)
 
 **Directions**
-
+----
 1. Brown beef. Once browned, add chopped onion and tomatoes.
 
 2. Pour beef and onion mixture into slow cooker sprayed with PAM or similar.
