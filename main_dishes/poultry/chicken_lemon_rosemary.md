@@ -1,9 +1,13 @@
+Lemon Rosemary Chicken
+====
+
 Time = 20 min prep + 30 min cook\
 Servings = 4\
 Calories = 498\
-From: lifemadesweeter.com\
+From: lifemadesweeter.com
 
-[Ingredients]
+Ingredients:
+----
 
 -  6 bone-in skin-on or skinless chicken thights, approx 1.5 lbs. (Can sub 3 med chicken breasts, pounded to even thickness)
 -  sea salt and fresh ground pepper, to your taste
@@ -17,7 +21,8 @@ From: lifemadesweeter.com\
 -  2 medium lemons, juiced
 -  1 lemon, sliced into rounds
 
-[Directions]
+Directions:
+----
 
 1.  Season chicken with salt, pepper, minced rosemary, and lemon zest on both sides. 
 
