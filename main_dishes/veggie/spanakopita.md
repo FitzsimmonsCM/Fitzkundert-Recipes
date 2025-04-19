@@ -1,5 +1,8 @@
+Spanakopita
+=====
+
 Ingredients
-===========
+----
 - 8 cups chopped mixed greens and tender stems, gently packed (about 12 1/2 ounces; 350g), such as spinach, watercress, arugula, and Swiss chard
 - 1 cup chopped mixed tender herbs and tender stems (about 2 ounces; 60g), such as dill, parsley, chervil, and chives
 - 54 g (1/4 cup, 2 oz) extra-virgin olive oil, plus more
@@ -20,7 +23,7 @@ Ingredients
 - 6 sheets phyllo dough, thawed
 
 Directions
-==========
+----
 - The night before: thaw the phyllo dough in the fridge.
 
 - Preheat the oven to 400°F with the rack in the lower-middle position.
@@ -72,5 +75,5 @@ Directions
   least 15 minutes before serving.
 
 Reference
-=========
+-----
 https://www.seriouseats.com/recipes/2018/07/spanakopita-greek-savory-greens-pie.html
