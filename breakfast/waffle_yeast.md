@@ -1,5 +1,8 @@
+Yeast-Risen Waffle
+=====
+
 Ingredients
-===========
+----
 - 241 g all-purpose flour
 - 340 mL (1½ cups) milk
 - 6 tbsp (85 g) butter, melted
@@ -17,7 +20,7 @@ If using active dry yeast:
 - Use 281 g milk instead of 340 for batter.
 
 Recipe
-======
+----
 1. Combine all the ingredients in a large bowl.  Mix until well-incorporated, 
    but don't knead.
 
@@ -29,11 +32,11 @@ Recipe
    off.
 
 Notes
-=====
+----
 - Active dry yeast is probably better for the overnight version of this recipe
 
 Reference
-=========
+----
 http://www.kingarthurflour.com/recipes/belgian-style-yeast-waffles-recipe
 
 https://www.fleischmannsyeast.com/frequently-asked-questions/#:~:text=For%20each%20packet%20of%20yeast,is%20mixed%20into%20the%20yeast.
