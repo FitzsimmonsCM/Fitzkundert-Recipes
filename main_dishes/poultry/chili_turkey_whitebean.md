@@ -1,11 +1,14 @@
-Turkey and White Bean Chili \
-Time = 10 min prep + 40 min cook \ 
-Servings = 2
+Turkey and White Bean Chili
+=====
+
+Time = 10 min prep + 40 min cook \
+Servings = 2 \
 Calories = 640 per serving  \
 From: HelloFresh \
 Notes: This is a quick chili, but the longer it simmers the better
 
-[Ingredients]
+Ingredients:
+----
 - 1 yellow onion, diced
 - 1 clove garlic, minced
 - 1 jalapeno, de-seeded and minced
@@ -20,8 +23,8 @@ Notes: This is a quick chili, but the longer it simmers the better
 - salt and pepper, to your taste
 
 
-[Directions]
-
+Directions:
+-----
 1. In a large pot over medium heat, saute scallion whites, onion, garlic, and jalapeno until softened approx 5-7 min. 
 
 2. Add turkey and chili spice blend, using spatuala to break up large chunks. Cook until browned, approx 5-7 min. Add flour and stir to combine. 
