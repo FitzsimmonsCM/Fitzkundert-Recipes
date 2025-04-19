@@ -1,3 +1,6 @@
+Fritatta
+====
+
 Ingredients
 ===========
 - 1 cup cooked Mexican rice
