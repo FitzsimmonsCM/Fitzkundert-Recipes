@@ -2,11 +2,10 @@ Beef chili
 ======
 Time = 15 min prep and 2.5 hr (or longer) cook\
 Servings = feeds an army (approx 8-12 people)\
-Calories = unknown\
 From = Kevin McCusker
 
 **Ingredients**
-
+----
 - 2 medium yellow onions, diced
 - 2-3 cloves garlic, minced
 - 2 lbs ground beef (90/10 lean) (can sub tofu to make this chili vegetarian)
@@ -26,7 +25,7 @@ From = Kevin McCusker
 - olive oil
 
 **Spices**
-
+----
 - salt and pepper, to your taste
 - 1/2 tsp cayenne pepper
 - 1 Tbsp chili powder
@@ -36,7 +35,7 @@ From = Kevin McCusker
 - dash oregano
 
 **Directions**
-
+----
 1. If using dried beans, rehydrate overnight. If using canned beans, drain and rinse. Set aside. 
 
 2. Dice onions and garlic. Set aside in 1 pile. Dice carrots, celery, peppers. Set aside in a second pile. 
@@ -51,7 +50,7 @@ From = Kevin McCusker
 
 7. Boil for 5-10 minutes, stirring constantly to ensure chili does not bubble over. Reduce heat to simmer and add spices and 1-2 diced chipotle peppers. To start, use the amounts listed above, but you can always add more to your preference. 
 
-8. Allow chili to simmer for a minimum of 2 hours, stirring every 5-10 minutes or so. (The longer it can simmer, the better! Taste the chili occasionally. The spices can take a while to come together, so begin conservatively and add more as needed.)
+8. Allow chili to simmer for a minimum of 2 hours (longer is better), stirring every 5-10 minutes or so. (The longer it can simmer, the better! Taste the chili occasionally. The spices can take a while to come together, so begin conservatively and add more as needed.)
 
 9. Approx 30-40 minutes before you wish to serve, add the can of tomato paste and bake the corn bread (if using). (If chili is still a bit runny after 40 min, mix a 1:1 ratio of warm water and cornstarch. Slowly add this a few tsp at a time to help thicken the chili.)
 
