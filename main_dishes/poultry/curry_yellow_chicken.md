@@ -1,9 +1,10 @@
-Gang Garee Gai (yellow curry with chicken) \
-Time = 10 min prep and 15-20 min cook\
-Servings = approx 2-3 servings\
-Calories = unknown\
+Gang Garee Gai (yellow curry with chicken)
+====
+Time = 10 min prep and 15-20 min cook \
+Servings = approx 2-3 servings
 
-[Ingredients]
+Ingredients:
+----
 - 1 can (14 oz) coconut milk--do not shake
 - 2 Tbsp yellow curry paste
 - 1 large chicken breast, cut into bite-sized pieces
@@ -17,8 +18,8 @@ Calories = unknown\
 - kefir lime leaves, thin slice (garnish)
 - jasmine rice (garnish)
 
-[Directions]
-
+Directions:
+----
 1. Prepare ingredients. Cook rice according to directions and keep covered until ready to serve. Paraboil potatoes for approx 5 min and set aside. 
 
 2. Open can of coconut milk and scoop thicker cream later into pan (approx 1/2 cup). Heat cream over medium heat until oil just begins to separate from milk. Add yellow curry paste and saute until fragrent. 
