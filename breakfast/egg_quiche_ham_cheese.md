@@ -10,7 +10,7 @@ From = Cheryl Fitzsimmons
 - 2 cups ham, fully cooked and diced
 - 2 cups cheddar cheese, shredded
 - 2 tsp dried onion, minced
-- 4 large eggs
+- 8 large eggs
 - 2 cups half-and-half cream
 - 1/2 tsp salt
 - 1/4 tsp pepper
