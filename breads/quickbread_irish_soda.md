@@ -14,6 +14,7 @@ From: Cheryl Fitzsimmons
 - 1.5 cups buttermilk
 - 1 tsp salt
 - 4 Tbsp butter, melted
+- optional, 1 Tbsp caraway seeds
 
 **Directions**
 
