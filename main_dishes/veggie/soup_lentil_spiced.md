@@ -1,11 +1,12 @@
-Glowing Spiced Lentil Soup \
+Glowing Spiced Lentil Soup
+====
 Time = 15 min prep + 20 min cook \
 Servings = approx 7-8 cups \
 From = [Oh She Glows](https://ohsheglows.com/glowing-spiced-lentil-soup/)
 
 
 **Ingredients**
-
+----
 -  1.5 Tbsp (22.5 mL) extra-virgin olive oil
 -  2 cups (280 grams) diced onion (1 medium/large)
 -  2 large garlic cloves, minced
@@ -24,7 +25,7 @@ From = [Oh She Glows](https://ohsheglows.com/glowing-spiced-lentil-soup/)
 -  2 teaspoons (10 mL) fresh lime juice, or more to taste
 
 **Directions**
-
+----
 1.  In a large pot, add the oil, onion, and garlic. Add a pinch of salt, stir, and sauté over medium heat for 4 to 5 minutes until the onion softens.
 
 2.  Stir in the turmeric, cumin, cinnamon, and cardamom until combined. Continue cooking for about 1 minute, until fragrant.
