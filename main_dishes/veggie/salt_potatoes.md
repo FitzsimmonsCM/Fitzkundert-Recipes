@@ -29,6 +29,6 @@ From = [All Recipes](https://www.allrecipes.com/recipe/141785/syracuse-salt-pota
 
 **Notes**
 ----
-- Goes well with [Cornell BBQ chicken]() and baked beans! 
+- Goes well with [Cornell BBQ chicken](https://github.com/FitzsimmonsCM/Fitzkundert-Recipes/blob/main/main_dishes/poultry/chicken_BBQ_Cornell.md) and baked beans! 
 
 - History: The Syracuse area of New York has a long history of salt production. Brine from salt springs located around Onondaga Lake was used to create consumable salt that was distributed throughout the northeast via the Erie Canal. In the 19th century, Irish salt miners would bring a bag of small, unpeeled, potatoes to work each day, and boil the potatoes in the salt blocks.

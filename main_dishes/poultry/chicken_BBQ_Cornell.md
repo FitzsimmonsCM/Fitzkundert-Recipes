@@ -28,4 +28,4 @@ From = Barbara Bozon and [My Town](http://mytownagreatplacetolive.com/cornell-ch
 **Notes**
 -----
 
-- Goes well with [salt potatoes]() and baked beans! 
+- Goes well with [salt potatoes](https://github.com/FitzsimmonsCM/Fitzkundert-Recipes/blob/main/main_dishes/veggie/salt_potatoes.md) and baked beans! 
