@@ -1,10 +1,12 @@
-**Portobello Mushroom Burgers with Garlic Aoli** \
+**Portobello Mushroom Burgers with Garlic Aoli**
+====
+
 Time = 20 min \
 Servings = 4 servings \
 From = Raechel Harnoto
 
 **Ingredients**
-
+----
 - 4 portobello mushroom caps
 - 2 cups of arugula (or another lettuce type veggie if you don't like arugula)
 - 1 large heirloom tomato sliced
@@ -17,7 +19,7 @@ From = Raechel Harnoto
 - salt & pepper (to your taste)
 
 **Directions**
-
+----
 1. Preheat a grill to 375F and lightly oil
 
 2. Mince 4 of the garlic cloves and mix with the balsamic vinegar, oregano and basil
