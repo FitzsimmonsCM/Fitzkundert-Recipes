@@ -6,6 +6,7 @@ Calories = 328 per hot pocket \
 Macros = 29.5g carbs, 8g Fat, 32g protein
 
 **Ingredients**
+----
 - 120g Diced, Short Cut Bacon (can substitute beef or turkey bacon)
 - 6 Whole Eggs & 150g Egg Whites, whisked (can substitute 8 regular eggs)
 - 400g All-Purpose Flour
@@ -17,7 +18,7 @@ Macros = 29.5g carbs, 8g Fat, 32g protein
 - Garlic Powder, Onion Powder, Salt & Black Pepper (to your taste)
 
 **Directions**
-
+----
 1. Cook bacon until crispy. Set aside on paper towel to absorb excess oil. Dice
 
 2. Cook eggs on low or medium-low heat until fluffy. Season with salt and pepper. 
@@ -36,7 +37,7 @@ Macros = 29.5g carbs, 8g Fat, 32g protein
 
 
 **Reheat instructions**
-
+----
 Microwave = 3 - 5 Minutes (flip half way) \
 Air Fryer = 5 - 10 min 180C (350F) \
 Conventional Oven = 5 - 10 min 200C (400F) 
