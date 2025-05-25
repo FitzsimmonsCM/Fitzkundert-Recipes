@@ -1,11 +1,12 @@
-Fastnachts \
+Fastnachts
+====
 Time = 45 min prep + 3.5 hr rise + 20 min cook \
 Servings = makes approx 20-24 Fastnachts \
 Calories = 203 per fastnacht \
 From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 **Dough Ingredients**
-
+----
 -  2 cups whole milk
 -  1 cup mashed potatos (no salt, milk or butter added)
 -  1/2 cup + 1/2 tsp white sugar
@@ -20,7 +21,7 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 
 **Making Fastnacht Dough and 1st Rise**
-
+----
 1.  Scald the milk. Combine scaled milk with mashed potatoes. Add 1/2 cup sugar and butter. Cool to room temperature before proceeding with the next step. 
 
 2.  Dissolve yeast and 1/2 tsp sugar into lukewarm water. 
@@ -36,7 +37,7 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 
 **Rolling Out Fastnachts and 2nd Rise**
-
+----
 7. On a lightly floured surface, roll dough approx 3/4 inch thick. 
 
 8.  Cut the dough into 3-4 inch wide strips. Then cut the strips into 3-4 inch pieces. 
@@ -48,7 +49,7 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 
 **Frying Fastnachts**
-
+----
 11.  Heat shortening to 365F (check with a high-temp frying thermometer).
 
 12.  Deep fry until both sides are golden brown, turning 1 time. (ADULT ONLY JOB)
@@ -59,9 +60,9 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 
 **Fastnacht Toppings**
-
-*Glaze* \
-Beat together: \
+----
+*To Glaze* \
+Beat together:
 -  2.5 cups confectioner's sugar
 -  4 Tbsp margarine
 -  1 tsp vanilla
@@ -69,5 +70,5 @@ Beat together: \
 
 Drizzle glaze over slightly warm Fastnachts or dip into glaze
 
-*Powdered* \
+*To Powder* \
 Shake slightly warm Fastnachts in a bag with confectioner's sugar or a combination of confectioner's sugar and cinnamon (1 cup sugar + 2 Tbsp cinnamon). 
