@@ -3,21 +3,21 @@ Fastnachts
 Time = 45 min prep + 3.5 hr rise + 20 min cook \
 Servings = makes approx 20-24 Fastnachts \
 Calories = 203 per fastnacht \
-From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
+From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lancaster Farming ](https://www.lancasterfarming.com/country-life/food-and-recipes/heres-how-you-make-real-lancaster-county-fasnachts/article_373d8e4d-279a-5518-9710-23740c8e9ebc.html)
+
 
 **Dough Ingredients**
 ----
 -  2 cups whole milk
--  1 cup mashed potatos (no salt, milk or butter added)
+-  1 cup mashed potatoes (no salt, milk or butter added)
 -  1/2 cup + 1/2 tsp white sugar
 -  1 stick unsalted butter, melted
--  1 packet rapid rise yeast
+-  1 packet rapid rise yeast (rapid-rise yeast creates a fluffy texture)
 -  1/4 cup luke warm water
 -  6.5 cups AP flour, sifted and divided (2 cups + 4.5 cups)
 -  1 egg, beaten
 -  1 can Crisco shortening (3 lbs) (or similar vegetable shortening for frying)
 -  stand mixer
-
 
 
 **Making Fastnacht Dough and 1st Rise**
@@ -46,8 +46,6 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 
 10.  Arrange dough pieces about 2 inches apart on wax-lined trays. Cover with a thin towel. Place trays in warm place for about 45-60 min to rise, or until pieces have raised and doubled in size. 
 
-
-
 **Frying Fastnachts**
 ----
 11.  Heat shortening to 365F (check with a high-temp frying thermometer).
@@ -55,9 +53,6 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/)
 12.  Deep fry until both sides are golden brown, turning 1 time. (ADULT ONLY JOB)
 
 13.  Drain on paper towels and cool completely before serving. 
-
-
-
 
 **Fastnacht Toppings**
 ----
@@ -72,3 +67,8 @@ Drizzle glaze over slightly warm Fastnachts or dip into glaze
 
 *To Powder* \
 Shake slightly warm Fastnachts in a bag with confectioner's sugar or a combination of confectioner's sugar and cinnamon (1 cup sugar + 2 Tbsp cinnamon). 
+
+*To eat traditionally* \
+Slice lengthwise like a bagel and spread with butter (optional), plus table syrup like [Mrs. Schlorer’s Turkey Syrup](https://www.goldenbarrel.com/product/mrs-schlorers-turkey-golden-table-syrup/) or [Golden Barrel Table Syrup](https://www.goldenbarrel.com/product/golden-barrel-table-syrup/).
+
+
