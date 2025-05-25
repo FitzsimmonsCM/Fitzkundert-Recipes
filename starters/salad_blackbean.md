@@ -3,7 +3,6 @@ Blackbean Salad
 
 Time = 15 min prep \
 Servings = 8 servings as side dish or 2 servings as main course \
-Calories = unknown \
 From: Nadia and Danny \
 Notes: Wedding reception recipe
 
