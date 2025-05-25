@@ -1,11 +1,13 @@
-Time = 15 min\
-Servings = 4-6\
-Calories = unknown\
-From: Aunt Gerry and Uncle Dan
+Texas Chicken Nachos
+====
+
+Time = 15 min \
+Servings = 4-6 \
+From: Aunt Gerry and Uncle Dan \
 Notes: Wedding reception recipe, no actual tortilla chips! 
 
-[Ingredients]
-
+**Ingredients**
+----
 -  1.5 lbs chicken tenders
 -  1.5 cheddar cheese, shredded
 -  1.5 tsp kosher salt
@@ -19,8 +21,8 @@ Notes: Wedding reception recipe, no actual tortilla chips!
 -  6 slices bacon, cooked and crumbled
 -  ranch or blue cheese dressing (garnish)
 
-[Directions]
-
+**Directions**
+----
 1.  Heat oven to 350F. 
 
 2.  Combine and mix spices. Sprinkle and rub over chicken. Place on baking sheet, leaving 1/2 inch between. 
