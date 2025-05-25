@@ -1,15 +1,18 @@
+Green Beans
+====
+
 Ingredients
-===========
-1 lb green beans, trimmed
-1/2 lb (5 thick-cut slices) bacon
-1/3 cup crumbled blue cheese
-1/3 cup chopped nuts (e.g. walnuts or almonds) (see tip)
-1 lemon
-1/4 tsp salt
-1/4 tsp pepper
+----
+- 1 lb green beans, trimmed
+- 1/2 lb (5 thick-cut slices) bacon
+- 1/3 cup crumbled blue cheese
+- 1/3 cup chopped nuts (e.g. walnuts or almonds) (see tip)
+- 1 lemon
+- 1/4 tsp salt
+- 1/4 tsp pepper
 
 Preparation
-===========
+----
 1. Trim and blanche green beans.
 
     - Fill a large bowl with ice water.
