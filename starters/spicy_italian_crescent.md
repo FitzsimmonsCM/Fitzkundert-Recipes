@@ -4,7 +4,8 @@ Time = 20 min prep + 40 min bake \
 Servings = 6-8 servings \
 From: Cheryl Fitzsimmons
 
-----**Ingredients**----
+**Ingredients**
+----
 
 - 2 can (8 oz) refrigerated pillsbury original crescent rolls
 - 8 slices provolone cheese, halved
@@ -16,7 +17,8 @@ From: Cheryl Fitzsimmons
 - 1/8 tsp black pepper
 
 
-----**Directions**----
+**Directions**
+----
 
 1. Preheat oven to 375F (350F if using non-stick cooking sheet)
 
