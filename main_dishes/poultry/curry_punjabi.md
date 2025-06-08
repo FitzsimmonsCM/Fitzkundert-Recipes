@@ -3,7 +3,7 @@ Punjabi Curry
 
 Time = 15 min prep + 30 min cook \
 Servings = 4-6 servings \
-From = Needhi Bhalla (UCSC)
+From = [Needhi Bhalla (UCSC)](https://x.com/needhibhalla/status/1115071947878961152?s=11)
 
 
 **Basic Ingredients**
@@ -17,7 +17,7 @@ From = Needhi Bhalla (UCSC)
 -  optional (1/4 to 1 tsp chili pepper depending on how spicy you like it)
 -  2-3 tsp chopped ginger 
 -  1.5 tsp tomato paste
--  1.5 lbs protein (chicken breast, chicken thighs, lamb, or beef) chopped into pieces. 
+-  1.5 lbs protein (chicken breast, chicken thighs, lamb, or beef) chopped into bite-sized pieces. 
 -  1 medium or large potato, diced
 -  2 Tbsp whole milk plain yogurt
 
@@ -34,7 +34,7 @@ From = Needhi Bhalla (UCSC)
 
 2. Add spices in the following order, mixing after each one: turmeric, coriander, cumin, chili pepper (optional), ginger. Spices can be adjusted up or down depending upon your taste, but keep the same overall ratio. 
 
-3. Once spices are mixed, add tomato paste. Mix and cook until you start to see the oil separating from the paste (approx 3-5 min). Add chicken (or protein of choice) stirring to coat. 
+3. Once spices are mixed, add 1.5 or 2 tsp tomato paste. Mix and cook until you start to see the oil separating from the paste (approx 3-5 min). Add chicken (or protein of choice) stirring to coat. 
 
 4. Cook protein until almost cooked through (approx 10-15 min) and it begins to release its own water. Add yogurt and mix. Add water to desired thickness. Add diced potato and allow to simmer until potato is cooked through. 
 
