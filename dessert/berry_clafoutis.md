@@ -1,5 +1,8 @@
+Berry Clafoutis
+====
+
 Ingredients
-===========
+----
 - 1¼ cups milk (whole or 2%)
 - ⅔ cups sugar
 - 3 eggs
@@ -11,7 +14,7 @@ Ingredients
 - butter (for greasing the pan)
 
 Recipe
-======
+----
 1. Preheat oven to 350°F and grease a baking pan.
 
 2. Blend the milk, sugar (just ⅓ cup), eggs, vanilla, flour, and salt at top 
@@ -30,7 +33,7 @@ Recipe
 6. Sprinkle with powdered sugar and serve warm.
 
 Notes
-=====
+----
 A commenter says:
 
     Prefer recipe from "A Provincial Table," by Richard Olney
