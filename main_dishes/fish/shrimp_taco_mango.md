@@ -1,10 +1,11 @@
-Shrimp tacos with mango avocado salsa \
+Shrimp tacos with mango avocado salsa
+====
 Time = 10 min prep + 10 min cook \
 Servings =  8 tacos \
 From = Starlynn Clarke
 
 **Taco Ingredients**
-
+----
 - Corn tortillas - 8 or as many as you want
 - 1 lb shrimp, de-veined and thawed (amount flexible)
 - 1 small white or yellow onion or shallot - 1
@@ -14,6 +15,7 @@ From = Starlynn Clarke
 - fresh cilantro and limes wedges (garnish)
 
 **Salsa Ingredients**
+----
 - 1-2 ripe mangos
 - 1 ripe avocado
 - 2 medium, ripe tomatoes (the most flavorful you can find)
@@ -21,7 +23,7 @@ From = Starlynn Clarke
 - 1 lime, juiced
 
 **Directions**
-
+----
 1. Chop and combine mango, avocado, tomatoes and onion or peppers if using into a chunky salsa. Add lime juice and toss salsa.
 
 2. Heat oil in a saute pan then add in garlic and stir for 30 seconds followed by onion or shallot.
@@ -36,5 +38,5 @@ From = Starlynn Clarke
 
 
 **Notes**
-
+----
 1. A light, fresh summer taco recipe, very amenable to changing depending on the ingredients and spices you have on hand.  
