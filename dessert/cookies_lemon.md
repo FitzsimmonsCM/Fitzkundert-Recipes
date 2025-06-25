@@ -1,5 +1,8 @@
-**Fresh Ingredients Lemon Crinkle Cookies**
+Lemon Crinkle Cookies (2 ways!)
+===
 
+**Version 1: Fresh Ingredients**
+----
 - 240g all-purpose flour, sifted
 - 1/2 tsp baking soda
 - 1/4 tsp salt
@@ -50,10 +53,8 @@
 13. Makes approx 25 cookies and the recipe doubles well! Store cookies in an air-tight container. 
 
 
-
-
-**I'm in a Hurry Lemon Crinkle Cookies**
-
+**Version 2: I'm in a Hurry**
+----
 - 1 box of lemon cake mix (I like Duncan Hines Brand, but any brand is fine)
 - 1 egg
 - 1 8 oz tub of Cool Whip, thawed
