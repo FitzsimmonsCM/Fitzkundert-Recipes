@@ -4,7 +4,7 @@ Time =  min prep + 80 min cook \
 Servings = approx 8-10 people
 
 Ingredients
-===========
+----
 - 1 pound ground beef (90/10)
 - 3/4 pound bulk pork sausage
 - 3 cans (8 ounces each) tomato sauce
@@ -27,7 +27,7 @@ Ingredients
 - 3 cups shredded part-skim mozzarella cheese, divided
 
 Directions
-==========
+----
 1. In a large skillet over medium heat, cook and crumble beef and sausage until no longer pink; drain. Add next seven ingredients. Bring to a boil. Reduce heat; simmer, uncovered, 1 hour, stirring occasionally. Adjust seasoning with additional salt and pepper, if desired. Tip: For a deeper flavor, allow the red sauce to mature overnight in the refrigerator.
 
 2. Meanwhile, in a large bowl, lightly beat eggs. Add parsley; stir in nutmeg, cottage cheese, ricotta and Parmesan cheese.
