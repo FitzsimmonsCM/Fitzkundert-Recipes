@@ -4,7 +4,7 @@ Time = 15 min prep  \
 Servings = 4-6 people
 
 **Ingredients**
-
+----
 - 6 cups seedless watermelon, cubed
 - 1/2 cup feta cheese, crumbled
 - 3 Tbsp balsamic vinegar or balsamic glaze
@@ -13,7 +13,7 @@ Servings = 4-6 people
 
 
 **Directions**
-
+----
 1. Cut watermelon and mint. 
 
 2. In a large bowl, add watermelon, mint, crumble feta, and dress with balsamic vinegar. 
