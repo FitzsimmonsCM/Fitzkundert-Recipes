@@ -6,6 +6,7 @@ From: Aunt Gerry + Uncle Dan\
 Notes: Wedding reception recipe book
 
 **Ingredients**
+----
 
 -  1/2 cup mayo
 -  1/2 cup ketchup
@@ -15,6 +16,7 @@ Notes: Wedding reception recipe book
 -  milk (optional, to thin) (add 1 Tbsp at a time)
 
 **Directions**
+----
 
 1.  Combine all ingredients in a bowl Mix to blend until creamy. Add milk to thin to desired consistency. 
 
