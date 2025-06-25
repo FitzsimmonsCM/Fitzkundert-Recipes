@@ -1,11 +1,13 @@
+Candybar Cupcakes
+====
 Time = 10 min prep + 18 min bake\
 Servings = approx 20 cupcakes\
 Calories = unknown\
 From: Aunt Gerry + Uncle Dan\
 Notes: Wedding reception recipe
 
-[Ingredients]
-
+**Ingredients**
+----
 -  8 bars (10 oz) Butterfinger Bites, finely choppped
 -  1 box Supermoist cake mix
 -  1 1/4 cup water
@@ -13,8 +15,8 @@ Notes: Wedding reception recipe
 -  3 egg whites
 -  1 tub creamy Deluxe milk chocolate ready-spread frosting
 
-[Directions]
-
+**Directions**
+----
 1.  Preheat oven to 350F. Line muffin tin with paper baking cups. 
 
 2.  Finely chop candy bars to equal 1/4 cup. (Candy bars easier to cut if refrigerated first.)
