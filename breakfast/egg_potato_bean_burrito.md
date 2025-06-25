@@ -3,7 +3,7 @@ Breakfast Burritos
 
 Time = 30 min prep + 5-10 min reheat \
 Servings = Approx 8 burritos \
-From: [Jenn Eats Good](https://jenneatsgoood.com/black-bean-cheddar-breakfast-burritos/) and [Smitten Kitchen](https://smittenkitchen.com/2018/09/breakfast-burritos/)\
+From: [Jenn Eats Good](https://jenneatsgoood.com/black-bean-cheddar-breakfast-burritos/) and [Smitten Kitchen](https://smittenkitchen.com/2018/09/breakfast-burritos/)
 
 
 **Ingredients**
