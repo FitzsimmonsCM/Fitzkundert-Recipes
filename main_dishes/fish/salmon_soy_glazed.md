@@ -1,10 +1,12 @@
-Soy-ginger glazed salmon \
+Soy-ginger glazed salmon
+====
 Time = 1 hr\
 Servings = 4 servings\
 Calories = 350 per serving\
 From = Becca Levin
 
-[Ingredients]
+**Ingredients**
+----
 - 1 cup reduced-sodium soy sauce
 - 1/4 cup honey
 - 1/2 tsp garlic, minced
@@ -14,7 +16,8 @@ From = Becca Levin
 - jasmine rice (garnish)
 - green vegetable (bok choy, broccoli, asparagus, or similar) (garnish)
 
-[Directions]
+**Directions**
+----
 
 1. Preheat oven to 450F
 
