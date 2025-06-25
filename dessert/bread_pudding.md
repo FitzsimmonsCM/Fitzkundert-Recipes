@@ -1,7 +1,7 @@
-Bread Pudding with Whiskey Cream Sauce \
+Bread Pudding with Whiskey Cream Sauce
+====
 Time = 15 min prep + 40 min cook \
-Servings = 4-6 people \
-Calories = unknown 
+Servings = 4-6 people
 
 **Bread Pudding Ingredients**
 
