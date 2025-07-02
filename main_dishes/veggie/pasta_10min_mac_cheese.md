@@ -4,7 +4,8 @@ Servings = approx 2 hungry people \
 From: [Serious Eats](https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe?utm_source=yt&utm_campaign=jan17)
 
 **Ingredients**
--  180g small elbow macaroni
+-  360 mL water
+-  180 g small elbow macaroni
 -  180 mL evaporated milk
 -  170 g grated mild or medium cheese (cheddar, fontina, gruyere, colby jack)
 -  salt and pepper (to your taste)
