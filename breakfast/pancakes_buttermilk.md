@@ -5,25 +5,27 @@ Servings = approx 16 pancakes \
 Calories = approx 400 calories per serving \
 From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluffy-pancakes-recipe.html)
 
-**Basic Dry Pancake Ingredients**
-
--  10 ounces (about 2 cups) all-purpose flour
+Basic Dry Pancake Ingredients
+-----------------------------
+-  283 g (about 2 cups) all-purpose flour
 -  1 tsp baking powder
 -  1/2 tsp baking soda
 -  1 tsp kosher salt
--  1 Tbsp sugar
+-  1 tbsp sugar
 
-**For Each Batch of Pancakes**
-
+For Each Batch of Pancakes
+--------------------------
 -  2 large eggs, separated
--  1.5 cups (about 12 ounces) buttermilk (see notes)
--  1 cup (about 8 ounces) sour cream (see notes)
--  4 tablespoons unsalted butter, melted, plus more for serving
+-  1.5 cups (12 ounces) buttermilk (see notes)
+-  1 cup (240 g) sour cream (see notes)
+-  56 g (4 tbsp) unsalted butter, melted
 -  Warm maple syrup
 
-**Directions**
-
-1.  For dry pancake mix: Combine flour, baking powder, baking soda, salt, and sugar in a medium bowl and whisk until homogeneous. Transfer to an airtight container. The mix will stay good for 3 months. (See notes.)
+Directions
+----------
+1.  For dry pancake mix: Combine flour, baking powder, baking soda, salt, and 
+    sugar in a medium bowl and whisk until homogeneous. Transfer to an airtight 
+    container. The mix will stay good for 3 months. (See notes.)
 
 2. For each batch of pancakes: Place one batch of dry mix in a large bowl. In a medium clean bowl, whisk the egg whites until stiff peaks form. 
 
@@ -37,9 +39,11 @@ From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluf
 
 7.  Serve the pancakes immediately, or keep warm on a wire rack set on a rimmed baking sheet in a warm oven while you cook the remaining 3 batches. Serve with warm maple syrup and butter.
 
-**Notes**
-
-1.  Pancake dry mix can be scaled up as many times as you'd like. Each batch of pancakes takes 11 ounces of dry mix to make (about 2 cups plus 2 tablespoons). 
+Notes
+-----
+1.  Pancake dry mix can be scaled up as many times as you'd like. Each batch of 
+    pancakes takes 11 ounces of dry mix to make (about 2 cups plus 2 
+    tablespoons). 
 
 2.  The buttermilk can be substituted as follows:
 
