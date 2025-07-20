@@ -1,5 +1,5 @@
 Buttermilk Pancakes
-=====
+===================
 Time = 15 min prep + 20 min cook \
 Servings = approx 16 pancakes \
 Calories = approx 400 calories per serving \
@@ -16,7 +16,7 @@ From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluf
 **For Each Batch of Pancakes**
 
 -  2 large eggs, separated
--  1.5 cups (about 12 ounces) buttermilk
+-  1.5 cups (about 12 ounces) buttermilk (see notes)
 -  1 cup (about 8 ounces) sour cream (see notes)
 -  4 tablespoons unsalted butter, melted, plus more for serving
 -  Warm maple syrup
@@ -37,9 +37,15 @@ From = [serious eats](https://www.seriouseats.com/recipes/2010/06/light-and-fluf
 
 7.  Serve the pancakes immediately, or keep warm on a wire rack set on a rimmed baking sheet in a warm oven while you cook the remaining 3 batches. Serve with warm maple syrup and butter.
 
-
 **Notes**
 
 1.  Pancake dry mix can be scaled up as many times as you'd like. Each batch of pancakes takes 11 ounces of dry mix to make (about 2 cups plus 2 tablespoons). 
 
-2.  The sour cream can be replaced with more buttermilk.
+2.  The buttermilk can be substituted as follows:
+
+    - 2 parts yogurt (regular or greek), 1 part milk
+    - 1 part sour cream, 1 part milk
+    - 1 part crème fraîche, 1 part milk
+
+3.  The sour cream can be replaced with more buttermilk.
+
