@@ -1,8 +1,9 @@
-Gringo Taco Salad
+Taco Salad
 ====
 
 Time = 10 min prep + 15 min cook \
-From: Kelly Rush, SCRB
+Servings = 4-6 \
+From: Kelly Rush (HSCRB)
 
 
 **Ingredients**
