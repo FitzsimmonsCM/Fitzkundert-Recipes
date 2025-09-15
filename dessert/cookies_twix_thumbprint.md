@@ -1,8 +1,8 @@
 Twix Thumbprint Cookies
 ====
 
-Time =
-Servings = approx 24 cookies
+Time = 15 min prep + 10 min bake + 1 hr rest \
+Servings = approx 24 cookies \
 From: Cookies for Days
 
 **Ingredients**
@@ -44,5 +44,5 @@ From: Cookies for Days
 
 
 **Notes**
-
+----
 - [Website Link](https://cookiesfordays.com/wprm_print/twix-thumbprint-cookies)
