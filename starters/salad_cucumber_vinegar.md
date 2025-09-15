@@ -1,9 +1,9 @@
 Cucumber Salad
 ====
 
-Time = 10 min prep
-Servings = 3-4 servings
-From: Eva Tomczyk
+Time = 10 min prep \
+Servings = 3-4 servings \
+From: Eva Tomczyk (HSCRB)
 
 **Ingredients**
 

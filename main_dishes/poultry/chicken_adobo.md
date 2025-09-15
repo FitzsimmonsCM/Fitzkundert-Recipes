@@ -1,9 +1,9 @@
 Lola’s chicken adobo recipe
 ====
 
-Time = 10 min prep + 1-2 hr cook
-Servings = 4-6 servings
-From: Kelly Hayes
+Time = 10 min prep + 1-2 hr cook \
+Servings = 4-6 servings \
+From: Kelly Hayes (HSCRB) \
 Author’s note: This recipe can be altered and changed in a multitude of ways. Adobo is also a very contentious filipino dish with everyone thinking their grandma/lola’s is the best (but mine is). 
 
 **Ingredients**

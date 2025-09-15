@@ -1,24 +1,24 @@
 Chili Tofu with Miso Lo Mein
 ====
 
-Time = 15 min prep + 20 min cook
-Servings = 2 hearty servings
+Time = 15 min prep + 20 min cook \
+Servings = 2 hearty servings \
 From: Hello Fresh
 
 **Ingredients**
 ----
-1 medium cucumber, peeled and cut into quarter moons
-4 oz edamame, shelled and rinsed
-4 oz miso ginger dressing
-1 Tbsp cornstarch
-1 block tofu, pressed and cut into 1/2 in cubes
-4.5 oz lo mein noodles
-1/2 tsp vidalia onion paste
-2 oz sweet thai chili sauce
-2 oz red cabbage, shredded
-2 oz carrots, shredded
-crispy fried onions, to garnish
-salt and pepper, to your taste
+- 1 medium cucumber, peeled and cut into quarter moons
+- 4 oz edamame, shelled and rinsed
+- 4 oz miso ginger dressing
+- 1 Tbsp cornstarch
+- 1 block tofu, pressed and cut into 1/2 in cubes
+- 4.5 oz lo mein noodles
+- 1/2 tsp vidalia onion paste
+- 2 oz sweet thai chili sauce
+- 2 oz red cabbage, shredded
+- 2 oz carrots, shredded
+- crispy fried onions, to garnish
+- salt and pepper, to your taste
 
 **Directions**
 ----

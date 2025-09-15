@@ -1,4 +1,6 @@
-**Alex's Mac and Cheese Bake** \
+**Alex's Mac and Cheese Bake** 
+====
+
 Time = 15 min prep + 1 hour bake \
 Servings = 4-6 people \
 From: Alex Mitchell \
