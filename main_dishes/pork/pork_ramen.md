@@ -40,38 +40,41 @@ Pork marinade ingredients
 
 Instructions
 ============
-1. Mix together the chicken stock, soy sauce (1/4 cup), rice vinegar (1/4 cup), 
-   fish sauce, curry paste, ginger, sambal oelek, lime juice, five-spice, black 
-   pepper, and brown sugar (1/4 cup) in the bowl of a crockpot, then add the 
-   pork.
+Morning:
 
-2. Cook on low for 7-8 hours.
+- Mix together the chicken stock, soy sauce (1/4 cup), rice vinegar (1/4 cup), 
+  fish sauce, curry paste, ginger, sambal oelek, lime juice, five-spice, black 
+  pepper, and brown sugar (1/4 cup) in the bowl of a crockpot, then add the 
+  pork.
 
-3. About 40 minutes before you are ready to eat, get ready to roast the squash 
-   by preheating the oven to 400°F.
+- Cook on low for 7-8 hours.
 
-4. In a small bowl mix together the melted coconut oil, curry powder, miso 
-   paste, brown sugar and a good pinch of pepper.  Spread the cubed squash on a 
-   greased baking sheet and pour the curry mixture over the squash. Toss well.  
+2h before eating:
 
-5. Bake for 30-40 minutes, tossing a couple of times during cooking. You want 
-   the squash to be lightly browned and crisp.
+- Preheat the oven to 400°F.
 
-6. Meanwhile, remove the pork from the crockpot and replace it with the 
-   mushrooms.  Cover the crockpot and crank the heat up to high.  In a medium 
-   bowl, lightly shred the pork.
+- Dice the squash into bite-size pieces.  Mix together the melted coconut oil, 
+  curry powder, miso paste, brown sugar and pepper, then toss with the squash 
+  to coat.  Spread over a lined baking sheet.
 
-7. Heat a large skillet over medium heat.  Add the sesame oil.  Once hot, add 
-   enough pork to cover just the surface of your skillet.  Mix together the 
-   pork marinade and drizzle the mixture over the pork.  Stir and allow the 
-   pork to caramelize.  The process should take 5-10 minutes.  Once one batch 
-   of pork is done remove it from the skillet and continue with the next batch.
+- Bake for 30-40 minutes, tossing a couple of times during cooking. You want 
+  the squash to be lightly browned and crisp.
+
+- Meanwhile, remove the pork from the crockpot and replace it with the 
+  mushrooms.  Cover the crockpot and crank the heat up to high.  In a medium 
+  bowl, lightly shred the pork.
+
+- Heat a large skillet over medium heat.  Add the sesame oil.  Once hot, add 
+  enough pork to cover just the surface of your skillet.  Mix together the pork 
+  marinade and drizzle the mixture over the pork.  Stir and allow the pork to 
+  caramelize.  The process should take 5-10 minutes.  Once one batch of pork is 
+  done remove it from the skillet and continue with the next batch.
    Make the marinade for each batch.
 
-8. Cook the ramen noodles in boiling water for about 5 minutes, then drain.  
-   Place each serving of noodles in its own bowl, ladle the broth over the 
-   noodles, then top with caramelized pork, curry roasted acorn squash, fried 
-   egg, and any vegetables you want.
+- Cook the ramen noodles in boiling water for about 5 minutes, then drain.  
+  Place each serving of noodles in its own bowl, ladle the broth over the 
+  noodles, then top with caramelized pork, curry roasted acorn squash, fried 
+  egg, and any vegetables you want.
 
 Notes
 =====
