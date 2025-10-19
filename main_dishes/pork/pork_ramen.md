@@ -1,17 +1,17 @@
 Soup ingredients
 ================
 - 2-3 pounds pork shoulder roast (or butt)
-- 4 cups unsalted chicken cooking stock (110 mg sodium/cup)
-- 1/4 cup low sodium soy sauce
-- 1/4 cup rice vinegar
-- 2 tbsp fish sauce
-- 2 tbsp Thai red curry paste
+- 4 cups water [2]
+- 60 g (1/4 cup) low sodium soy sauce
+- 60 g (1/4 cup) rice vinegar
+- 30 g (2 tbsp) fish sauce
+- 30 g (2 tbsp) Thai red curry paste
+- 15 g (1 tbsp) sambal oelek (or to taste)
 - 1 tbsp fresh ginger
-- 1 tbsp sambal oelek (or to taste)
-- The juice of 1 lime
-- 1 tbsp Chinese five spice
+- juice of 1 lime
+- 1 tbsp (5 g) Chinese five spice
 - 1 tsp black pepper
-- 1/4 cup brown sugar
+- 55 g (1/4 cup) brown sugar
 - ramen noodles
 
 Topping ingredients
@@ -87,3 +87,7 @@ Notes
    ensure it all gets cooked.
 
    And in general, I think ~10 h is better than ~8.
+
+2. The original recipe calls for unsalted chicken cooking stock (110 mg 
+   sodium/cup) instead of water.  We have found that water tastes just as good, 
+   as doesn't run the risk of making the broth too salty.
