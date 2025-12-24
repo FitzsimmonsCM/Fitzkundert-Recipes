@@ -8,7 +8,7 @@ Ingredients
 - 2 serrano peppers
 - 2 tbsp cilantro (chopped)
 - 1/2 tbsp cumin
-- 1 tbsp chili powder
+- 1 tbsp chili powder [1]
 - salt and pepper to taste
 - 2 cups broth
   - 2 tsp stock concentrate
@@ -38,6 +38,7 @@ Directions
 
 - Purée the tomatillos, peppers, garlic, and spices:
 
+  - Start with just 1 tsp of the chili powder, then add more to taste.
   - You may optionally remove the skins from the peppers.
   - Squeeze the roasted garlic out of its skin.
   - A food processor works well for this step.
@@ -45,6 +46,11 @@ Directions
 - Add the broth and lime juice, then continue puréeing until smooth.
 
 - Transfer to a sauce pot and simmer for 5-10 min, to thicken.
+
+Notes
+=====
+- 2025/12/23: I tried making the sauce with 1 poblano, 4 jalapenos, 1 serrano, 
+  and 1 tbsp chili powder.  It turned out too spicy for us.
 
 Reference
 =========
