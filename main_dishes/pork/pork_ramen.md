@@ -25,10 +25,10 @@ Topping ingredients
 Roasted squash ingredients
 ==========================
 - 1 medium acorn squash, seeded and diced
-- 2 tbsp coconut oil, melted
+- 2 tbsp (28 g) coconut oil, melted
 - 1 tbsp curry powder
-- 1 tbsp white miso paste (or 2 tsp soy sauce)
-- 1 tbsp brown sugar
+- 1 tbsp (18 g) white miso paste (or 2 tsp soy sauce)
+- 1 tbsp (14 g) brown sugar
 - pepper, to taste
 
 Pork marinade ingredients
