@@ -23,13 +23,14 @@ From = Cheryl Fitzsimmons
 
 **Directions**
 ----
-1. Preheat oven to 400F with rack in center position. Line 2 large sheet pans with parchment paper. 
+1. In a large mixing bowl, combine beef, onion, garlic, eggs, parsley, 
+   breadcrumbs, and spices. Mix well and then with wet hands, roll into 
+   golfball size balls (approx 2 Tbsp / 30 g each). You should have approx 30 
+   meatballs. 
 
-2. In a large mixing bowl, combine beef, onion, garlic, eggs, parsley, breadcrumbs, and spices. Mix well and then with wet hands, roll into golfball size balls (approx 2 Tbsp / 30 g each). You should have approx 30 meatballs. 
+2. Cook in air fryer at 400°F for 10 min, optionally tossing after 8 min.
 
-3. Place meatballs on parchment-lined baking sheets. Bake for approx 20 minutes, rotating halfway through, until meatballs are golden and cooked through. 
-
-4. Garnish with parsley. Serve warm, with tzatziki sauce for dipping. Alternatively, to make a meal, see serving ideas below. 
+3. Garnish with parsley. Serve warm, with tzatziki sauce for dipping. Alternatively, to make a meal, see serving ideas below. 
 
 **Serving Ideas**
 ----
