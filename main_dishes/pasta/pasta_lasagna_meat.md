@@ -33,37 +33,39 @@ Directions
 ----
 1. Prepare the sauce:
 
-  - In a large sauce pot over medium heat, brown the beef and the sausage.
+   - In a large sauce pot over medium heat, brown the beef and the sausage.
 
-  - Add remaining meat sauce ingredients.
+   - Add remaining meat sauce ingredients.
 
-  - Bring to a boil, then simmer uncovered for at least 1h.  Stir occasionally.
+   - Bring to a boil, then simmer uncovered for at least 1h.  Stir occasionally.
 
-  - Adjust seasoning with additional salt and pepper, if necessary.
+   - Adjust seasoning with additional salt and pepper, if necessary.
 
-  - For a deeper flavor, store the sauce in the refrigerator overnight.
+   - For a deeper flavor, store the sauce in the refrigerator overnight.
 
 2. Prepare the cheese filling:
 
-  - Beat the eggs in a large bowl.
+   - Beat the eggs in a large bowl.
 
-  - Add remaining cheese filling ingredients and mix well.
+   - Add remaining cheese filling ingredients and mix well.
 
 3. Preheat oven to 375°.
 
 4. Layer as follows:
 
-   | remaining mozzarella             | (top)     |
-   | remaining meat sauce             |           |
-   | remaining noodles                |           |
-   | 1 cup mozzarella                 |           |
-   | remaining cheese filling         |           |
-   | 2 cups meat sauce                |           |
-   | three noodles                    |           |
-   | 1 cup mozzarella                 |           |
-   | 2 cups cheese filling            |           |
-   | provolone cheese                 |           |
-   | three noodles                    |           |
-   | 2 cup meat sauce                 | (bottom)  |
+    | Layer                            | Order     |
+    |----------------------------------|-----------|
+    | remaining mozzarella             | top       |
+    | remaining meat sauce             |           |
+    | remaining noodles                |           |
+    | 1 cup mozzarella                 |           |
+    | remaining cheese filling         |           |
+    | 2 cups meat sauce                |           |
+    | three noodles                    |           |
+    | 1 cup mozzarella                 |           |
+    | 2 cups cheese filling            |           |
+    | provolone cheese                 |           |
+    | three noodles                    |           |
+    | 2 cup meat sauce                 | bottom    |
 
-4. Cover; bake 50 minutes. Uncover; bake until heated through, approx 20 minutes longer. Remove from oven and let stand 10-15 minutes before cutting.
+6. Cover; bake 50 minutes. Uncover; bake until heated through, approx 20 minutes longer. Remove from oven and let stand 10-15 minutes before cutting.
