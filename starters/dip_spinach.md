@@ -21,3 +21,7 @@ Notes: Wedding reception recipe book
 2. Combine all ingredients and chill for at least 2 hours before serving. 
 
 3. Serve with your favorite dippers. 
+
+
+
+
