@@ -8,7 +8,7 @@ From: [NYT Cooking Blog](https://cooking.nytimes.com/recipes/1020453-crisp-gnocc
 Ingredients
 ----
 
-- 1pound brussels sprouts (or cruciferous vegetables like broccoli, cauliflower or even cabbage)
+- 1 pound brussels sprouts (or cruciferous vegetables like broccoli, cauliflower or even cabbage)
 - 1 lemon
 - 4 Tbsp extra-virgin olive oil
 - Kosher salt and black pepper
