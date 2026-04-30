@@ -1,14 +1,16 @@
-Lola’s chicken adobo recipe
-====
+Lola’s Chicken Adobo
+====================
 
-Time = 10 min prep + 1-2 hr cook \
-Servings = 4-6 servings \
-From: Kelly Hayes (HSCRB) \
-Author’s note: This recipe can be altered and changed in a multitude of ways. Adobo is also a very contentious filipino dish with everyone thinking their grandma/lola’s is the best (but mine is). 
+Time
+----
+- Preparation: 10 min
+- Cooking: 1-2 hours
 
 Ingredients
 -----------
-- 4 lbs chicken (thighs, breasts, with skin or not, whatever works for you. Can also substitute pork).
+4-6 servings:
+- 4 lbs chicken (Thighs, breasts, with skin or not, whatever works for you. Can 
+  also substitute pork).
 - 1 cup white Vinegar
 - 1 cup low sodium soy sauce
 - 4-6 cloves garlic, crushed (or more to your taste)
@@ -28,4 +30,11 @@ Instructions
 
 5. Cook until the meat is fully cooked through, I’d say at least 45 min-1 hour. The longer you let it simmer the more tender it gets. If the sauce is too watery, uncover and simmer to let the sauce thicken. 
 
-Serve over white rice with a side of veggies (my favorite is bok choy)
+6. Serve over white rice with a side of veggies (my favorite is bok choy)
+
+Notes
+-----
+- This recipe is from Kelly Hayes (HSCRB).  She notes: This recipe can be 
+  altered and changed in a multitude of ways. Adobo is also a very contentious 
+  Filipino dish with everyone thinking their grandma/Lola’s is the best (but 
+  mine is).
