@@ -3,10 +3,15 @@ Italian Meatballs
 
 Ingredients
 -----------
+Gelled stock:
 - 1 packet (1/4 oz, 7g) gelatin
 - 120 mL (1/2 cup) chicken stock
-- 170 g white bread, without crust
+
+Panade:
+- 170 g (≈2 1/2 cups) white bread, without crust
 - 80 mL (1/3 cup) buttermilk
+
+Meatballs:
 - 265 g yellow onion, minced
 - 85 g (≈3/4 cup) pancetta, >50% fat, minced
 - 55 g Parmesan cheese [1]
