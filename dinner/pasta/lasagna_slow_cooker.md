@@ -1,9 +1,11 @@
-**Slow Cooker Vegetarian Lasagna** \
+Slow Cooker Vegetarian Lasagna
+==============================
 Time = 20 min prep + 2-4 hours cooking \
 Servings = 6-8 servings \
 From = EatingWell
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1 large egg
 - 1 (15 oz) container part-skim ricotta
@@ -20,7 +22,8 @@ From = EatingWell
 - 6 qt slow cooker 
 
 
-**Directions**
+Directions
+----------
 
 1. Combine egg, ricotta, spinach, mushroom, and zucchini in a large bowl
 

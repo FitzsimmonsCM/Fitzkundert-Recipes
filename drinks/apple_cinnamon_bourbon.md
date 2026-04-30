@@ -1,3 +1,6 @@
+Apple Cinnamon Bourbon
+======================
+
 Ingredients
 ===========
 - 1 cup (42 g) dried apples

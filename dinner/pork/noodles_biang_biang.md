@@ -5,14 +5,16 @@ Time = 30 min prep + 3 hr rest + 15 min cook \
 Servings = 2 people \
 From = Amy Jacobson 
 
-**Noodle Ingredients**
+Noodle Ingredients
+------------------
 
 -  375 g AP flour
 -  200 mL water
 -  1/2 tsp salt
 -  oil for greasing
 
-**Sauce  Ingredients**
+Sauce  Ingredients
+------------------
 
 -  chili oil (garnish)
 -  200 mL peanut oil
@@ -27,7 +29,8 @@ From = Amy Jacobson
 -  1/2 cup noodle cooking water (reserved)
 
 
-**Directions**
+Directions
+----------
 
 1.  Mix the flour, water and salt together until shaggy in texture. Knead until smooth and elastic (approx 5 minutes in a mixer with a dough hook). 
 
@@ -46,6 +49,7 @@ From = Amy Jacobson
 8. Garnish with sauce and serve
 
 
-**Notes**
+Notes
+-----
 
 1. [Recipe Link](https://www.notquitenigella.com/2019/01/29/biang-biang-noodle-recipe-authentic/)

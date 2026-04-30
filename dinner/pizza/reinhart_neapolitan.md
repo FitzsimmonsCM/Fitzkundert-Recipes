@@ -1,3 +1,6 @@
+Reinhart Neapolitan Pizza
+=========================
+
 Ingredients
 ===========
 Instant yeast variant:

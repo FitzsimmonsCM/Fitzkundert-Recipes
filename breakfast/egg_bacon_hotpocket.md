@@ -5,8 +5,8 @@ Servings = approx 8 hot pockets\
 Calories = 328 per hot pocket \
 Macros = 29.5g carbs, 8g Fat, 32g protein
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 120g Diced, Short Cut Bacon (can substitute beef or turkey bacon)
 - 6 Whole Eggs & 150g Egg Whites, whisked (can substitute 8 regular eggs)
 - 400g All-Purpose Flour
@@ -17,8 +17,8 @@ Macros = 29.5g carbs, 8g Fat, 32g protein
 - Chives (minced)
 - Garlic Powder, Onion Powder, Salt & Black Pepper (to your taste)
 
-**Directions**
-----
+Directions
+----------
 1. Cook bacon until crispy. Set aside on paper towel to absorb excess oil. Dice
 
 2. Cook eggs on low or medium-low heat until fluffy. Season with salt and pepper. 
@@ -36,12 +36,13 @@ Macros = 29.5g carbs, 8g Fat, 32g protein
 8. Enjoy immediately or allow to cool and store in foil wrap in the freezer for 2-3 weeks. 
 
 
-**Reheat instructions**
-----
+Reheat instructions
+-------------------
 Microwave = 3 - 5 Minutes (flip half way) \
 Air Fryer = 5 - 10 min 180C (350F) \
 Conventional Oven = 5 - 10 min 200C (400F) 
 
-**NOTES**
+NOTES
+-----
 - If you find yourself have trouble forming the dough from it being too sticky, start by adding the flour first then slowly add the yogurt & mix it together.
 - Depending on the yogurt brand some contain less or moisture than others causing it to be stickier. If this happens slowly add more flour until you reach a consistency you can work with & make sure to add some flour to your hands as well. 

@@ -6,8 +6,8 @@ Servings = 4 hearty servings \
 From: Becca Wells
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - extra virgin olive oil
 - 1/2 cup panko
@@ -21,8 +21,8 @@ From: Becca Wells
 - 1/2 cup fresh basil, rough chop
 
 
-**Directions**
-----
+Directions
+----------
 
 1. In a large saute pan, heat 1 Tbsp oil over medium heat. Add panko, crushed red pepper flakes, and 1/4 tsp salt. Cook 3-5 min or until panko is golden brown. Remove to small bowl.
 

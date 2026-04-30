@@ -4,8 +4,8 @@ Time = 10 min prep + 50 min bake \
 Servings = 16 bites \
 Notes = A great snack for watching football the day after Thanksgiving
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 16 slices thickly cut bacon
 - 3-4 cups leftover stuffing
 - 1/2 Tbsp brown sugar
@@ -14,8 +14,8 @@ Notes = A great snack for watching football the day after Thanksgiving
 - optional, chopped pecans or walnuts
 - optional, dried cranberries
 
-**Directions**
------
+Directions
+----------
 1. Preheat oven to 350F.
 
 2. If using pecans, walnuts, or cranberries, fold them into leftover stuffing until totally incorporated.

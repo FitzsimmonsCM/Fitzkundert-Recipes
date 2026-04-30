@@ -6,8 +6,8 @@ Servings = 12 hearty servings \
 From: Milagros Pereira Luppi (SCRB)
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 Dough - Makes ~12 discs, or find them in the frozen section at grocery stores such as Market Basket
 - 360 g all-purpose flour
@@ -45,8 +45,8 @@ Corn Filling
 - Optional: a pinch of nutmeg for warmth
 - 1 egg (for egg wash) 
 
-**Directions**
-----
+Directions
+----------
 1. Make the dough:
 
 - In a bowl, mix flour and salt. Rub in butter/fat until crumbly.

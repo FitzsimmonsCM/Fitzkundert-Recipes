@@ -5,16 +5,16 @@ Time = 5 min prep + 15 min cook \
 Servings = 8-10 servings \
 Recipe = [NYT Cooking](https://cooking.nytimes.com/recipes/1026873-pickle-lemonade)
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 7 large organic lemons, at room temperature
 - 2/3 cup granulated sugar
 - 3 cups chilled, filtered water
 - 1 to 1.25 cups dill pickle juice, plus pickle spears for garnish
 - Ice, for serving 
 
-**Directions**
-----
+Directions
+----------
 
 1. Thinly slice 1 lemon, discard the seeds, and set aside for garnish. Roll the remaining lemons firmly against your counter top before juicing them in order to extract as much juice as possible. 
 
@@ -26,8 +26,8 @@ Recipe = [NYT Cooking](https://cooking.nytimes.com/recipes/1026873-pickle-lemona
 
 5. To serve, pour into glasses over plenty of ice. Garnish with a lemon slice and a pickle spear.
 
-**Notes**
-----
+Notes
+-----
 
 - Because conventional lemons are often sprayed with pesticides, this recipe calls for organic lemons. If using conventional lemons, be sure to wash the fruit thoroughly. The size and juiciness of lemons can vary; save any leftover lemon for another use.
 

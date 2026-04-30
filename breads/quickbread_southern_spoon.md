@@ -6,7 +6,8 @@ From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-**Ingredients**
+Ingredients
+-----------
 
 -  2 cups water
 -  1 tsp salt
@@ -15,7 +16,8 @@ Original recipe = Wesson oil cookbook
 -  2 eggs, separated
 -  1 cup milk, full fat
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 425F. 
 
@@ -33,6 +35,7 @@ Original recipe = Wesson oil cookbook
 
 8.  Serve immediately, with butter and syrup, or preserves (see notes)
 
-**Notes**
+Notes
+-----
 
 1. To make this a meal, serve with sausage or canadian bacon and a crisp salad. 

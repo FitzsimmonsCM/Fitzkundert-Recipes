@@ -1,3 +1,6 @@
+Grenadine
+=========
+
 Ingredients
 ===========
 1 cup syrup:

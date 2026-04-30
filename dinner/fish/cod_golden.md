@@ -1,21 +1,23 @@
 Golden Cod
-Time = 2 days + 60 min\
-From: Pedro Batista\
-Notes: Wedding reception recipe
+==========
 
-**Ingredients**
+Time
 ----
--   1 piece salt cod
--   equivalent amount of fried potatoes (batata balha)
--   1/4 of a large onion, minced
--   olive oil
--   1 cup whole milk
--   3 eggs
--   salt and pepper to taste
+- Initial soak: 2 days
+- Active preparation: 1 hour
 
+Ingredients
+-----------
+- 1 piece salt cod
+- equivalent amount of fried potatoes (batata balha)
+- 1/4 of a large onion, minced
+- olive oil
+- 1 cup whole milk
+- 3 eggs
+- salt and pepper to taste
 
-**Directions**
-----
+Directions
+----------
 1.  Let the cod soak in fresh water for 2 days (change the water frequently.) After 2 days, it is ok to freeze the cod for future use. 
 
 2.  Boil the cod until it is soft. Under cold water, remove skin and fish bones. Break the fish into small pieces
@@ -27,3 +29,7 @@ Notes: Wedding reception recipe
 5.  Add spices and parsley. It is ready to serve. 
 
 6.  For a red and gold version, add smoked paprika. 
+
+Notes
+-----
+- Wedding reception recipe from Pedro Batista.

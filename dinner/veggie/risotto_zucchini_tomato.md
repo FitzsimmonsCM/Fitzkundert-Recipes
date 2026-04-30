@@ -1,9 +1,11 @@
-Zucchini & Sundried Tomato Risotto \
+Zucchini & Sundried Tomato Risotto
+==================================
 Time = 15 min prep + 40 min cook \
 Servings = 2 hearty servings \
 From = HelloFresh
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1 shallot, diced
 - 1 green onion, thin sliced, separate whites and greens
@@ -18,7 +20,8 @@ From = HelloFresh
 - 1 Tbsp unsalted butter
 - 3 Tbsp Parmesan cheese, grated 
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 450°F with rack in upper position.
 
@@ -48,7 +51,8 @@ From = HelloFresh
 7. Divide risotto between plates. Top with roasted veggies, and garnish with 
    onion greens and Parmesan.
 
-**Notes**
+Notes
+-----
 
 - If you would like to add Italian sausage, saute sausage (casing removed) and 
   set aside. Then cook shallots and rice in the same pan. Stir in meat before 

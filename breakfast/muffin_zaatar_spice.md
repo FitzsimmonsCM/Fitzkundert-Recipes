@@ -4,7 +4,8 @@ Time = 10 min prep + 18 min cook \
 Servings = 12 large muffins \
 From: Chef JJ
 
-**Ingredients**
+Ingredients
+-----------
 
 -   2 eggs
 -   1/4 cup unsalted butter
@@ -17,7 +18,8 @@ From: Chef JJ
 -   2 cups AP flour
 -   pinch of salt
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 180C (350F)
 

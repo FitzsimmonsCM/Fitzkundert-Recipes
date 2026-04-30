@@ -5,7 +5,8 @@ Servings = 12 large muffins\
 Calories = unknown\
 From: [The Kitchn](https://www.thekitchn.com/holiday-breakfast-recipe-eggnog-doughnut-muffins-recipes-from-the-kitchn-198386) 
 
-**Ingredients-Muffins**
+Ingredients-Muffins
+-------------------
 
 -   3 cups AP flour
 -   2.5 tsp baking powder
@@ -19,12 +20,14 @@ From: [The Kitchn](https://www.thekitchn.com/holiday-breakfast-recipe-eggnog-dou
 -   12 cup muffin tin
 -   muffin liners
 
-**Ingredients-Topping**
+Ingredients-Topping
+-------------------
 
 -   4 Tbsp unsalted butter
 -   1 cup powdered sugar
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 350F with rack in middle position. Line 12-cup muffin tin with liners.
 

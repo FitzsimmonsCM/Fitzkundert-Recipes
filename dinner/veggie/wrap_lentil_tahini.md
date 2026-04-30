@@ -4,8 +4,8 @@ Time = 30 min to 2 hrs prep + 10 min assembly \
 Servings = 6 wraps \
 From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahini-saucerecipes-from-the-kitchn-167629)
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 *For the red pepper paste (makes about 3/4 cup)* \
 - 6 medium red bell peppers, cored and chopped
@@ -36,8 +36,8 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahi
 - 6 (approximately 9x12-inch) sheets lavash, white or whole wheat
 - 2 cups shredded cabbage
 
-**Directions**
-----
+Directions
+----------
 
 1. To make the red pepper paste combine bell peppers, cayenne pepper, and salt in a food processor and puree. Pour the puree into a skillet over low heat and simmer, stirring occasionally, until reduced to a paste. This can take up to 2 hours. Let cool before using. To store, pack the paste into a jar, pour enough olive oil on top to cover, and refrigerate.
 
@@ -53,8 +53,8 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-spicy-lentil-wrap-with-tahi
 
 7. To serve, cut each wrap in half and serve with tahini sauce on the side.
 
-**Notes**
-----
+Notes
+-----
 
 1. These are inspired by the spice lentil wraps at Trader Joes
 

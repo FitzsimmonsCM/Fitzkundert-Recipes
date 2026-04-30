@@ -1,9 +1,11 @@
-**Blackbean Pepper Soup**
+Blackbean Pepper Soup
+=====================
 Time = 40 min \
 Servings = 2 \
 Calories = 600 kcal per serving
 
-**Ingredients**
+Ingredients
+-----------
 
 -   1 medium yellow onion, diced
 -   1 poblano pepper, deseeded and diced
@@ -20,7 +22,8 @@ Calories = 600 kcal per serving
 -   vegetable oil
 -   salt and pepper (to your taste)
 
-**Directions**
+Directions
+----------
 
 1. In a medium pot, head a drizzle of oil on med-high heat. Add onion and pepper and cook, stirring, until browned and softened, approx 5-7 min. 
 

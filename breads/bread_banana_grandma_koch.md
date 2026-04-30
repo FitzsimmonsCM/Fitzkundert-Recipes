@@ -6,7 +6,8 @@ From = Fitzy's Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-**Basic Ingredients**
+Basic Ingredients
+-----------------
 
 -  1/3 cup Fluffo (shortening)
 -  3/4 cup white sugar
@@ -19,7 +20,8 @@ Original recipe = Wesson oil cookbook
 -  3/4 cup buttermilk
 -  1 tsp vanilla
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 350F
 
@@ -29,7 +31,8 @@ Original recipe = Wesson oil cookbook
 
 4.  Turn mixture into a greased loaf pan and bake for about 1 hour. 
 
-**Variations**
+Variations
+----------
 
 - *banana nut loaf:* add 1/2 cup chopped walnuts before pouring into loaf pan
 

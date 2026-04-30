@@ -1,3 +1,6 @@
+Polenta
+=======
+
 Ingredients
 ===========
 - 1 cup (5 ounces; 140g) medium or coarse cornmeal/polenta [1]

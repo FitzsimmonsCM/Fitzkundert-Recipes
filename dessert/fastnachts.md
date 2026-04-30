@@ -6,8 +6,8 @@ Calories = 203 per fastnacht \
 From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lancaster Farming ](https://www.lancasterfarming.com/country-life/food-and-recipes/heres-how-you-make-real-lancaster-county-fasnachts/article_373d8e4d-279a-5518-9710-23740c8e9ebc.html)
 
 
-**Dough Ingredients**
-----
+Dough Ingredients
+-----------------
 -  2 cups whole milk
 -  1 cup mashed potatoes (no salt, milk or butter added)
 -  1/2 cup + 1/2 tsp white sugar
@@ -20,8 +20,8 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lan
 -  stand mixer
 
 
-**Making Fastnacht Dough and 1st Rise**
-----
+Making Fastnacht Dough and 1st Rise
+-----------------------------------
 1.  Scald the milk. Combine scaled milk with mashed potatoes. Add 1/2 cup sugar and butter. Cool to room temperature before proceeding with the next step. 
 
 2.  Dissolve yeast and 1/2 tsp sugar into lukewarm water. 
@@ -36,8 +36,8 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lan
 
 
 
-**Rolling Out Fastnachts and 2nd Rise**
-----
+Rolling Out Fastnachts and 2nd Rise
+-----------------------------------
 7. On a lightly floured surface, roll dough approx 3/4 inch thick. 
 
 8.  Cut the dough into 3-4 inch wide strips. Then cut the strips into 3-4 inch pieces. 
@@ -46,16 +46,16 @@ From = [Savoring the Good](https://www.savoringthegood.com/fastnachts/) and [Lan
 
 10.  Arrange dough pieces about 2 inches apart on wax-lined trays. Cover with a thin towel. Place trays in warm place for about 45-60 min to rise, or until pieces have raised and doubled in size. 
 
-**Frying Fastnachts**
-----
+Frying Fastnachts
+-----------------
 11.  Heat shortening to 365F (check with a high-temp frying thermometer).
 
 12.  Deep fry until both sides are golden brown, turning 1 time. (ADULT ONLY JOB)
 
 13.  Drain on paper towels and cool completely before serving. 
 
-**Fastnacht Toppings**
-----
+Fastnacht Toppings
+------------------
 *To Glaze* \
 Beat together:
 -  2.5 cups confectioner's sugar

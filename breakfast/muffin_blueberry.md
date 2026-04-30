@@ -5,7 +5,8 @@ Servings = 12 muffins\
 From: Aunt Gerry + Uncle Dan\
 Notes: Wedding reception recipe book
 
-**Ingredients**
+Ingredients
+-----------
 
 -  1.75 cups all-purpose baking mix (Bisquick)
 -  1/2 cup quick oats
@@ -17,7 +18,8 @@ Notes: Wedding reception recipe book
 -  1 cup blueberries
 
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 375F. Line muffin tin with baking liners. 
 

@@ -6,7 +6,8 @@ From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-**Basic Ingredients**
+Basic Ingredients
+-----------------
 
 -  2 cups pitted dates, chopped
 -  1 cup walnuts, chopped
@@ -21,7 +22,8 @@ Original recipe = Wesson oil cookbook
 -  1 tsp double-acting baking powder
 -  1 tsp salt
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 350F.
 
@@ -34,7 +36,8 @@ Original recipe = Wesson oil cookbook
 5. Pour batter into loaf pan rubbed with fluffo. Bake at 350F for about 1 hour. 
 
 
-**Notes**
+Notes
+-----
 1. My mom (your grandma) used to make this every week! 
 
 2. Wrap in foil and store in the refrigerator for several days. 

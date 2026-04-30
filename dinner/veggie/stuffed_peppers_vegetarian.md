@@ -3,8 +3,8 @@ Vegetarian Stuffed Peppers
 Total Time = 15 min prep + 40 min cook \
 Servings = 4 people 
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  4 bell peppers (red or green), sliced in half from stem and deseeded
 -  2 shallots, minced
 -  2 cloves garlic, minced
@@ -20,8 +20,8 @@ Servings = 4 people
 -  salt and pepper (to your taste)
 -  olive oil
 
-**Directions**
-----
+Directions
+----------
 1. Adjust oven rack to top position and preheat to 425 ºF. 
 
 2. Halve bell peppers and remove seeds and stems

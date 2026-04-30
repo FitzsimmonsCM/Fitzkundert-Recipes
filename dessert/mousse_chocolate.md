@@ -1,11 +1,14 @@
+Chocolate Mousse
+================
+
 Time = 15 min prep + 30 min bake\
 Servings = 4 servings \
 Calories = unknown \
 From: Becca and Martin \
 Notes: Wedding reception recipe 
 
-[Ingredients]
-
+Ingredients
+-----------
 -  3.5 oz bittersweet chocolate, coarsely chopped
 -  3 large eggs, separate whites and yolks, at room temperature
 -  pinch of salt
@@ -13,8 +16,8 @@ Notes: Wedding reception recipe
 -  whipped cream (garnish)
 -  fresh berries (garnish)
 
-[Directions] 
-
+Directions
+----------
 1.  Melt chocolate in a bowl over a saucepan on medium heat. 
 
 2.  In a separate bowl, beat egg whites with salt until they start of form peaks. 

@@ -4,8 +4,8 @@ Slow Cooker Stuffed Peppers
 Total Time = 15 min prep + 6.5 hr cook \
 Servings = 6 people  
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  1 lb lean ground beef OR ground turkey (does not need to be browned)
 -  1.5 cups cooked brown rice OR quinoa
 -  1.5 cups shredded mild or medium cheddar cheese, divided (can substitute colby jack)
@@ -19,8 +19,8 @@ Servings = 6 people
 -  sour cream (optional garnish)
 
 
-**Directions**
-----
+Directions
+----------
 1. In a large bowl, combine meat, rice, 1 cup cheese, black beans, corn, salsa, and spices. Spoon the filling into each bell pepper cavity.
 
 2. Place peppers into the slow cooker. Cover each pepper with the top portion that you cut off (makes a little lid). Cook on low heat for 5-6 hours until the peppers are tender and the meat is cooked through. 
@@ -30,8 +30,8 @@ Servings = 6 people
 4. Serve immediately. Drizzle with sour cream if desired.
 
 
-**To adapt this recipe for the oven**
-----
+To adapt this recipe for the oven
+---------------------------------
 1. Brown the meat in a skillet, once cooked, drain any excess fat. 
 
 2. Return meat to skillet, and add beans, corn, salsa, rice, cheese, and spices. Allow liquid to reduce slightly (3-5 min)
@@ -43,6 +43,6 @@ Servings = 6 people
 5. Remove foil and remove cut tops of peppers. Sprinkle cheese onto peppers and return to over. Cook until cheese is melted and slightly brown (4-6 min)
 
 
-**Notes**
-----
+Notes
+-----
 - Enjoy! This is a very flexible dish and if you don't have something, it is ok to substitute and experiment with different flavors or toppings. 

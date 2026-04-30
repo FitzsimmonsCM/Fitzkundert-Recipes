@@ -1,3 +1,6 @@
+Wedding Cake Shopping List
+==========================
+
 Ingredients
 ===========
 - 226 g (8 oz) bittersweet chocolate

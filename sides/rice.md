@@ -1,3 +1,6 @@
+Rice
+====
+
 Ingredients
 ===========
 1 serving:

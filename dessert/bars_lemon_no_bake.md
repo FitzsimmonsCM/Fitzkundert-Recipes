@@ -5,8 +5,8 @@ Time = 30 min \
 Servings = 4-6 servings \
 From = [The Kitchn](https://www.thekitchn.com/lemon-delight-recipe-23723194)
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 8 ounces cream cheese, at room temperature
 - 2 (3.4-ounce) boxes instant lemon pudding mix
@@ -22,8 +22,8 @@ From = [The Kitchn](https://www.thekitchn.com/lemon-delight-recipe-23723194)
 - 1 tsp lemon or vanilla extract
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Line an 8x8-inch baking pan (about 2 inches high) with 2 sheets of parchment paper, positioning them perpendicular to each other, so that the parchment hangs about 2 inches over all 4 sides of the pan to form a sling.
 
@@ -46,8 +46,8 @@ From = [The Kitchn](https://www.thekitchn.com/lemon-delight-recipe-23723194)
 10. When ready to serve, crush the reserved 5 cookies and sprinkle over the top. Garnish with more finely grated lemon zest if desired. Grasping the excess parchment, transfer the slab to a cutting board. Cut into 12 pieces, wiping the knife between each cut for cleaner cuts.
 
 
-**Recipe Notes**
-----
+Recipe Notes
+------------
 Substitutions: 12 whole graham cracker sheets (about 6 1/2 ounces), or 1 1/2 cups graham cracker crumbs can be substituted for the vanilla wafer cookies for the crust.
 
 Ingredient/equipment variations: 1 (8-ounce) container thawed whipped topping can be substituted for the sweetened whipped cream in Step 6.

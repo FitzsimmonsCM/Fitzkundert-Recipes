@@ -1,8 +1,8 @@
 Monkey Bread
 ===========
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 36 oz biscuit dough
 - 1 cup white sugar
 - 2 tsp ground cinnamon

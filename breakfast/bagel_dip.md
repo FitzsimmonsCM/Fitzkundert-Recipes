@@ -5,8 +5,8 @@ Servings = 2 cups dip \
 From: Aunt Gerry + Uncle Dan \
 Notes: Wedding reception recipe book
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  1 cup (8 oz) real mayo
 -  1 cup (8 oz) sour cream
 -  1.5 tsp dill weed
@@ -16,8 +16,8 @@ Notes: Wedding reception recipe book
 
 -  1 doz plain bagels
 
-**Directions**
-----
+Directions
+----------
 1.  Mix together all ingredients. 
 
 2.  Cut up plain bagels into small pieces to dip alongside. Serve. 

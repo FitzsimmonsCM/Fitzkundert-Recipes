@@ -1,3 +1,6 @@
+Brown Butter
+============
+
 1. Cook two sticks of butter in a sauce-pot over medium high heat, swirling 
    constantly, until golden brown particles appear and the butter begins to 
    smell nutty.  

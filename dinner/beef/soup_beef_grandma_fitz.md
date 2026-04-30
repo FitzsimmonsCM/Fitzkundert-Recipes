@@ -7,8 +7,8 @@ Calories = unknown\
 From: Grandma Fitzsimmons \
 Notes: Wedding reception recipe book
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  5-6 bone-in beef shanks
 -  1 pkg onion soup mix
 -  12-16 medium carrots, scrubbed, peeled, and cut in half
@@ -20,8 +20,8 @@ Notes: Wedding reception recipe book
 -  salt and pepper (to your taste)
 -  mustard (to garnish)
 
-**Directions**
-----
+Directions
+----------
 1.  Place beef shanks in more than sufficient water for the amount of soup you wish to yield. 
 
 2.  Bring to a rolling boil, skimming off residue until no more skimming is needed. 

@@ -6,8 +6,8 @@ Servings = 4-6 servings \
 From = Reddit
 
 
-**Base Ingredients**
-----
+Base Ingredients
+----------------
 - 4 cups cooked, shredded chicken
 - 1 15 oz can Ro-Tel diced tomatoes with green chilies
 - 1 cup instant rice, uncooked
@@ -19,7 +19,8 @@ From = Reddit
 - 1/2 cup canned low-sodium black beans, drained and rinsed
 - chopped cilantro (optional garnish)
 
-**Ingredient Variations**
+Ingredient Variations
+---------------------
 - 1/4 cup sauted onions
 - smoked paprika (to your taste)
 - ground beef or ground pork (swap out chicken)
@@ -31,8 +32,8 @@ From = Reddit
 - shredded lettuce (garnish)
 
 
-**Directions**
-----
+Directions
+----------
 1.  Preheat oven to 350ºF. Lightly coat a 9x9-inch baking dish with non-stick spray and set aside. 
 
 2. In a large bowl, combined chicken, ro-tel, rice, 1.5 cups grated colby jack, cream of chicken soup, taco seasoning, milk, corn, and black beans. Stir to combine. 
@@ -43,8 +44,8 @@ From = Reddit
 
 
 
-**Notes**
-----
+Notes
+-----
 1.  Store leftovers in an airtight container in the refrigerator for 2-3 days. 
 
 2. When ready to reheat, place desired amount into a microwave safe bowl and heat until cooked through. It is recommended to pause halfway to stir and ensure even heating. 

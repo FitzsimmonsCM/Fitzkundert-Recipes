@@ -1,8 +1,10 @@
-Soy Miso Soup \
+Soy Miso Soup
+=============
 Time = 10 min prep + 50 min bake \
 Servings = 16 bites 
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1.5 cups dashi (seaweed stock) or vegetable broth
 - 1 pinch white sugar
@@ -14,7 +16,8 @@ Servings = 16 bites
 - optional: 1 dash sake
 
 
-**Directions**
+Directions
+----------
 
 1. In glass measuring cup, combine dashi, sugar, soy sauce, sake and mushrooms.
 
@@ -25,7 +28,8 @@ Servings = 16 bites
 4. Add scallions and serve. 
 
 
-**Seasonal Suggestions**
+Seasonal Suggestions
+--------------------
 
 1. Chopped greens, such as spinach, tatsoi, or arugula (add with miso)
 
@@ -38,6 +42,7 @@ Servings = 16 bites
 5. Small bits of dried seaweed (add at start of recipe)
 
 
-**Notes**
+Notes
+-----
 
 1. Part of what makes traditional miso soup sublime is the selection and balance of individual ingredients. More is not merrier. Remember that restraint is the order of the day. 

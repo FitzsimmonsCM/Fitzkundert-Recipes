@@ -6,7 +6,8 @@ Calories = unknown\
 From: Kevin and Jill \
 Notes: Requires a pressure cooker or slow cooker
 
-**Pork Ingredients**
+Pork Ingredients
+----------------
 - 5 cloves garlic, grated on microplane
 - 2 Tbsp brown sugar (may sub honey)
 - 1 Tbsp Korean chili flakes (gochugaru) or similar (Aleppo or Maras chili flakes)
@@ -14,7 +15,8 @@ Notes: Requires a pressure cooker or slow cooker
 - 1 tsp fresh ground black pepper
 - 5 lbs boneless pork shoulder, cut into 2 or 3 pieces
 
-**Sauce Ingredients**
+Sauce Ingredients
+-----------------
 - 1 Tbsp peanut oil
 - 4 cloves garlic, grated on microplane
 - 2 Tbsp fresh ginger root, grated
@@ -27,7 +29,8 @@ Notes: Requires a pressure cooker or slow cooker
 - 1 tsp Asian fish sauce
 - 1 tsp sesame oil
 
-**Cucumber Ingredients**
+Cucumber Ingredients
+--------------------
 - 6 Persian cucumbers, thinly sliced
 - 1.5 Tbsp rice vinegar
 - 2 tsp sesame oil
@@ -36,12 +39,14 @@ Notes: Requires a pressure cooker or slow cooker
 - 1/4 cup red onion, thin sliced
 - 2 tsp sesame seeds
 
-**For serving**
+For serving
+-----------
 - cooked rice
 - kimchi (optional)
 
 
-**Directions**
+Directions
+----------
 
 1. To prepare pork, combine garlic, brown sugar, chile flakes, salt and pepper. Rub marinade all over pork. If you have time, cover and refrigerate for 1 hour to up to 24 hours. Otherwise, proceed with recipe.
 

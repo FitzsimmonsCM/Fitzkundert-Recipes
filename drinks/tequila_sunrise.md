@@ -1,3 +1,6 @@
+Tequila Sunrise
+===============
+
 Ingredients
 ===========
 - 2 ounces blanco tequila

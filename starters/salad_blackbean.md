@@ -6,8 +6,8 @@ Servings = 8 servings as side dish or 2 servings as main course \
 From: Nadia and Danny \
 Notes: Wedding reception recipe
 
-**Ingredients**
------
+Ingredients
+-----------
 
 - 1 can (14  oz) low sodium black beans, drained and rinsed
 - 1 can (14 oz) garbanzo beans, drained and rinsed
@@ -18,8 +18,8 @@ Notes: Wedding reception recipe
 - 1 small yellow onion, diced
 - 1 bunch parsley (to garnish), rough chop
 
-**Directions**
-----
+Directions
+----------
 
 1.  Drain and rinse beans. Mix together in a large bowl
 

@@ -6,7 +6,8 @@ Servings = 4-6 servings \
 From: Kelly Hayes (HSCRB) \
 Author’s note: This recipe can be altered and changed in a multitude of ways. Adobo is also a very contentious filipino dish with everyone thinking their grandma/lola’s is the best (but mine is). 
 
-**Ingredients**
+Ingredients
+-----------
 - 4 lbs chicken (thighs, breasts, with skin or not, whatever works for you. Can also substitute pork).
 - 1 cup white Vinegar
 - 1 cup low sodium soy sauce
@@ -14,7 +15,8 @@ Author’s note: This recipe can be altered and changed in a multitude of ways. 
 - 2 to 4 bay leaves
 - whole black peppercorns, to your taste
 
-**Instructions**
+Instructions
+------------
 
 1. Peel and crush your garlic cloves. 
 

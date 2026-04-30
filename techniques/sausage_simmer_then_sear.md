@@ -1,3 +1,6 @@
+Sausage: Simmer Then Sear
+=========================
+
 Directions
 ==========
 - Boil sausage for 7 min.

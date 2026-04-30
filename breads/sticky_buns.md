@@ -1,37 +1,38 @@
-Dough
-=====
-92 g sugar
-1 tsp salt
-5.5 tbsp shortening or unsalted butter
-1 large egg
-1 tsp lemon extract (or grated zest)
-454 g all-purpose (or bread) flour
-2 tsp instant yeast
-1⅛ cup whole milk or buttermilk
-½ cup cinnamon sugar
+Sticky Buns
+===========
+
+Ingredients
+-----------
+Dough:
+- 92 g sugar
+- 1 tsp salt
+- 5.5 tbsp shortening or unsalted butter
+- 1 large egg
+- 1 tsp lemon extract (or grated zest)
+- 454 g all-purpose (or bread) flour
+- 2 tsp instant yeast
+- 1⅛ cup whole milk or buttermilk
+- ½ cup cinnamon sugar
   - 6½ tbsp sugar
   - 1½ tsp cinnamon (or any other spice, e.g. Chai)
 
-Caramel
-=======
-½ cup granulated sugar (100 g)
-½ cup firmly packed brown sugar (105g?)
-½ tsp salt
-½ lb unsalted butter (room temp)
-½ cup corn syrup
-½ tsp lemon/orange/vanilla extract
+Caramel:
+- ½ cup granulated sugar (100 g)
+- ½ cup firmly packed brown sugar (105g?)
+- ½ tsp salt
+- ½ lb unsalted butter (room temp)
+- ½ cup corn syrup
+- ½ tsp lemon/orange/vanilla extract
 
-Supplies
-========
-Baking dishes or pans with sides at least 1½" high.
+Fillings (optional):
+- Walnuts, pecans, other nuts
+- Raising, cranberries, cherries (dried)
 
-Optional Fillings
-=================
-Walnuts, pecans, other nuts
-Raising, cranberries, cherries (dried)
+Supplies:
+- Baking dishes or pans with sides at least 1½" high.
 
-Recipe
-======
+Directions
+----------
 1. Beat the sugar and salt into the fat (butter or shortening)
 
 2. Slowly mix in the egg and the lemon zest.  Then add the flour, yeast, and 
@@ -63,9 +64,9 @@ Recipe
 10. Roll the dough into a log.
 
 11. With the seam side down, cut the log into pieces:
-    
-   Larger buns: 8-12 1¾" pieces
-   Smaller buns: 12-16 1¼" pieces
+
+   - Larger buns: 8-12 1¾" pieces
+   - Smaller buns: 12-16 1¼" pieces
 
 13. Beat the sugar and salt (for the caramel glaze) into the fat at high speed 
     for 2 min.

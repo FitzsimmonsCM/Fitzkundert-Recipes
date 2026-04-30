@@ -6,8 +6,8 @@ Servings = 4-6 \
 From: Kelly Rush (HSCRB)
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 2 lbs ground turkey or beef
 - 2 packets taco seasoning
@@ -25,8 +25,8 @@ From: Kelly Rush (HSCRB)
 - optional: additional toppings as desired (avocado, corn, diced bell pepper, cilantro, etc)
 
 
-**Directions**
-----
+Directions
+----------
 
 1. In large pan, cook turkey or beef over medium heat until fully cooked (approx 8 min). Drain excess fat. Add taco seasoning and water according to packet instructions . Simmer 3-5 min until thickened. Remove from heat and allow meat to cool to room temp. 
 
@@ -38,8 +38,8 @@ From: Kelly Rush (HSCRB)
 
 5. Serve with italian dressing on the side so guests can season to their taste. 
 
-**Notes**
-----
+Notes
+-----
 
 1. Cooling the meat prevents wilting lettuce and maintains optimal salad texture. 
 

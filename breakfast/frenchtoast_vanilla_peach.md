@@ -5,7 +5,8 @@ Servings = 6-8 people \
 From: Cheryl Fitzsimmons \
 CMF Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 
-**Ingredients**
+Ingredients
+-----------
 
 -   1 cup (packed) brown sugar (dark or light is fine, I prefer light)
 -   1/2 cup butter
@@ -21,7 +22,8 @@ CMF Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 -   Optional--powdered sugar (garnish)
 -   Optional--splash of heavy whipping cream
 
-**Directions--the night before**
+Directions--the night before
+----------------------------
 
 1.  In a saucepan, melt together butter, sugar and water. Bring mixture to a boil, then reduce heat to low and simmer for 10 minutes, stirring frequently.
 
@@ -41,7 +43,8 @@ CMF Notes = Everyone loves this. Perfect for the summer with fresh peaches.
 
 9.  Cover with foil and refrigerate 8 hours or overnight.
 
-**Directions--the following morning**
+Directions--the following morning
+---------------------------------
 
 1.  Preheat Oven to 350ºF
 

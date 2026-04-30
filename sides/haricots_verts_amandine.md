@@ -1,3 +1,6 @@
+Haricots Verts Amandine
+=======================
+
 Ingredients
 ===========
 - Kosher salt

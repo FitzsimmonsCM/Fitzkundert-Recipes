@@ -1,16 +1,19 @@
-3-Ingredient Mac & Cheese \
+3-Ingredient Mac & Cheese
+=========================
 Total Time = 10 min \
 Servings = approx 2 hungry people \
 From: [Serious Eats](https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe?utm_source=yt&utm_campaign=jan17)
 
-**Ingredients**
+Ingredients
+-----------
 -  360 mL water
 -  180 g small elbow macaroni
 -  180 mL evaporated milk
 -  170 g grated mild or medium cheese (cheddar, fontina, gruyere, colby jack)
 -  salt and pepper (to your taste)
 
-**Directions**
+Directions
+----------
 
 1.  Place macaroni in a medium saucepan and add just enough cold water to cover. Bring to a boil over high heat, stirring frequently. 
 
@@ -20,7 +23,8 @@ From: [Serious Eats](https://www.seriouseats.com/ingredient-stovetop-mac-and-che
 
 4. Season with salt and pepper and serve. 
 
-**Notes**
+Notes
+-----
 
 1.  Be certain you purchase evaporated milk and *NOT* sweetened condensed milk.
 

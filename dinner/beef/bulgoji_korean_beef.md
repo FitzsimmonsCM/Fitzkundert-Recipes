@@ -5,7 +5,8 @@ Time = 20 min\
 Servings = 2 \
 Calories = 800 kcal per serving
 
-**Ingredients**
+Ingredients
+-----------
 
 -   1 scallions, thin slice, separate whites from greens
 -   1/2 jasmine rice
@@ -22,7 +23,8 @@ Calories = 800 kcal per serving
 -   vegetable oil
 -   salt/pepper to taste
 
-**Directions**
+Directions
+----------
 
 1.  In small pot, combine rice, 3/4 cup water, pinch of salt. Bring to a boil, then cover and reduce to simmer for 18 min. Keep covered and off heat. When ready to serve, fluff with fork. 
 

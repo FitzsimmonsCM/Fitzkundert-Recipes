@@ -5,8 +5,8 @@ Time = 15 min prep + 20 min cook + 2 hr rest
 Servings = 16 mini pies
 From: MacKenzie Harrigan
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 *Crust*
 
@@ -23,8 +23,8 @@ From: MacKenzie Harrigan
 - optional: lime slices and whipped cream for garnish
 
 
-**Directions**
-----
+Directions
+----------
 1. Preheat the oven to 350°F (177°C). Line a 12-count muffin pan with liners and a second 12-count muffin pan with only 4 (since this recipe makes only around 16). Set pans aside.
 
 2. Make the crust: Grind full-sized graham crackers in food processor or blender. Combine crumbs in a medium bowl with melted butter and granulated sugar. Mixture should be course and sandy. Press a heaping Tbsp into each liner making sure it is tight and compact. Pre-bake 5 min and allow to cool. 
@@ -35,8 +35,8 @@ From: MacKenzie Harrigan
 
 5. Once chilled, serve the key lime pies cold with whipped cream and a lime slice if desired. Store leftover pies in the refrigerator (covered) for up to 1 week.
 
-**Notes**
-----
+Notes
+-----
 
 1. To make ahead, you can prepare the crust ingredients and the filling ingredients separately. Store each covered tightly in the refrigerator until ready to assemble and bake. 
 

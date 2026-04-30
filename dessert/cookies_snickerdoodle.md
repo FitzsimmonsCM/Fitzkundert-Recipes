@@ -4,8 +4,8 @@ Time = 10 min prep + 20 min chill + 10 min per batch \
 Serving = approx 36 cookies \
 From = Fitzsimmons Family
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 cup (2 sticks) unsalted butter (softened)
 - 1.5 cup white sugar
 - 2 large eggs
@@ -15,12 +15,13 @@ From = Fitzsimmons Family
 - 0.5 teaspoon baking soda
 - 1 teaspoon salt
 
-**Cinnamon-Sugar Mixture**
+Cinnamon-Sugar Mixture
+----------------------
 - 1/4 cup Sugar
 - 1.5 tablespoon cinnamon
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat the oven at 350 ºF.
 

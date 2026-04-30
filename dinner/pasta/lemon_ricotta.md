@@ -5,8 +5,8 @@ Time = 5 min prep + 10 min cook \
 Servings = 4 \
 From: NYT Cooking
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 1 lb pasta (cavatappi, fusili, rotini, or similar)
 - 1 cup ricotta
@@ -15,12 +15,13 @@ From: NYT Cooking
 - salt and pepper, to your taste
 
 
-**Directions**
-----
+Directions
+----------
 
 1. In large stock pot, cook pasta according to instructions until al dente. Reserve 1 cup of pasta water. Drain and rinse. 
 
 2. In a large bowl, combine ricotta, Parmesan, lemon zest, lemon juice, salt and pepper. Add 1/2 cup reserved pasta water and mix. Add cooked pasta and mix until wel-coated (add 1-2 splashes of water if lemon ricotta mixture is too thick.)
 
-**Notes**
+Notes
+-----
 - Great recipe to use up leftover ricotta from lasagna! 

@@ -5,7 +5,8 @@ Servings = 2 loaves\
 From: Alex Schmiechen\
 Notes: Wedding reception recipe book
 
-**Ingredients**
+Ingredients
+-----------
 
 -   2.25 cups AP flour
 -   2 tsp baking soda
@@ -17,7 +18,8 @@ Notes: Wedding reception recipe book
 -   1 egg
 -   1 tsp vanilla extract
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 325F
 

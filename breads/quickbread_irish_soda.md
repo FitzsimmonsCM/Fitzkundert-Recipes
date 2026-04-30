@@ -4,7 +4,8 @@ Time = 10 min prep + 60-70 min cook \
 Servings = 1 loaf \
 From: Cheryl Fitzsimmons
 
-**Ingredients**
+Ingredients
+-----------
 
 - 3 cups AP flour, sifted
 - 1/2 tsp baking soda
@@ -16,7 +17,8 @@ From: Cheryl Fitzsimmons
 - 4 Tbsp butter, melted
 - optional, 1 Tbsp caraway seeds
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 350F and grease a round 2 qt casserole
 

@@ -1,9 +1,11 @@
-Mexican Hot Chocolate Cookies \
+Mexican Hot Chocolate Cookies
+=============================
 Time = 20 min prep and 15 min cook\
 Servings = approx 24 cookies\
 Calories = unknown
 
-**Ingredients**
+Ingredients
+-----------
 - 1 stick unsalted butter
 - 4 oz high-quality unsweetened chocolate, rough chop
 - 1 cup packed light brown sugar
@@ -19,7 +21,8 @@ Calories = unknown
 - 1/4 tsp cayenne pepper
 - 1 cup semi-sweet chocolate chips
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 325F
 

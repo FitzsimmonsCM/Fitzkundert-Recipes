@@ -1,9 +1,13 @@
+Malaysian Honeycomb Cake
+========================
+
 Time = 10 min prep + 40 min cooking\
 Servings = 1 20cm round cake
 Calories = unknown\
 From: http://www.ricenflour.com/recipe/how-to-make-malaysian-honeycomb-cake-kek-sarang-semut-recipe/ \
 
-[Ingredients]
+Ingredients
+-----------
 - 100g unsalted butter
 - 180g sweetened, condensed milk
 - 240 mL water
@@ -12,7 +16,8 @@ From: http://www.ricenflour.com/recipe/how-to-make-malaysian-honeycomb-cake-kek-
 - 130 g AP flour
 - 10 g baking soda
 
-[Directions]
+Directions
+----------
 
 1. Add the butter, condensed milk and water into a saucepan. Put the saucepan on high heat and keep stirring until the butter has melted and the sugar has dissolved. Take the saucepan off the heat and leave to cool. Don’t cook the mixture for too long because you don’t want all the water and moisture to evaporate, which can affect the texture of the cake.
 
@@ -34,7 +39,8 @@ If the top of the cake turns brown too quickly, you can cover the surface with a
 
 The cake is best served fresh within the day. If there is another leftover cake, store it in an airtight container in a cool and dry place. Don’t leave it in the fridge, as the cake may harden the next days.
 
-[Baking Notes]
+Baking Notes
+------------
 
 – In step 2 of the recipe, I use a hand mixer on the lowest speed setting to mix the batter. You can definitely mix the batter by hand using a whisk, but I think that a hand mixer would help to incorporate the flour better and more evenly, without leaving any lumps. The speed of the hand mixer would also help to incorporate air bubbles into the batter and assist the gluten development – which results in the signature squishy and airy texture of the Malaysian honeycomb cake.
 

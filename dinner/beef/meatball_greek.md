@@ -5,8 +5,8 @@ Time = Prep = 15 min + 30 min cook  \
 Servings = 7-8 people \
 From = Cheryl Fitzsimmons
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 2 lbs 90/10 ground beef (80/20 is too fatty for this recipe)
 - 1 medium yellow onion, grated and liquid drained (see notes)
 - 6 cloves garlic, minced or pressed
@@ -21,8 +21,8 @@ From = Cheryl Fitzsimmons
 - 2 cups Tzatziki sauce (for serving)
 
 
-**Directions**
-----
+Directions
+----------
 1. In a large mixing bowl, combine beef, onion, garlic, eggs, parsley, 
    breadcrumbs, and spices. Mix well and then with wet hands, roll into 
    golfball size balls (approx 2 Tbsp / 30 g each). You should have approx 30 
@@ -32,8 +32,8 @@ From = Cheryl Fitzsimmons
 
 3. Garnish with parsley. Serve warm, with tzatziki sauce for dipping. Alternatively, to make a meal, see serving ideas below. 
 
-**Serving Ideas**
-----
+Serving Ideas
+-------------
 1. Serve the meatballs and tzatziki sauce over a bed of couscous or couscous salad.
 
 2. Serve alongside a Mediterranean wedge salad
@@ -41,8 +41,8 @@ From = Cheryl Fitzsimmons
 3. Wrap in pita bread with onions, cucumber, tomatoes and hummus
 
 
-**Notes**
-----
+Notes
+-----
 1. Link to [website](https://themodernproper.com/mediterranean-meatballs-with-tzatziki)
 
 2. Keep a bowl of water nearby as your roll meatballs. Wet hands keeps the meat from sticking to you. Using a cookie scoop will also help meatballs stay the same size. 

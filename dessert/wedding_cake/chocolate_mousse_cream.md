@@ -1,3 +1,6 @@
+Chocolate Mousse with Cream
+===========================
+
 Ingredients
 ===========
 Melted chocolate:

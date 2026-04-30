@@ -1,12 +1,13 @@
-**Portobello Mushroom Burgers with Garlic Aoli**
-====
+Portobello Mushroom Burgers with Garlic Aoli
+============================================
 
-Time = 20 min \
-Servings = 4 servings \
-From = Raechel Harnoto
-
-**Ingredients**
+Time
 ----
+20 min
+
+Ingredients
+-----------
+4 servings:
 - 4 portobello mushroom caps
 - 2 cups of arugula (or another lettuce type veggie if you don't like arugula)
 - 1 large heirloom tomato sliced
@@ -18,8 +19,8 @@ From = Raechel Harnoto
 - 1/2 cup mayo 
 - salt & pepper (to your taste)
 
-**Directions**
-----
+Directions
+----------
 1. Preheat a grill to 375F and lightly oil
 
 2. Mince 4 of the garlic cloves and mix with the balsamic vinegar, oregano and basil
@@ -33,3 +34,7 @@ From = Raechel Harnoto
 6. Mince the remaining cloves of garlic, mix with the mayo and season with salt and pepper to taste to make the aoli
 
 7. Once the mushroom caps are done, assemble the burgers. Spread the ciabatta buns with the garlic aoli and top with sliced tomato, mushroom cap and arugula.
+
+Notes
+-----
+- This recipes comes from Raechel Harnoto

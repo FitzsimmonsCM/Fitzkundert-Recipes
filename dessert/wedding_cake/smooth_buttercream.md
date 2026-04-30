@@ -1,3 +1,6 @@
+Smooth Buttercream
+==================
+
 Ingredients
 ===========
 - 1/2 cup (1 stick) (115g) salted butter, room temperature

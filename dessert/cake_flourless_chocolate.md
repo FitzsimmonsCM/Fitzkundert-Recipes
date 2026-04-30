@@ -5,8 +5,8 @@ Time = 15 min prep + 25 min bake + 2-3 hr rest
 Servings = 1 round 8-inch cake
 From: King Arthur Baking
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 *Cake*
 
@@ -25,8 +25,8 @@ From: King Arthur Baking
 chips or bittersweet chocolate chips
 1/2 cup (113g) heavy cream
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat the oven to 375°F. Lightly grease a metal 8" round cake pan; cut a piece of parchment to fit, grease it, and lay it in the bottom of the pan.
 

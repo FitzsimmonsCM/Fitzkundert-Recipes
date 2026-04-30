@@ -4,8 +4,8 @@ Time = 10 min prep + 25 min cook \
 Servings = 2-4 (depending upon size of package) \
 From = Lauren Hecht
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 package frozen or fresh mahi mahi
 - 3/4 cup unsalted macadamia nuts
 - 2 Tbsp coconut oil melted
@@ -14,8 +14,8 @@ From = Lauren Hecht
 - 1 Tbsp rice vinegar
 - 1 tsp coconut oil
 
-**Directions**
-----
+Directions
+----------
 1. Preheat oven to 375
 
 2. Salt and pepper mahi mahi in a baking dish

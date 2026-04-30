@@ -3,7 +3,8 @@ Pane Bianco
 Time = 30 min prep + 2 x 60 min rises + 35-40 min bake \
 Servings = 1 loaf of bread 
 
-**Dough Ingredients**
+Dough Ingredients
+-----------------
 
 - 360g King Arthur Unbleached Bread Flour
 - 2 tsp instant yeast
@@ -13,14 +14,16 @@ Servings = 1 loaf of bread
 - 74g water, lukewarm (or see notes section for *tangzhong technique*)
 - 35g olive oil
 
-**Filling Ingredients**
+Filling Ingredients
+-------------------
 
 - 85g shredded Italian-blend cheese, or the cheese of your choice
 - 113g oil-packed sun-dried tomatoes or your own oven-roasted tomatoes
 - 3 to 6 garlic cloves, peeled and minced
 - 14g chopped fresh basil, green or purple
 
-**Directions**
+Directions
+----------
 
 1. Combine all of the dough ingredients in a bowl (or stand mixer). Mix and knead — by hand, using a mixer, to make a smooth, very soft dough. The dough should stick a bit to the bottom of the bowl if you're using a stand mixer.
 
@@ -44,7 +47,8 @@ Servings = 1 loaf of bread
 
 11. Remove the bread from the oven, and transfer it to a wire rack to cool. Enjoy warm or at room temperature. Store, well-wrapped, at room temperature for a couple of days or freeze for longer storage.
 
-**Notes**
+Notes
+-----
 
 1. Recipe from King Arthur Flour [website](https://www.kingarthurbaking.com/recipes/pane-bianco-recipe)
 

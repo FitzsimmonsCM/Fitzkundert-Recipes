@@ -1,9 +1,11 @@
-**Enchiladas Rojo** \
+Enchiladas Rojo
+===============
 Time = 35 min \
 Servings = 2 people (3 enchiladas per person)\
 Calories = 880 kcal per serving
 
-**Ingredients**
+Ingredients
+-----------
 
 -   2 scallions, thin slice, separate whites from greens
 -   1 pepper (jalapeno or cubanella), de-seeded and diced
@@ -18,7 +20,8 @@ Calories = 880 kcal per serving
 -   1 Tbsp butter
 -   salt/pepper to your taste
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 450F.
 

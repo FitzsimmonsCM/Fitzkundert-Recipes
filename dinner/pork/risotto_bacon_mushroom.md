@@ -6,8 +6,8 @@ Servings = 2 hearty servings \
 From: HelloFresh
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 2 scallions, thin sliced, separate whites and greens
 - 2 cloves garlic, minced or pressed
@@ -24,8 +24,8 @@ From: HelloFresh
 - salt and pepper (to your taste)
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat oven to 425ºF with rack in top position. Boil 1.5 L of water and keep warm. 
 
@@ -41,8 +41,8 @@ From: HelloFresh
 
 7. Divide between bowls and garnish with scallion greens, chopped bacon, and remaining Parmesan. 
 
-**Notes**
-----
+Notes
+-----
 
 1. This tastes like the potato skin appetizer you might find at a bar. 
 

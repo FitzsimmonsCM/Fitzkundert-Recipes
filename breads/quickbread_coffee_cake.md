@@ -6,7 +6,8 @@ From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-**Cake Ingredients**
+Cake Ingredients
+----------------
 
 -  1.5 cup AP flour, sifted
 -  2.5 tsp baking powder
@@ -16,7 +17,8 @@ Original recipe = Wesson oil cookbook
 -  1/4 cup Wesson Oil
 -  3/4 cup milk, whole fat
 
-**Topping**
+Topping
+-------
 
 -  1 Tbsp flour
 -  1 tsp cinnamon
@@ -24,7 +26,8 @@ Original recipe = Wesson oil cookbook
 -  1/4 cup brown sugar, packed (light or dark ok)
 -  1/2 cup chopped nuts (such as walnuts or pecans)
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 375F.
 
@@ -36,6 +39,7 @@ Original recipe = Wesson oil cookbook
 
 5.  Bake 30-35 minutes. Serve hot or cold. 
 
-**Notes**
+Notes
+-----
 
 1. This recipe doubles well. Cake can be made ahead of time and stored in the freezer to reheat later. 

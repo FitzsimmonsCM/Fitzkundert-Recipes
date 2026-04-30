@@ -7,7 +7,8 @@ From: The Kichn
 Ingredients:
 ----
 
-**Salad**
+Salad
+-----
 
 - 1 cup couscous (normal or Israeli)
 - 1 can chickpeas, rinsed & drained
@@ -16,7 +17,8 @@ Ingredients:
 - 1/2 cup crumbled feta cheese
 - Optional, 2 tablespoons fresh parsley, chopped (o)
 
-**Dressing**
+Dressing
+--------
 - 1/4 cup extra virgin olive oil
 - 1/2 lemon, juiced
 - 2 Tbsp apple cider vinegar (can sub balsamic)

@@ -6,8 +6,8 @@ From: Alli Wong
 
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 3/4 cup quinoa, any color or variety
 - 8 cups (2 quarts) water, plus more as needed
 - 2 Tbsp olive oil
@@ -24,8 +24,8 @@ From: Alli Wong
 - 1 hard-boiled egg, peeled and finely chopped
 
 
-**Directions**
-----
+Directions
+----------
 1. Rinse the quinoa in a strainer under cold water until the water runs clear.
 
 2. Bring the quinoa and the 8 cups of water to a boil in a large saucepan over medium-high heat. Reduce the heat to medium low and simmer until the white outer casings on the quinoa have popped, revealing translucent little beads, about 10 to 15 minutes.
@@ -44,6 +44,6 @@ From: Alli Wong
 
 9. Taste and season with salt and pepper as needed. Top with the chopped egg and serve.
 
-**Notes**
-----
+Notes
+-----
 1. Website link [here](https://greatist.com/eat/quinoa-chowder-with-spinach-feta-and-scallions#1)

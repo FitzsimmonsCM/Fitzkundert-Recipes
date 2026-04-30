@@ -4,8 +4,8 @@ Time = 5 min prep + 10 min assembly \
 Servings = 4 wraps \
 From = [The Kitchn](https://www.thekitchn.com/recipe-mediterranean-chickpea-and-feta-wraps-228384)
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 (15-ounce) can garbanzo beans, drained and rinsed
 - 1/2 cup plain Greek yogurt
 - 1/4 cup crumbled feta cheese
@@ -19,8 +19,8 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-mediterranean-chickpea-and-
 - 1/2 medium English cucumber, cut into 1/4-inch-wide sticks
 - 1 cup roasted red peppers, thinly sliced
 
-**Directions**
-----
+Directions
+----------
 
 1. Place the beans in a medium bowl and smash with the back of a fork or potato masher until most of them are broken up. 
 
@@ -31,8 +31,8 @@ From = [The Kitchn](https://www.thekitchn.com/recipe-mediterranean-chickpea-and-
 4. Top the mixture with the spinach, cucumber sticks, and peppers. Tightly wrap each one like a burrito (see How To Wrap a Burrito). Serve
 
 
-**Notes**
-----
+Notes
+-----
 1. These can be made up to 1 day ahead and stored refrigerated in plastic wrap to avoid drying out. 
 
 2. They are a favorite recipes of friends with new babys (because they can be eaten cold and with 1 hand!)

@@ -1,8 +1,10 @@
-Slow Cooker BBQ Chicken Sandwiches \
+Slow Cooker BBQ Chicken Sandwiches
+==================================
 Time = 30 min prep + 7 hr cook \
 Servings = 8-10 sandwiches
 
-**Ingredients**
+Ingredients
+-----------
 - 2-3 pounds boneless, skinless chicken breasts
 - 1 cup barbecue sauce + more to garnish (I like Sweet Baby Ray's)
 - 1/3 cup Italian dressing (reduced-fat or fat-free okay)
@@ -15,7 +17,8 @@ Servings = 8-10 sandwiches
 - slaw (store bought or homemade)
 
 
-**Directions**
+Directions
+----------
 1. Place chicken in the slow cooker.
 
 2. In a medium bowl, whisk together the barbecue sauce, Italian dressing, sugar and Worcestershire sauce. Pour the sauce over the chicken. 

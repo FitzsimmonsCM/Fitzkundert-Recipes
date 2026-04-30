@@ -6,7 +6,8 @@ Ingredients
 - 2 russet potatoes (peeled)
 - 3 tbsp butter
 
-**Spice Ideas**
+Spice Ideas
+-----------
 - salt
 - pepper
 - red pepper flakes

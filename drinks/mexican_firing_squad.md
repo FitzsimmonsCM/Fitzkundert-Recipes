@@ -1,3 +1,6 @@
+Mexican Firing Squad
+====================
+
 Ingredients
 ===========
 - 2 ounces (52 g) blanco tequila

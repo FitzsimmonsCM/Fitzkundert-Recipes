@@ -7,7 +7,8 @@ From = Caterina Gasparini \
 Author's Note: Panzanella is one of the starring recipes on the table in Summer. Use stale bread and garden vegetables for a simple dish. Panzanella is a cold dish, no cooking required. The stale Tuscan bread is soaked in water and white wine vinegar, which gives panzanella an intense and characteristic flavor. Tomatoes and red onions are a must, to which cucumbers can be added depending on the area and what is available. 
 
 
-**Ingredients**
+Ingredients
+-----------
 
 - 350 g stale Tuscan bread 
 - 220 g ripe cluster tomatoes
@@ -20,8 +21,8 @@ Author's Note: Panzanella is one of the starring recipes on the table in Summer.
 - fine salt and black pepper, to your taste 
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Cut the bread into coarse cubes 
 

@@ -6,8 +6,8 @@ Calories = 850  \
 From: HelloFresh \
 Notes: We love this!
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 cubanella pepper, deseeded and diced (can substitute 1-2 jalapenos or 1 medium poblano for a bit more spice)
 - 2 scallions, thin slice, separate whites and greens
 - 12 oz yukon gold potatoes, quartered
@@ -23,8 +23,8 @@ Notes: We love this!
 - 2 Tbsp sour cream (to garnish)
 - rolls or thick sliced bread (to garnish)
 
-**Directions**
-----
+Directions
+----------
 1. Melt 2 Tbsp butter in pot over medium heat. Add green pepper and scallion whites. Cook 2-3 min and season with salt and pepper. 
 
 2. Add flour to pot. Cook, stirring, until lightly brown. Approx 1 min. 

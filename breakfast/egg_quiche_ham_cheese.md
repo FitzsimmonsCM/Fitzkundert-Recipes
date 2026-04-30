@@ -4,7 +4,8 @@ Time = 20 min prep + 35 min cook \
 Servings = 1 quiche (approx 6 servings each) \
 From = Cheryl Fitzsimmons
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1 sheets of refrigerated pie crust (or frozen pie crust)
 - 1 cups ham, fully cooked and diced (look for "ham steak" or similar. You can substitute = 6-8 pieces fully cooked bacon, diced.) 
@@ -15,7 +16,8 @@ From = Cheryl Fitzsimmons
 - 1/4 tsp salt
 - 1/8 tsp pepper
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 350F. Unroll pie crusts into 1 x 9-inch pie plates. Flute edges. If using frozen pie crust, follow instructions on the package. 
 
@@ -27,7 +29,8 @@ From = Cheryl Fitzsimmons
 
 5. Let stand 5-10 minutes before cutting and serving. 
 
-**Notes**
+Notes
+-----
 
 1. To store, tightly cover the dish, or transfer leftover slices to an airtight container. Quiche may be stored refrigerated for up to 4 days, but is best enjoyed within 1-2 days. 
 

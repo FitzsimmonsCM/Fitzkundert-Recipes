@@ -7,7 +7,8 @@ From: [Half-Baked Harvest](https://www.halfbakedharvest.com/blueberry-vanilla-gr
 Ingredients:
 ----
 
-**Bars**
+Bars
+----
 - 2 cups rolled oats
 - 1.5 cups brown rice krispies
 - 1/4 cup shredded unsweetened coconut (can omit if desired)
@@ -19,7 +20,8 @@ Ingredients:
 - 1.5 tsp vanilla extract
 - 1 cup dried blueberries (can sub dried strawberries)
 
-**Greek Yogurt Coating**
+Greek Yogurt Coating
+--------------------
 
 - 1 Tbsp water
 - 1 tsp vanilla extract
@@ -29,7 +31,8 @@ Ingredients:
 - pinch of salt
 - 2 cups powdered sugar
 
-**Other materials**
+Other materials
+---------------
 
 - parchment paper
 - wire cooling racks

@@ -1,3 +1,6 @@
+Piña Colada
+===========
+
 Ingredients
 1 ½ cups frozen pineapple
 1 ½ cups ice

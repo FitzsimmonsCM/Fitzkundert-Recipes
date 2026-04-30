@@ -5,8 +5,8 @@ Time = 5 min prep + 4-8 hr cook \
 Servings = 4-6 servings \
 From = Cheryl Fitzsimmons
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 6 cups water
 - 16 oz (1 package) dried split peas, rinsed and sorted
@@ -23,8 +23,8 @@ From = Cheryl Fitzsimmons
 - optional: shredded cheese (garnish)
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Combine all ingredients in slow cooker
 

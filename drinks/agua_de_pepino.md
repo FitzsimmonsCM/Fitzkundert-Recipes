@@ -5,8 +5,8 @@ Time = 10 min prep \
 Servings = 6-8 servings \
 Keeps 2-3 days refrigerated
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 2 large cucumbers + extra slices for garnish
 - 1/2 cup white sugar
@@ -15,8 +15,8 @@ Keeps 2-3 days refrigerated
 - ice 
 - optional- mint leaves (garnish)
 
-**Directions**
-----
+Directions
+----------
 
 1. Wash cucumbers and remove butt ends. 
 

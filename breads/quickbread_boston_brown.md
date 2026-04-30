@@ -4,7 +4,8 @@ Time = 20 min prep + 45 min cook \
 Servings = 3 small loaves \
 From: Cheryl Fitzsimmons
 
-**Ingredients**
+Ingredients
+-----------
 
 - Cooking spray
 - 120g rye flour
@@ -17,7 +18,8 @@ From: Cheryl Fitzsimmons
 - Cream cheese to serve on the side
 
 
-**Directions**
+Directions
+----------
 
 1. Coat three 15-ounce cans (about 4 inches tall and 2 3/4 inches wide) with cooking spray and place a round piece of parchment paper in the bottom of each can. Place a trivet or steamer insert into the bottom of a tall stockpot, fill with water to reach 1 1/2 inches above the trivet. Cover with a tight-fitting lid and bring to a simmer over medium-high.
 

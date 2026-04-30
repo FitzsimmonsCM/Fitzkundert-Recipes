@@ -5,7 +5,8 @@ Servings = 2 servings \
 Calories = 930 \
 From = HelloFresh
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1 shallot, diced
 - 2 cloves garlic, minced
@@ -21,7 +22,8 @@ From = HelloFresh
 - skillet
 - kettle or medium pot of simmering water
 
-**Directions**
+Directions
+----------
 
 1. Bring pot of water (at least 6 cups) to a boil and then reduce to simmer and keep on the side. If using a faster electric kettle, water can be boiled during step 4. 
 
@@ -35,7 +37,8 @@ From = HelloFresh
 
 6. Divide between bowls. Garnish with remaining Parmesan, and lemon zest. Serve with lemon wedge. 
 
-**Notes**
+Notes
+-----
 
 - Recipe doubles well if you need to serve more people.
   

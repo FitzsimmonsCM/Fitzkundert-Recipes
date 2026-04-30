@@ -1,3 +1,6 @@
+Coffee Cake
+===========
+
 Notes
 =====
 I haven't actually tried used this recipe before.  I also took the batter and 

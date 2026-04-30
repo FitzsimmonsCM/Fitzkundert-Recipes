@@ -5,8 +5,8 @@ Servings = 4 servings\
 From = [NYT Cooking](https://cooking.nytimes.com/recipes/1019681-cheesy-white-bean-tomato-bake)
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1/4 cup extra virgin olive oil
 - 3 large cloves garlic, thin sliced
 - 3 Tbsp tomato paste (ok to add 1 Tbsp more)
@@ -15,8 +15,8 @@ From = [NYT Cooking](https://cooking.nytimes.com/recipes/1019681-cheesy-white-be
 - 1/3 lb mozzarella cheese, coarsely grated (approx 1.3 cups)
 - salt and pepper, to your taste
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat oven to 475ºF
 

@@ -6,7 +6,8 @@ Servings = 4-6 people \
 From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-lentil-soup-with-sausage-and-apples) 
 
 
-**Ingredients**
+Ingredients
+-----------
 
 -  2 Tbsp unsalted butter
 -  1 large yellow onion, fine chop
@@ -25,7 +26,8 @@ From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-len
 -  kosher salt and black pepper (to your taste)
 
 
-**Directions**
+Directions
+----------
 
 1.  Melt the butter in a large (12-inch) skillet over medium-high heat. Add the onion, season with salt, and cook, stirring, until the onion is translucent, about 5 minutes. 
 
@@ -42,7 +44,8 @@ From = [NYT Cooking](https://cooking.nytimes.com/recipes/1021680-slow-cooker-len
 7.  Serve in bowls topped with scallions and remaining chopped apples. 
 
 
-**Notes**
+Notes
+-----
 
 1.  Watch the liquid as the lentils cook. You may need to top this up with 2-3 cups of water or stock to ensure they remain covered. 
 

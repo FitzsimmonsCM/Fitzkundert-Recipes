@@ -4,7 +4,8 @@ Time = 10 min prep + 40 min cook \
 Servings = about 7-8 \
 From: Cheryl Fitzsimmons
 
-**Ingredients**
+Ingredients
+-----------
 
 - 2 cups all natural oats
 - 1/3 cup brown sugar
@@ -20,7 +21,8 @@ From: Cheryl Fitzsimmons
 - 2 Tbsp butter (cooled)
 - 1 tsp vanilla
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 375 degrees.
 

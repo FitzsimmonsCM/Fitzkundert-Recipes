@@ -1,17 +1,20 @@
-Peach Cobble Cheesecake \
+Peach Cobble Cheesecake
+=======================
 Time = 45 min active + 12 hr total \
 Servings = about 12 slices \ 
 From = [Southern Living](https://www.southernliving.com/recipes/peach-cobbler-cheesecake)
 
 
-**Crust Ingredients**
+Crust Ingredients
+-----------------
 
 - Cooking spray
 - 2 cups graham cracker crumbs (from 1 [13 1/2-oz.] pkg. crumbs)
 - 6 Tbsp. salted butter, melted
 - 3 Tbsp. granulated sugar
 
-**Cheesecake Filling**
+Cheesecake Filling
+------------------
 
 - 3 (8-oz.) pkg. cream cheese, at room temperature
 - 1 cup granulated sugar
@@ -20,7 +23,8 @@ From = [Southern Living](https://www.southernliving.com/recipes/peach-cobbler-ch
 - 3 large eggs, at room temperature
 - 1 cup chopped peeled peaches (from 2 small peaches)
 
-**Cheesecake Topping**
+Cheesecake Topping
+------------------
 
 - 2 cups sliced peeled peaches (from 4 small peaches)
 - 3 Tbsp. light brown sugar
@@ -29,14 +33,16 @@ From = [Southern Living](https://www.southernliving.com/recipes/peach-cobbler-ch
 - 2 tsp. cornstarch
 - 1 tsp. ground cinnamon
 
-**Crumble Ingredients**
+Crumble Ingredients
+-------------------
 
 - 1/4 cup all-purpose flour
 - 1 Tbsp. granulated sugar
 - 1 Tbsp. light brown sugar
 - 2 Tbsp. cold salted butter, cubed
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 350°F. Coat a 9-inch springform pan with cooking spray.
 

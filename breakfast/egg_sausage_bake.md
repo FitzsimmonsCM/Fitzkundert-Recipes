@@ -4,7 +4,8 @@ Time = 10 min prep + overnight + 45 min cook \
 Servings = 6-8 people \
 From: Kevin and Jill
 
-**Ingredients**
+Ingredients
+-----------
 
 -   8 eggs, beaten
 -   2 cups milk
@@ -16,7 +17,8 @@ From: Kevin and Jill
 -   salt and pepper (to your taste)
 -   9 x 13 inch baking dish
 
-**Directions--the night before**
+Directions--the night before
+----------------------------
 
 1.  Brown sausage
 
@@ -26,7 +28,8 @@ From: Kevin and Jill
 
 4.  Cover with saran wrap and let stand overnight in the fridge.
 
-**Directions--in the morning**
+Directions--in the morning
+--------------------------
 
 5.  Preheat oven to 350F
 

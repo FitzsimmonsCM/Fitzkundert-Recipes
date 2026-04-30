@@ -1,3 +1,6 @@
+Kouign-Amann
+============
+
 Ingredients
 ===========
 - 300g (10½ oz) strong plain flour, plus extra for dusting

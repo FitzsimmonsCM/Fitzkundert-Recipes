@@ -4,7 +4,8 @@ Time = 15 min prep + 60 min bake
 Servings = 4 servings
 
 
-**Ingredients**
+Ingredients
+-----------
 
 *For the Chicken* \
 - 3-4 boneless, skinless chicken breasts
@@ -21,7 +22,8 @@ Servings = 4 servings
 - 1 Tbsp low sodium soy sauce
 - 1 tsp garlic salt
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven to 325 degrees.
 

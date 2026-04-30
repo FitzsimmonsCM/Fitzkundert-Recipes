@@ -4,7 +4,8 @@ Time = 10 min prep + 20-30 min cook \
 Servings = 4-6 \
 From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583) 
 
-**Ingredients**
+Ingredients
+-----------
 - 1 (28-ounce) can whole peeled tomatoes
 - 2 tablespoons olive oil
 - 1 small yellow onion, finely chopped
@@ -18,7 +19,8 @@ From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583)
 - 2 ounces feta cheese, crumbled
 - Optional: crusty bread or pita (for serving)
 
-**Directions**
+Directions
+----------
 
 1. Crush the tomatoes. Pour the tomatoes and their juices into a large bowl. Carefully crush with your hands into bite-sized pieces; set aside.
 
@@ -34,7 +36,8 @@ From: [The Kitchn](https://www.thekitchn.com/shakshuka-22925583)
 
 7. Finish with cilantro and cheese. Remove from the heat. Sprinkle with the cilantro and feta, if using, and serve with bread or pita if desired.
 
-**Notes**
+Notes
+-----
 
 - The perfect egg consistency is set whites and runny yolks. As soon as whites are set and eggs jiggle a bit in the center, they are done. 
 

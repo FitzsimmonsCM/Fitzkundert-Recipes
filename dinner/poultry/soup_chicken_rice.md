@@ -5,8 +5,8 @@ Time = 5 min prep + 4-7 hr cook \
 Servings = 4-6 servings \
 From = Cheryl Fitzsimmons
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 3, 14 oz cans chicken broth
 - 1lb boneless sinless chicken breast or thights, cut into 1 inch pieces
@@ -20,8 +20,8 @@ From = Cheryl Fitzsimmons
 - optional: fresh italian parsley (garnish)
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Combine all ingredients except vinegar in slow cooker
 

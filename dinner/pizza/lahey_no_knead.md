@@ -1,3 +1,6 @@
+Lahey No-Knead Pizza
+====================
+
 Ingredients
 ===========
 - 500 g (17½ oz or about 3¾ cups) all-purpose flour

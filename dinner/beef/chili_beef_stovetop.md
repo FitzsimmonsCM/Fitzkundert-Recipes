@@ -4,8 +4,8 @@ Time = 15 min prep and 2.5 hr (or longer) cook\
 Servings = feeds an army (approx 8-12 people)\
 From = Kevin McCusker
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 2 medium yellow onions, diced
 - 2-3 cloves garlic, minced
 - 2 lbs ground beef (90/10 lean) (can sub tofu to make this chili vegetarian)
@@ -24,8 +24,8 @@ From = Kevin McCusker
 - your favorite corn bread (to garnish)
 - olive oil
 
-**Spices**
-----
+Spices
+------
 - salt and pepper, to your taste
 - 1/2 tsp cayenne pepper
 - 1 Tbsp chili powder
@@ -34,8 +34,8 @@ From = Kevin McCusker
 - dash onion powder
 - dash oregano
 
-**Directions**
-----
+Directions
+----------
 1. If using dried beans, rehydrate overnight. If using canned beans, drain and rinse. Set aside. 
 
 2. Dice onions and garlic. Set aside in 1 pile. Dice carrots, celery, peppers. Set aside in a second pile. 

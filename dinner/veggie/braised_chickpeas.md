@@ -5,8 +5,8 @@ Servings = 4 to 6 servings\
 From = [Smitten Kitchen](https://smittenkitchen.com/2020/09/tangy-braised-chickpeas/) 
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 4 Tbsps olive oil
 - 1 medium yellow onion, thin sliced
 - 4 cloves garlic, thin sliced
@@ -25,8 +25,8 @@ From = [Smitten Kitchen](https://smittenkitchen.com/2020/09/tangy-braised-chickp
 - Dutch oven
 - If you don't have dutch oven, use a saute pan and then transfer to 9 x 13 baking dish
 
-**Directions**
-----
+Directions
+----------
 1. Preheat oven to 350F
 
 2. Heat 4 tablespoons olive oil over medium heat and add onion; cook 3 minutes, until softened. 

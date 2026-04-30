@@ -4,7 +4,8 @@ Time = 5 min prep + 10 min cook \
 Servings =  1 large jar (approx 3-4 cups) \
 From = Alexis-Clair Roehrich
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1 13.5-ounce can of full-fat, unsweetened coconut milk
 - 2 ounces (approx 1/4 cup) of Thai red (Mom’s preference) or Massaman curry paste (milder but still flavorful)
@@ -15,7 +16,8 @@ From = Alexis-Clair Roehrich
 - 1/2 cup water
 
 
-**Directions**
+Directions
+----------
 
 1. Put everything into a medium heavy-bottomed pot and bring to a very gentle boil over medium heat, whisking constantly.
 
@@ -24,7 +26,8 @@ From = Alexis-Clair Roehrich
 3. Take the pot off the heat, let the sauce cool down to room temperature (or slightly warmer), and serve the sauce with satay or fried tofu.
 
 
-**Notes**
+Notes
+-----
 
 1. This peanut sauce keeps in a glass container in the refrigerator for weeks. Refrigerated sauce will thicken up considerably. All you have to do is thin it out with a little bit of water to desired consistency, reheat, and serve. The sauce also freezes beautifully. 
 

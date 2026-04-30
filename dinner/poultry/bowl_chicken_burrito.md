@@ -6,7 +6,8 @@ Calories = 371 \
 From: lifemadesweeter.com \
 Notes: Low carb and whole30 friendly
 
-**Seasoning Ingredients**
+Seasoning Ingredients
+---------------------
 
 -  2 tsp chili powder
 -  1 tsp cumin
@@ -16,7 +17,8 @@ Notes: Low carb and whole30 friendly
 -  1/2 tsp salt (plus more to taste)
 -  1/4 tsp pepper (plus more to taste)
 
-**Bowl Ingredients**
+Bowl Ingredients
+----------------
 
 -  1 Tbsp olive oil
 -  1/4 cup fresh cilantro, chopped
@@ -28,13 +30,15 @@ Notes: Low carb and whole30 friendly
 -  3 Tbsp avocado oil, divided
 -  1 head cauliflower, riced
 
-**To garnish**
+To garnish
+----------
 
 -  lime wedges
 -  sliced avocado (1/2 per person)
 -  scallions, separate greens from whites, diced. 
 
-**Directions**
+Directions
+----------
 
 1.  Wash and fully dry cauliflower. Chop into large pieces, discarding leaves. Pulse in food processor until it has the texture of rice, working in batches if necessary. Do NOT over process, or it will turn to mush. 
 

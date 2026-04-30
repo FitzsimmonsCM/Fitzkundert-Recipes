@@ -1,8 +1,10 @@
-Lentil Stew \
+Lentil Stew
+===========
 Time = 15 min prep + 45 min cook \
 Servings = 4 servings 
 
-**Basic Ingredients**
+Basic Ingredients
+-----------------
 
 -  1 Tbsp olive oil
 -  1 medium yellow or white onion, finely chopped
@@ -21,7 +23,8 @@ Servings = 4 servings
 -  optional: parmesan cheese for garnish
 
 
-**Directions**
+Directions
+----------
 
 1. In a large pot heat olive oil until it shimmers. Add onion and cook until it is translucent, about 5 minutes. Add celery and carrots and cook until they begin to soften, another 5 minutes.
 
@@ -34,7 +37,8 @@ Servings = 4 servings
 5. Ladle into bowls and add garnish, if using. Serve immediately. Makes enough for 4 people.
 
 
-**Notes**
+Notes
+-----
 1.  This recipe is very forgiving on the exact amounts of things. You don't have celery? Add more carrot or potato, etc. 
 
 2.  Green lentils hold up to cooking better than red lentils, but both can work in this recipe. 

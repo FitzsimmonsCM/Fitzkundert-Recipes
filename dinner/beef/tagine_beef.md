@@ -4,7 +4,8 @@ Time = 30 min \
 Servings = approx 2 servings \
 From: BlueApron 
 
-**Ingredients**
+Ingredients
+-----------
 - 10 oz ground beef (90/10 or 85/15)
 - 4 dates, chopped
 - 4 prunes, chopped
@@ -20,7 +21,8 @@ From: BlueApron
 - 1 Tbsp honey
 - salt and pepper to taste
 
-**Directions**
+Directions
+----------
 
 1. Cook couscous (regular or Israeli) according to package instructions. Drain excess water if necessary, fluff with fork and set aside. 
 
@@ -36,7 +38,8 @@ From: BlueApron
 
 7. Divide couscous between bowls, and top with beef stew. Garnish with almonds and serve. 
 
-**Notes**
+Notes
+-----
 
 1. Regular couscous makes this a more bowl-like dish, while the slightly larger size of Israeli couscous makes it eat more like a stew.
 

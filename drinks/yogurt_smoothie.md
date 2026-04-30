@@ -1,3 +1,6 @@
+Yogurt Smoothie
+===============
+
 Ingredients
 ===========
 - 115 g (1/2 cup) Greek yogurt

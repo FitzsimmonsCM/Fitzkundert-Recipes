@@ -4,7 +4,8 @@ Time = 15 min\
 Servings = 2\
 Calories = 750 kcal per serving
 
-**Ingredients**
+Ingredients
+-----------
 
 -   1 shallot
 -   1 apple
@@ -20,7 +21,8 @@ Calories = 750 kcal per serving
 -   salt/pepper to your taste
 -   olive oil
 
-**Directions**
+Directions
+----------
 
 1. Wash and dry produce.
    

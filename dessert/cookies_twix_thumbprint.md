@@ -5,8 +5,8 @@ Time = 15 min prep + 10 min bake + 1 hr rest \
 Servings = approx 24 cookies \
 From: Cookies for Days
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 1 cup (222g) salted butter, softened
 - 1 1/4 cup (137g) powdered sugar
@@ -19,8 +19,8 @@ From: Cookies for Days
 - 1 tbsp milk
 - 1/2 cup milk chocolate melting wafers (can also use melted chocolate chips)
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat the oven to 350° F (180°C). Line a cookie sheet with parchment paper or a silicone baking mat. Set aside.
 
@@ -43,6 +43,6 @@ From: Cookies for Days
 10. Once chocolate has set, enjoy! Cookies can store at room temperature or in the fridge for up to 4 days.
 
 
-**Notes**
-----
+Notes
+-----
 - [Website Link](https://cookiesfordays.com/wprm_print/twix-thumbprint-cookies)

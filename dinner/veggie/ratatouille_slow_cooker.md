@@ -1,10 +1,12 @@
-**Slow Cooker Ratatouille** \
+Slow Cooker Ratatouille
+=======================
 Time = 10 min prep + 50 min cook \
 Servings = 6-8 \
 Calories = unknown \
 From = [The Perfect Pantry](https://www.theperfectpantry.com/2011/09/slow-cooker-ratatouille-recipe.html) 
 
-**Ingredients**
+Ingredients
+-----------
 
 - 1/4 cup olive oil
 - 2 red onions, chopped
@@ -22,7 +24,8 @@ From = [The Perfect Pantry](https://www.theperfectpantry.com/2011/09/slow-cooker
 - 2 Tbsp cornstarch
 - 6 qt slow cooker
 
-**Directions**
+Directions
+----------
 
 1. In large saute pan, add onions, potatoes and garlic. Cook, stirring occasionally for 3-4 min until onions just begin to get translucent. Add to slow cooker. 
 
@@ -35,7 +38,8 @@ From = [The Perfect Pantry](https://www.theperfectpantry.com/2011/09/slow-cooker
 5. Serve hot or at room temperature
 
 
-**Notes**
+Notes
+-----
 - This recipe is very forgiving with regards to amount of ingredients or substitutions. 
 - Serving suggestions
     - as a pasta sauce

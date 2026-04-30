@@ -6,8 +6,8 @@ Servings = 6-8 \
 From: Aunt Gerry and Uncle Dan \
 Notes: Wedding reception recipe book
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  1/2 lb ground pork
 -  1/2 lb ground beef
 -  1/2 lb ground veal (can sub with equal amounts pork and beef to omit veal)
@@ -25,8 +25,8 @@ Notes: Wedding reception recipe book
 -  1/2 tsp italian seasoning
 -  handful of fresh basil, minced (to garnish)
 
-**Directions**
-----
+Directions
+----------
 1.  Preheat oven to 400F. 
 
 2.  In a small bowl, mix bread crumbs and milk. Set aside. 

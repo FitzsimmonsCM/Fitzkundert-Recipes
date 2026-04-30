@@ -6,7 +6,8 @@ From = Grandma Koch \
 Original recipe = Wesson oil cookbook
 
 
-**Cake Ingredients**
+Cake Ingredients
+----------------
 
 -  1 cup AP flour, sifted
 -  1.5 tsp baking powder
@@ -18,7 +19,8 @@ Original recipe = Wesson oil cookbook
 -  1 Tbsp lemon juice
 -  1 cup blueberries (fresh or thawed frozen)
 
-**Streusel Ingredients**
+Streusel Ingredients
+--------------------
 
 -  1/3 cup white sugar
 -  1/4 cup flour
@@ -26,7 +28,8 @@ Original recipe = Wesson oil cookbook
 -  1/4 tsp cinnamon
 -  2 Tbsp Wesson oil
 
-**Directions**
+Directions
+----------
 
 1.  Preheat oven to 375F
 

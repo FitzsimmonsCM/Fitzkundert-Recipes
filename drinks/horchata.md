@@ -1,3 +1,6 @@
+Horchata
+========
+
 Reagents:
   1 cup white rice
   5 cups water

@@ -5,8 +5,8 @@ Time = 10 min prep + 30 min cook \
 Servings = 4-6 servings \
 From = [Smitten Kitchen](https://smittenkitchen.com/2024/01/french-onion-baked-lentils-and-farro/)
 
-**Ingredients**
-----
+Ingredients
+-----------
 
 - 2 pounds (910 grams) yellow onions (4 large or 5 medium), sliced
 - 2 Tbsp (30 grams) unsalted butter
@@ -20,8 +20,8 @@ From = [Smitten Kitchen](https://smittenkitchen.com/2024/01/french-onion-baked-l
 - 6 cups (1.4 liters) vegetable broth + splashes more, if needed
 - 2 cups (8 ounces or 225 grams) coarsely grated gruyere cheese
 
-**Directions**
-----
+Directions
+----------
 
 1. Caramelize your onions: Heat butter and olive oil in a large, deep saute pan, ideally one that’s ovenproof, over medium heat. Add the onions, toss to coat them in butter and oil and cover the pot. 
 
@@ -40,8 +40,8 @@ From = [Smitten Kitchen](https://smittenkitchen.com/2024/01/french-onion-baked-l
 8. To finish: Sprinkle the dish with gruyere and broil until browned on top.
 
 
-**Notes**
-----
+Notes
+-----
 Do ahead: The dish keeps fantastically in the fridge for 4 to 5 days; rewarm in a 350-degree oven. You can also prepare the lentil and farro base a few days early, rewarm it (it will likely need more broth at this point), and broil the cheese on top right before serving.
 
 Becca says this works equally well without the cheese on top, as simply a farro dish. 

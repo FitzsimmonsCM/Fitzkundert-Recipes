@@ -5,8 +5,8 @@ Time = 5 min prep, 30 min cook \
 Servings = 4-6 \
 From = Ken Kundert
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 pound lean ground beef
 - 1/2 red bell pepper chopped
 - 2 (10 fluid ounce) cans Ro-tel diced tomatoes & green chilies with juices
@@ -22,8 +22,8 @@ From = Ken Kundert
 - Salt & pepper to taste
 - Toppings (optional) grated cheddar, avocado, cilantro, tortilla strips, green chili sauce, etc.
 
-**Directions**
-----
+Directions
+----------
 1. Take the cream cheese out of the fridge an hour or more prior to starting the recipe to let it soften up, or microwave it for 20-30 seconds to soften.
 
 2. Add the ground beef to a large soup pot over medium-high heat. Brown the beef, and if there's excess fat, spoon most of it out.
@@ -34,8 +34,8 @@ From = Ken Kundert
 
 5. Cut the cream cheese into smaller pieces and add it to the soup. Let it melt in (you may have to stir it a fair bit until it's fully dissolved).  Season the soup with salt & pepper and serve with toppings as desired.
 
-**Notes**
-----
+Notes
+-----
 - You can use beef broth instead of chicken broth if you don't mind the soup being a darker color. If you have any concerns with salt, use low-salt broth.
 
 - If you want to make this soup spicy, add 1/2 teaspoon of cayenne pepper.

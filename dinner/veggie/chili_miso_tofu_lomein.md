@@ -5,8 +5,8 @@ Time = 15 min prep + 20 min cook \
 Servings = 2 hearty servings \
 From: Hello Fresh
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 1 medium cucumber, peeled and cut into quarter moons
 - 4 oz edamame, shelled and rinsed
 - 4 oz miso ginger dressing
@@ -20,8 +20,8 @@ From: Hello Fresh
 - crispy fried onions, to garnish
 - salt and pepper, to your taste
 
-**Directions**
-----
+Directions
+----------
 
 1. Remove tofu from package and wrap with paper towel. Press beneath heavy pot or skillet for 10-15 min to remove excess water. 
 

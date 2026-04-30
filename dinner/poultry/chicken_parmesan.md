@@ -1,3 +1,6 @@
+Chicken Parmesan
+================
+
 Ingredients
 ===========
 - 2 boneless, skinless chicken breasts

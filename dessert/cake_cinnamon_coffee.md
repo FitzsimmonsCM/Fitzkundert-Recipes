@@ -6,8 +6,8 @@ Servings = One 9" x 13"" cake or two 9-inch round cakes \
 From = [King Arthur Flour](https://www.kingarthurbaking.com/recipes/cinnamon-streusel-coffee-cake-recipe)
 
 
-**Topping Ingredients**
-----
+Topping Ingredients
+-------------------
 
 - 198g granulated sugar
 - 1/4 tsp salt (if you use unsalted butter)
@@ -16,15 +16,15 @@ From = [King Arthur Flour](https://www.kingarthurbaking.com/recipes/cinnamon-str
 - 6 Tbsp (85g) unsalted butter, melted
 
 
-**Filling Ingredients**
-----
+Filling Ingredients
+-------------------
 
 - 213g brown sugar, packed (either light or dark)
 - 1.5 Tbsp cinnamon
 - 1 tsp unsweetened cocoa (either Dutch-processed or natural)
 
-**Cake Ingredients**
-----
+Cake Ingredients
+----------------
 
 - 12 Tbsp (170g) unsalted butter, at room temp
 - 1 tsp salt (1.25 tsp if using unsalted butter)
@@ -38,8 +38,8 @@ From = [King Arthur Flour](https://www.kingarthurbaking.com/recipes/cinnamon-str
 - 450g King Arthur Unbleached AP Flour
 
 
-**Directions**
-----
+Directions
+----------
 1.  Preheat oven to 350ºF. Lightly great 9 x 13 or 9 x 9 cake pans. 
 
 2. To make the topping: Whisk together sugar, salt, flour and cinnamon. Add melted butter, stirring until well combined. Set aside. 
@@ -68,8 +68,8 @@ From = [King Arthur Flour](https://www.kingarthurbaking.com/recipes/cinnamon-str
 14. Store leftover cake well wrapped at room temperature for 2-3 days. Freeze for longer storage. 
 
 
-**Notes**
-----
+Notes
+-----
 
 1. To make a glaze, combine 57g confectioner's sugar and 1 Tbsp milk. Drizzle over the cooled coffee cake. 
 

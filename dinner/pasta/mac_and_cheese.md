@@ -1,13 +1,14 @@
-**Alex's Mac and Cheese Bake** 
-====
+Mac and Cheese Bake
+===================
 
-Time = 15 min prep + 1 hour bake \
-Servings = 4-6 people \
-From: Alex Mitchell \
-Notes: Wedding reception recipe book
+Time
+----
+- Preparation: 15 min
+- Baking: 1 hour
 
-**Ingredients**
-
+Ingredients
+-----------
+4-6 servings:
 -  4 cups dried elbow pasta
 -  1 lb cheddar cheese, shredded
 -  1/2 lb jack cheese, shredded
@@ -15,8 +16,8 @@ Notes: Wedding reception recipe book
 -  1 cup break crumbs, toasted
 -  1/4 cup (half stick) butter
 
-**Directions**
-
+Directions
+----------
 1.  Preheat oven to 350F
 
 2.  Cook pasta according to package until al dente. Drain. 
@@ -26,3 +27,7 @@ Notes: Wedding reception recipe book
 4.  Pour in milk until it is visible when the pan is tilted (will need less in a larger pan)
 
 5.  Top with browned bread crumbs. Bake uncovered 45-60 min (longer bake = better set). Allow to cool 5 min before serving. 
+
+Notes
+-----
+- Wedding reception recipe from Alex Mitchell.

@@ -1,3 +1,6 @@
+Sausage and Polenta
+===================
+
 Ingredients
 ===========
 Polenta:

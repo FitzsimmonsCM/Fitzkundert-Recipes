@@ -6,8 +6,8 @@ Servings = Approx 8 burritos \
 From: [Jenn Eats Good](https://jenneatsgoood.com/black-bean-cheddar-breakfast-burritos/) and [Smitten Kitchen](https://smittenkitchen.com/2018/09/breakfast-burritos/)
 
 
-**Ingredients**
-----
+Ingredients
+-----------
 - 2 Tbsp olive oil
 - 1 tsp kosher salt
 - 1 tsp chili powder
@@ -28,8 +28,8 @@ From: [Jenn Eats Good](https://jenneatsgoood.com/black-bean-cheddar-breakfast-bu
 - To Garnish: hot sauce, avocado or guacamole, sour cream
 
 
-**Directions**
-----
+Directions
+----------
 
 1. Preheat oven to 400F. 
 
@@ -46,8 +46,8 @@ From: [Jenn Eats Good](https://jenneatsgoood.com/black-bean-cheddar-breakfast-bu
 7. Roll the burrito tightly by folding the sides over the filling then rolling from the bottom up. Wrap in foil the same way; folding the foil first over the ends of the burrito (ideally forming a “cup” at each end to catch drips). Burrito can be eaten immediately or frozen for up to 1 month. 
 
 
-**Notes**
-----
+Notes
+-----
 
 1. The base recipe is vegetarian (eggs, beans, potatoes) but bacon or crumbled breakfast sausage can be added. 
 

@@ -1,3 +1,6 @@
+Monster Cookies
+===============
+
 Ingredients
 ===========
 - 1½ cups creamy or chunky peanut butter

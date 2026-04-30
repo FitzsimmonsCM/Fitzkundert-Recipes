@@ -1,8 +1,10 @@
-Brownie Rollout Cookies \
+Brownie Rollout Cookies
+=======================
 Yield = Approx 48 cookies \ 
 From = Smitten Kitchen
 
-**Ingredients**
+Ingredients
+-----------
 
 - 3 cups (375 grams) all-purpose flour
 - 1/2 tsp (3 grams) salt
@@ -15,7 +17,8 @@ From = Smitten Kitchen
 - Optional--powdered sugar for glaze
 
 
-**Directions**
+Directions
+----------
 
 1. Preheat oven at 350 ºF.
 

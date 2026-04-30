@@ -5,8 +5,8 @@ Servings = 1 pan of brownies\
 From: Michelle and Leslie\
 Notes: Wedding reception recipe
 
-**Ingredients**
-----
+Ingredients
+-----------
 -  1 stick (1/2 cup) unsalted butter
 -  2 cups light brown sugar
 -  2 eggs
@@ -16,8 +16,8 @@ Notes: Wedding reception recipe
 -  1 tsp salt
 
 
-**Directions**
-----
+Directions
+----------
 1.  Preheat oven to 350F
 
 2.  Melt 1 stick (1/2 cup) butter in saucepan and stir in 2 cups brown sugar
